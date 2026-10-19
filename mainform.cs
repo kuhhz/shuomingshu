@@ -1183,6 +1183,8 @@ namespace ErrorProofing
             {
                 RunLog($"【异常】型号 {modelCode} 未配置物料");
             }
+            //弹箱播报：弹出哪个型号播报哪个
+            SpeakPopup(modelCode);
             //允许部分成功
             bool hasAnySuccess = false;
             if (preList.Count > 0)
@@ -1470,6 +1472,29 @@ namespace ErrorProofing
             });
         }
 
+        /// <summary>
+        /// 弹箱播报：保持原播报内容（17位码播报批号，12位码播报物料号），
+        /// 改为在弹箱时触发，而不是扫码时触发。
+        /// </summary>
+        private void SpeakPopup(string keyCode)
+        {
+            if (string.IsNullOrEmpty(keyCode) || keyCode == "NG")
+            {
+                return;
+            }
+            if (keyCode.Length >= 7 && keyCode.Substring(6, 1) == "Z")
+            {
+                if (keyCode.Length >= 17)
+                {
+                    SpeakAsync(keyCode.Substring(13, 4));
+                }
+            }
+            else
+            {
+                SpeakAsync1(GetMaterialIDandModel(keyCode));
+            }
+        }
+
         bool allMaterialsUnmaintained = true;
         List<string> unmaintainedMaterialList = new List<string>();
 
@@ -1487,7 +1512,6 @@ namespace ErrorProofing
                 while (true)
                 {
                     
-                    string pici = "";
                     int bufferSize = 1024;
                     string _str = string.Empty;
                     
@@ -1548,19 +1572,6 @@ namespace ErrorProofing
                     else
                     {
                         _SN1 = _str;
-                        pici = _SN1.Substring(13, 4);
-                        List<string> Date = GetMaterialIDandModel(_SN1);
-                        if (_SN1.Substring(6, 1) == "Z")
-                        {
-
-                            SpeakAsync(pici);
-                        }
-                        else
-                        {
-                        
-                            SpeakAsync1(Date);
-                            
-                        }
                     }
 
                     //check12or17(_str,out string _md);
@@ -1681,6 +1692,7 @@ namespace ErrorProofing
                                         else
                                         {
                                             // 有物料维护了，只处理有维护的物料
+                                            SpeakPopup(modelItem.Key_code);
                                             foreach (string wuliao in _materialID)
                                             {
                                                 List<(int x, int y)> positionList = PickAllCellsForMaterial(wuliao);
@@ -2938,7 +2950,6 @@ namespace ErrorProofing
         {
             try
             {
-                string pici = "";
                 Thread.Sleep(100);
                 string _str = CheckCodeReaderSerialPort.ReadExisting().Trim();
                 if (_str != "")
@@ -2953,25 +2964,6 @@ namespace ErrorProofing
                     else
                     {
                         _SN1 = _str;
-                        pici = _SN1.Substring(13, 4);
-                        List<string> Date = GetMaterialIDandModel(_SN1);
-                        if (_SN1.Substring(6, 1) == "Z")
-                        {
-
-
-                            SpeakAsync(pici);
-                            
-                        }
-                        else
-                        {
-                            foreach (string _material in Date)
-                            {
-
-
-                                SpeakAsync(_material);
-                                
-                            }
-                        }
                     }
                     if (_str != "NG")
                     {
@@ -3088,6 +3080,7 @@ namespace ErrorProofing
                                         else
                                         {
                                             // 有物料维护了，只处理有维护的物料
+                                            SpeakPopup(modelItem.Key_code);
                                             foreach (string wuliao in _materialID)
                                             {
                                                 List<(int x, int y)> positionList = PickAllCellsForMaterial(wuliao);
@@ -3904,27 +3897,11 @@ namespace ErrorProofing
                 _notMaintainedMaterials.Clear();
                 allMaterialsUnmaintained = true;
                 unmaintainedMaterialList.Clear();
-                string pici1 = _str.Substring(13, 4);
                 List<string> wuliaoDate = GetMaterialIDandModel(_str);
                 if (_str == "NG")
                 {
 
                     speak.SpeakAsync("扫码失败");
-                }
-                else
-                {
-                    if (_str.Substring(6, 1) == "Z")
-                    {
-
-                        speak.SpeakAsync(pici1);
-                    }
-                    else
-                    {
-                        foreach (string _material in wuliaoDate)
-                        {
-                            speak.SpeakAsync(_material);
-                        }
-                    }
                 }
                 if (wuliaoDate.Count != 0)
                 {
@@ -4021,6 +3998,7 @@ namespace ErrorProofing
                             else
                             {
                                 // 有物料维护了，只处理有维护的物料
+                                SpeakPopup(modelItem.Key_code);
                                 foreach (string wuliao in wuliaoDate)
                                 {
                                     List<(int x, int y)> positionList = PickAllCellsForMaterial(wuliao);
