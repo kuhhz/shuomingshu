@@ -1,0 +1,38 @@
+2026/1/2 16:18:11   PLC_1 Ping失败
+2026/1/2 16:18:11   检测端读码器连接失败：System.Net.Sockets.SocketException (0x80004005): 套接字操作尝试一个无法连接的主机。 192.168.2.60:51236
+   在 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   在 ErrorProofing.MainForm.ConnectCheckIDReader() 位置 D:\VSproject\ErrorProofing\MainForm.cs:行号 1495
+2026/1/2 16:18:11   系统重启，已恢复队列数量：2
+2026/1/2 16:25:31   PLC_1 Ping失败
+2026/1/2 16:25:31   检测端读码器连接失败：System.Net.Sockets.SocketException (0x80004005): 套接字操作尝试一个无法连接的主机。 192.168.2.60:51236
+   在 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   在 ErrorProofing.MainForm.ConnectCheckIDReader() 位置 D:\VSproject\ErrorProofing\MainForm.cs:行号 1495
+2026/1/2 16:25:31   系统重启，已恢复队列数量：2
+2026/1/2 16:26:22   收到扫码枪条码：lb123456789115879111111
+2026/1/2 16:26:22   型号:lb123456789115879111111物料号:4373259
+2026/1/2 16:26:22   物料号:4373259,物料位置:-1
+2026/1/2 16:26:22   物料表中不存在此物料号
+2026/1/2 16:27:48   收到扫码枪条码：lb123456789115879000000
+2026/1/2 16:27:48   型号:lb123456789115879000000物料号:4373259
+2026/1/2 16:27:48   物料号:4373259,物料位置:-1
+2026/1/2 16:27:48   物料表中不存在此物料号
+2026/1/2 16:29:54   收到扫码枪条码：lb1234567891158790000000
+2026/1/2 16:29:54   型号:lb1234567891158790000000物料号:456789
+2026/1/2 16:29:54   物料号:456789,物料位置:1
+2026/1/2 16:29:54   队列不为空
+2026/1/2 16:29:54   已取料
+2026/1/2 16:29:54   当前队列大小: 2, 最大容量: 4
+2026/1/2 16:29:54   型号:lb1234567891158790000000物料号:456789
+2026/1/2 16:29:54   物料号:456789,物料位置:1
+2026/1/2 16:29:54   项目已加入队列 - 型号: lb1234567891158790000000, 地址: 0_0
+2026/1/2 16:29:54   当前队列大小: 3
+2026/1/2 16:29:54   入队成功：lb1234567891158790000000
+2026/1/2 16:47:45   PLC_1 Ping失败
+2026/1/2 16:48:06   检测端读码器连接失败：System.Net.Sockets.SocketException (0x80004005): 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。 192.168.2.60:51236
+   在 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   在 ErrorProofing.MainForm.ConnectCheckIDReader() 位置 D:\VSproject\ErrorProofing\MainForm.cs:行号 1495
+2026/1/2 16:48:06   系统重启，已恢复队列数量：3
+2026/1/2 16:53:21   PLC_1 Ping失败

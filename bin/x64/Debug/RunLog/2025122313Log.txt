@@ -1,0 +1,31 @@
+2025/12/23 13:36:56   PLC_1 Ping失败
+2025/12/23 13:37:17   检测端读码器连接失败：System.Net.Sockets.SocketException (0x80004005): 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。 192.168.2.60:51236
+   在 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   在 ErrorProofing.MainForm.ConnectCheckIDReader() 位置 D:\VSproject\ErrorProofing\MainForm.cs:行号 1228
+2025/12/23 13:37:17   系统重启，已恢复队列数量：2
+2025/12/23 13:42:09   PLC_1 Ping失败
+2025/12/23 13:42:30   检测端读码器连接失败：System.Net.Sockets.SocketException (0x80004005): 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。 192.168.2.60:51236
+   在 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   在 ErrorProofing.MainForm.ConnectCheckIDReader() 位置 D:\VSproject\ErrorProofing\MainForm.cs:行号 1228
+2025/12/23 13:42:30   系统重启，已恢复队列数量：2
+2025/12/23 13:56:35   PLC_1 Ping失败
+2025/12/23 13:56:56   检测端读码器连接失败：System.Net.Sockets.SocketException (0x80004005): 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。 192.168.2.60:51236
+   在 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   在 ErrorProofing.MainForm.ConnectCheckIDReader() 位置 D:\VSproject\ErrorProofing\MainForm.cs:行号 1228
+2025/12/23 13:56:56   系统重启，已恢复队列数量：2
+2025/12/23 13:58:51   PLC_1 Ping失败
+2025/12/23 13:59:12   检测端读码器连接失败：System.Net.Sockets.SocketException (0x80004005): 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。 192.168.2.60:51236
+   在 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   在 ErrorProofing.MainForm.ConnectCheckIDReader() 位置 D:\VSproject\ErrorProofing\MainForm.cs:行号 1228
+2025/12/23 13:59:12   系统重启，已恢复队列数量：2
+2025/12/23 13:59:25   System.InvalidOperationException: 线程间操作无效: 从不是创建控件“comboBox1”的线程访问它。
+   在 System.Windows.Forms.Control.get_Handle()
+   在 System.Windows.Forms.ComboBox.get_SelectedIndex()
+   在 System.Windows.Forms.ComboBox.get_SelectedItem()
+   在 System.Windows.Forms.ComboBox.get_Text()
+   在 ErrorProofing.AddMaterialID.GetInformation(String queryText) 位置 D:\VSproject\ErrorProofing\AddMaterialID.cs:行号 82
+   在 ErrorProofing.MesShow.<>c__DisplayClass6_0.<RefreshMesGrid_Async>b__0() 位置 D:\VSproject\ErrorProofing\MesShow.cs:行号 129

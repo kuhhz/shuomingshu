@@ -1,0 +1,32 @@
+2025/12/24 22:32:05   系统重启，已恢复队列数量：2
+2025/12/24 22:34:48   系统重启，已恢复队列数量：2
+2025/12/24 22:36:20   System.ArgumentOutOfRangeException: InvalidArgument=“0”的值对于“index”无效。
+参数名: index
+   在 System.Windows.Forms.ComboBox.ObjectCollection.get_Item(Int32 index)
+   在 System.Windows.Forms.ComboBox.get_Text()
+   在 System.Windows.Forms.ComboBox.WmReflectCommand(Message& m)
+   在 System.Windows.Forms.ComboBox.WndProc(Message& m)
+   在 System.Windows.Forms.NativeWindow.DebuggableCallback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   在 System.Windows.Forms.UnsafeNativeMethods.SendMessage(HandleRef hWnd, Int32 msg, IntPtr wParam, IntPtr lParam)
+   在 System.Windows.Forms.Control.SendMessage(Int32 msg, IntPtr wparam, IntPtr lparam)
+   在 System.Windows.Forms.Control.ReflectMessageInternal(IntPtr hWnd, Message& m)
+   在 System.Windows.Forms.Control.WmCommand(Message& m)
+   在 System.Windows.Forms.Control.WndProc(Message& m)
+   在 System.Windows.Forms.GroupBox.WndProc(Message& m)
+   在 System.Windows.Forms.NativeWindow.DebuggableCallback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   在 System.Windows.Forms.UnsafeNativeMethods.CallWindowProc(IntPtr wndProc, IntPtr hWnd, Int32 msg, IntPtr wParam, IntPtr lParam)
+   在 System.Windows.Forms.NativeWindow.DefWndProc(Message& m)
+   在 System.Windows.Forms.ComboBox.ComboBoxChildNativeWindow.WndProc(Message& m)
+   在 System.Windows.Forms.NativeWindow.DebuggableCallback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   在 System.Windows.Forms.UnsafeNativeMethods.DispatchMessageW(MSG& msg)
+   在 System.Windows.Forms.Application.ComponentManager.System.Windows.Forms.UnsafeNativeMethods.IMsoComponentManager.FPushMessageLoop(IntPtr dwComponentID, Int32 reason, Int32 pvLoopData)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   在 System.Windows.Forms.Form.ShowDialog(IWin32Window owner)
+   在 ErrorProofing.MainForm.dataGridView1_CellMouseClick(Object sender, DataGridViewCellMouseEventArgs e) 位置 D:\VSproject\ErrorProofing\MainForm.cs:行号 2263
+2025/12/24 22:41:11   系统重启，已恢复队列数量：2
+2025/12/24 22:46:17   系统重启，已恢复队列数量：2
+2025/12/24 22:47:42   系统重启，已恢复队列数量：2
+2025/12/24 22:51:51   系统重启，已恢复队列数量：2
+2025/12/24 22:54:00   系统重启，已恢复队列数量：2
+2025/12/24 22:54:30   系统重启，已恢复队列数量：2

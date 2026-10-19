@@ -1,0 +1,182 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\12717\\Desktop\\ErrorProofing\uFF08\u5E76\u53D1\u5F39\u51FA\u7248\uFF09\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AACA3CB9-240C-469C-96F0-80F6A07CB00A}|ErrorProofing.csproj|c:\\users\\12717\\desktop\\errorproofing\uFF08\u5E76\u53D1\u5F39\u51FA\u7248\uFF09\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AACA3CB9-240C-469C-96F0-80F6A07CB00A}|ErrorProofing.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AACA3CB9-240C-469C-96F0-80F6A07CB00A}|ErrorProofing.csproj|C:\\Users\\12717\\Desktop\\ErrorProofing\uFF08\u5E76\u53D1\u5F39\u51FA\u7248\uFF09\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AACA3CB9-240C-469C-96F0-80F6A07CB00A}|ErrorProofing.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AACA3CB9-240C-469C-96F0-80F6A07CB00A}|ErrorProofing.csproj|C:\\Users\\12717\\Desktop\\ErrorProofing\uFF08\u5E76\u53D1\u5F39\u51FA\u7248\uFF09\\addmaterialid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AACA3CB9-240C-469C-96F0-80F6A07CB00A}|ErrorProofing.csproj|solutionrelative:addmaterialid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AACA3CB9-240C-469C-96F0-80F6A07CB00A}|ErrorProofing.csproj|C:\\Users\\12717\\Desktop\\ErrorProofing\uFF08\u5E76\u53D1\u5F39\u51FA\u7248\uFF09\\addmaterialid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AACA3CB9-240C-469C-96F0-80F6A07CB00A}|ErrorProofing.csproj|solutionrelative:addmaterialid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AACA3CB9-240C-469C-96F0-80F6A07CB00A}|ErrorProofing.csproj|C:\\Users\\12717\\Desktop\\ErrorProofing\uFF08\u5E76\u53D1\u5F39\u51FA\u7248\uFF09\\controlform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AACA3CB9-240C-469C-96F0-80F6A07CB00A}|ErrorProofing.csproj|solutionrelative:controlform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AACA3CB9-240C-469C-96F0-80F6A07CB00A}|ErrorProofing.csproj|C:\\Users\\12717\\Desktop\\ErrorProofing\uFF08\u5E76\u53D1\u5F39\u51FA\u7248\uFF09\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{AACA3CB9-240C-469C-96F0-80F6A07CB00A}|ErrorProofing.csproj|solutionrelative:packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AACA3CB9-240C-469C-96F0-80F6A07CB00A}|ErrorProofing.csproj|C:\\Users\\12717\\Desktop\\ErrorProofing\uFF08\u5E76\u53D1\u5F39\u51FA\u7248\uFF09\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AACA3CB9-240C-469C-96F0-80F6A07CB00A}|ErrorProofing.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AACA3CB9-240C-469C-96F0-80F6A07CB00A}|ErrorProofing.csproj|C:\\Users\\12717\\Desktop\\ErrorProofing\uFF08\u5E76\u53D1\u5F39\u51FA\u7248\uFF09\\controlform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AACA3CB9-240C-469C-96F0-80F6A07CB00A}|ErrorProofing.csproj|solutionrelative:controlform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AACA3CB9-240C-469C-96F0-80F6A07CB00A}|ErrorProofing.csproj|C:\\Users\\12717\\Desktop\\ErrorProofing\uFF08\u5E76\u53D1\u5F39\u51FA\u7248\uFF09\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AACA3CB9-240C-469C-96F0-80F6A07CB00A}|ErrorProofing.csproj|solutionrelative:mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AACA3CB9-240C-469C-96F0-80F6A07CB00A}|ErrorProofing.csproj|C:\\Users\\12717\\Desktop\\ErrorProofing\uFF08\u5E76\u53D1\u5F39\u51FA\u7248\uFF09\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{AACA3CB9-240C-469C-96F0-80F6A07CB00A}|ErrorProofing.csproj|solutionrelative:app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\12717\\Desktop\\ErrorProofing\uFF08\u5E76\u53D1\u5F39\u51FA\u7248\uFF09\\mainform.cs",
+              "RelativeDocumentMoniker": "mainform.cs",
+              "ToolTip": "C:\\Users\\12717\\Desktop\\ErrorProofing\uFF08\u5E76\u53D1\u5F39\u51FA\u7248\uFF09\\mainform.cs",
+              "RelativeToolTip": "mainform.cs",
+              "ViewState": "AgIAALcCAAAAAAAAAAAowMkGAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T01:52:59.736Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AddMaterialID.cs",
+              "DocumentMoniker": "C:\\Users\\12717\\Desktop\\ErrorProofing\uFF08\u5E76\u53D1\u5F39\u51FA\u7248\uFF09\\AddMaterialID.cs",
+              "RelativeDocumentMoniker": "AddMaterialID.cs",
+              "ToolTip": "C:\\Users\\12717\\Desktop\\ErrorProofing\uFF08\u5E76\u53D1\u5F39\u51FA\u7248\uFF09\\AddMaterialID.cs",
+              "RelativeToolTip": "AddMaterialID.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAawHQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-08T23:57:15.203Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AddMaterialID.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "C:\\Users\\12717\\Desktop\\ErrorProofing\uFF08\u5E76\u53D1\u5F39\u51FA\u7248\uFF09\\AddMaterialID.cs",
+              "RelativeDocumentMoniker": "AddMaterialID.cs",
+              "ToolTip": "E:\\ErrorProofing\uFF08B\u5E76\u53D1\u5F39\u51FA\u7248\uFF09\\AddMaterialID.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-08T23:57:03.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "packages.config",
+              "DocumentMoniker": "C:\\Users\\12717\\Desktop\\ErrorProofing\uFF08\u5E76\u53D1\u5F39\u51FA\u7248\uFF09\\packages.config",
+              "RelativeDocumentMoniker": "packages.config",
+              "ToolTip": "C:\\Users\\12717\\Desktop\\ErrorProofing\uFF08\u5E76\u53D1\u5F39\u51FA\u7248\uFF09\\packages.config",
+              "RelativeToolTip": "packages.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-05-26T00:26:39.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\12717\\Desktop\\ErrorProofing\uFF08\u5E76\u53D1\u5F39\u51FA\u7248\uFF09\\App.config",
+              "RelativeDocumentMoniker": "App.config",
+              "ToolTip": "C:\\Users\\12717\\Desktop\\ErrorProofing\uFF08\u5E76\u53D1\u5F39\u51FA\u7248\uFF09\\App.config",
+              "RelativeToolTip": "App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-05-26T00:26:25.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\12717\\Desktop\\ErrorProofing\uFF08\u5E76\u53D1\u5F39\u51FA\u7248\uFF09\\MainForm.Designer.cs",
+              "RelativeDocumentMoniker": "MainForm.Designer.cs",
+              "ToolTip": "C:\\Users\\12717\\Desktop\\ErrorProofing\uFF08\u5E76\u53D1\u5F39\u51FA\u7248\uFF09\\MainForm.Designer.cs",
+              "RelativeToolTip": "MainForm.Designer.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAwwBYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T09:00:54.51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ControlForm.cs",
+              "DocumentMoniker": "C:\\Users\\12717\\Desktop\\ErrorProofing\uFF08\u5E76\u53D1\u5F39\u51FA\u7248\uFF09\\ControlForm.cs",
+              "RelativeDocumentMoniker": "ControlForm.cs",
+              "ToolTip": "C:\\Users\\12717\\Desktop\\ErrorProofing\uFF08\u5E76\u53D1\u5F39\u51FA\u7248\uFF09\\ControlForm.cs",
+              "RelativeToolTip": "ControlForm.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAYwD4AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T06:47:41.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ControlForm.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "C:\\Users\\12717\\Desktop\\ErrorProofing\uFF08\u5E76\u53D1\u5F39\u51FA\u7248\uFF09\\ControlForm.cs",
+              "RelativeDocumentMoniker": "ControlForm.cs",
+              "ToolTip": "C:\\Users\\12717\\Desktop\\ErrorProofing\uFF08\u5E76\u53D1\u5F39\u51FA\u7248\uFF09\\ControlForm.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "ControlForm.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T06:47:29.759Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainForm.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "C:\\Users\\12717\\Desktop\\ErrorProofing\uFF08\u5E76\u53D1\u5F39\u51FA\u7248\uFF09\\mainform.cs",
+              "RelativeDocumentMoniker": "mainform.cs",
+              "ToolTip": "C:\\Users\\12717\\Desktop\\ErrorProofing\uFF08B\u5E76\u53D1\u5F39\u51FA\u7248\uFF09\\mainform.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "..\\ErrorProofing\uFF08B\u5E76\u53D1\u5F39\u51FA\u7248\uFF09\\mainform.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T05:41:11.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\12717\\Desktop\\ErrorProofing\uFF08\u5E76\u53D1\u5F39\u51FA\u7248\uFF09\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\12717\\Desktop\\ErrorProofing\uFF08\u5E76\u53D1\u5F39\u51FA\u7248\uFF09\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-23T00:26:18.708Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

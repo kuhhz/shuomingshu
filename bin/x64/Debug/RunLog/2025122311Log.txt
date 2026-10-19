@@ -1,0 +1,75 @@
+2025/12/23 11:04:05   检测端读码器连接失败：System.Net.Sockets.SocketException (0x80004005): 套接字操作尝试一个无法连接的主机。 192.168.2.60:51236
+   在 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   在 ErrorProofing.MainForm.ConnectCheckIDReader() 位置 D:\VSproject\ErrorProofing\MainForm.cs:行号 1224
+2025/12/23 11:04:05   系统重启，已恢复队列数量：2
+2025/12/23 11:07:44   检测端读码器连接失败：System.Net.Sockets.SocketException (0x80004005): 套接字操作尝试一个无法连接的主机。 192.168.2.60:51236
+   在 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   在 ErrorProofing.MainForm.ConnectCheckIDReader() 位置 D:\VSproject\ErrorProofing\MainForm.cs:行号 1224
+2025/12/23 11:07:44   系统重启，已恢复队列数量：2
+2025/12/23 11:10:23   检测端读码器连接失败：System.Net.Sockets.SocketException (0x80004005): 套接字操作尝试一个无法连接的主机。 192.168.2.60:51236
+   在 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   在 ErrorProofing.MainForm.ConnectCheckIDReader() 位置 D:\VSproject\ErrorProofing\MainForm.cs:行号 1224
+2025/12/23 11:10:23   系统重启，已恢复队列数量：2
+2025/12/23 11:12:08   检测端读码器连接失败：System.Net.Sockets.SocketException (0x80004005): 套接字操作尝试一个无法连接的主机。 192.168.2.60:51236
+   在 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   在 ErrorProofing.MainForm.ConnectCheckIDReader() 位置 D:\VSproject\ErrorProofing\MainForm.cs:行号 1224
+2025/12/23 11:12:08   系统重启，已恢复队列数量：2
+2025/12/23 11:20:33   检测端读码器连接失败：System.Net.Sockets.SocketException (0x80004005): 套接字操作尝试一个无法连接的主机。 192.168.2.60:51236
+   在 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   在 ErrorProofing.MainForm.ConnectCheckIDReader() 位置 D:\VSproject\ErrorProofing\MainForm.cs:行号 1224
+2025/12/23 11:20:33   系统重启，已恢复队列数量：2
+2025/12/23 11:28:30   检测端读码器连接失败：System.Net.Sockets.SocketException (0x80004005): 套接字操作尝试一个无法连接的主机。 192.168.2.60:51236
+   在 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   在 ErrorProofing.MainForm.ConnectCheckIDReader() 位置 D:\VSproject\ErrorProofing\MainForm.cs:行号 1224
+2025/12/23 11:28:30   系统重启，已恢复队列数量：2
+2025/12/23 11:28:40   检测端读码器连接失败：System.Net.Sockets.SocketException (0x80004005): 套接字操作尝试一个无法连接的主机。 192.168.2.60:51236
+   在 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   在 ErrorProofing.MainForm.ConnectCheckIDReader() 位置 D:\VSproject\ErrorProofing\MainForm.cs:行号 1224
+2025/12/23 11:28:40   系统重启，已恢复队列数量：2
+2025/12/23 11:30:30   检测端读码器连接失败：System.Net.Sockets.SocketException (0x80004005): 套接字操作尝试一个无法连接的主机。 192.168.2.60:51236
+   在 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   在 ErrorProofing.MainForm.ConnectCheckIDReader() 位置 D:\VSproject\ErrorProofing\MainForm.cs:行号 1224
+2025/12/23 11:30:30   系统重启，已恢复队列数量：2
+2025/12/23 11:31:07   检测端读码器连接失败：System.Net.Sockets.SocketException (0x80004005): 套接字操作尝试一个无法连接的主机。 192.168.2.60:51236
+   在 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   在 ErrorProofing.MainForm.ConnectCheckIDReader() 位置 D:\VSproject\ErrorProofing\MainForm.cs:行号 1224
+2025/12/23 11:31:07   系统重启，已恢复队列数量：2
+2025/12/23 11:31:27   检测端读码器连接失败：System.Net.Sockets.SocketException (0x80004005): 套接字操作尝试一个无法连接的主机。 192.168.2.60:51236
+   在 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   在 ErrorProofing.MainForm.ConnectCheckIDReader() 位置 D:\VSproject\ErrorProofing\MainForm.cs:行号 1224
+2025/12/23 11:31:27   系统重启，已恢复队列数量：2
+2025/12/23 11:32:07   检测端读码器连接失败：System.Net.Sockets.SocketException (0x80004005): 套接字操作尝试一个无法连接的主机。 192.168.2.60:51236
+   在 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   在 ErrorProofing.MainForm.ConnectCheckIDReader() 位置 D:\VSproject\ErrorProofing\MainForm.cs:行号 1224
+2025/12/23 11:32:07   系统重启，已恢复队列数量：2
+2025/12/23 11:35:07   检测端读码器连接失败：System.Net.Sockets.SocketException (0x80004005): 套接字操作尝试一个无法连接的主机。 192.168.2.60:51236
+   在 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   在 ErrorProofing.MainForm.ConnectCheckIDReader() 位置 D:\VSproject\ErrorProofing\MainForm.cs:行号 1228
+2025/12/23 11:35:07   系统重启，已恢复队列数量：2
+2025/12/23 11:44:19   检测端读码器连接失败：System.Net.Sockets.SocketException (0x80004005): 套接字操作尝试一个无法连接的主机。 192.168.2.60:51236
+   在 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   在 ErrorProofing.MainForm.ConnectCheckIDReader() 位置 D:\VSproject\ErrorProofing\MainForm.cs:行号 1228
+2025/12/23 11:44:19   系统重启，已恢复队列数量：2
+2025/12/23 11:46:19   检测端读码器连接失败：System.Net.Sockets.SocketException (0x80004005): 套接字操作尝试一个无法连接的主机。 192.168.2.60:51236
+   在 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   在 ErrorProofing.MainForm.ConnectCheckIDReader() 位置 D:\VSproject\ErrorProofing\MainForm.cs:行号 1228
+2025/12/23 11:46:19   系统重启，已恢复队列数量：2
+2025/12/23 11:50:11   检测端读码器连接失败：System.Net.Sockets.SocketException (0x80004005): 套接字操作尝试一个无法连接的主机。 192.168.2.60:51236
+   在 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   在 ErrorProofing.MainForm.ConnectCheckIDReader() 位置 D:\VSproject\ErrorProofing\MainForm.cs:行号 1228
+2025/12/23 11:50:11   系统重启，已恢复队列数量：2

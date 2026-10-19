@@ -1,0 +1,17 @@
+2026/1/2 9:21:45   检测端读码器连接失败：System.Net.Sockets.SocketException (0x80004005): 向一个无法连接的网络尝试了一个套接字操作。 192.168.2.60:51236
+   在 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   在 ErrorProofing.MainForm.ConnectCheckIDReader() 位置 D:\VSproject\ErrorProofing\MainForm.cs:行号 1494
+2026/1/2 9:21:45   系统重启，已恢复队列数量：2
+2026/1/2 9:22:35   收到扫码枪条码：lb123456789100000000000
+2026/1/2 9:23:33   型号:lb123456789100000000000物料号:4373259
+2026/1/2 9:54:36   检测端读码器连接失败：System.Net.Sockets.SocketException (0x80004005): 向一个无法连接的网络尝试了一个套接字操作。 192.168.2.60:51236
+   在 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   在 ErrorProofing.MainForm.ConnectCheckIDReader() 位置 D:\VSproject\ErrorProofing\MainForm.cs:行号 1494
+2026/1/2 9:54:36   系统重启，已恢复队列数量：2
+2026/1/2 9:55:17   检测端读码器连接失败：System.Net.Sockets.SocketException (0x80004005): 向一个无法连接的网络尝试了一个套接字操作。 192.168.2.60:51236
+   在 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   在 ErrorProofing.MainForm.ConnectCheckIDReader() 位置 D:\VSproject\ErrorProofing\MainForm.cs:行号 1494
+2026/1/2 9:55:17   系统重启，已恢复队列数量：2

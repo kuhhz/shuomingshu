@@ -1,0 +1,1239 @@
+2025/12/7 20:10:43   加载点位PLC地址：,0,0
+2025/12/7 20:10:43   加载点位PLC地址：,0,1
+2025/12/7 20:10:43   加载点位PLC地址：,0,2
+2025/12/7 20:10:43   加载点位PLC地址：,0,3
+2025/12/7 20:10:43   加载点位PLC地址：,0,4
+2025/12/7 20:10:43   加载点位PLC地址：,0,5
+2025/12/7 20:10:43   加载点位PLC地址：,0,6
+2025/12/7 20:10:43   加载点位PLC地址：,1,0
+2025/12/7 20:10:43   加载点位PLC地址：,1,1
+2025/12/7 20:10:43   加载点位PLC地址：,1,2
+2025/12/7 20:10:43   加载点位PLC地址：,1,3
+2025/12/7 20:10:43   加载点位PLC地址：,1,4
+2025/12/7 20:10:43   加载点位PLC地址：,1,5
+2025/12/7 20:10:43   加载点位PLC地址：,1,6
+2025/12/7 20:10:43   加载点位PLC地址：,2,0
+2025/12/7 20:10:43   加载点位PLC地址：,2,1
+2025/12/7 20:10:43   加载点位PLC地址：,2,2
+2025/12/7 20:10:43   加载点位PLC地址：,2,3
+2025/12/7 20:10:43   加载点位PLC地址：,2,4
+2025/12/7 20:10:43   加载点位PLC地址：,2,5
+2025/12/7 20:10:43   加载点位PLC地址：,2,6
+2025/12/7 20:12:48   加载点位PLC地址：,0,0
+2025/12/7 20:12:48   加载点位PLC地址：,0,1
+2025/12/7 20:12:48   加载点位PLC地址：,0,2
+2025/12/7 20:12:48   加载点位PLC地址：,0,3
+2025/12/7 20:12:48   加载点位PLC地址：,0,4
+2025/12/7 20:12:48   加载点位PLC地址：,0,5
+2025/12/7 20:12:48   加载点位PLC地址：,0,6
+2025/12/7 20:12:48   加载点位PLC地址：,1,0
+2025/12/7 20:12:48   加载点位PLC地址：,1,1
+2025/12/7 20:12:48   加载点位PLC地址：,1,2
+2025/12/7 20:12:48   加载点位PLC地址：,1,3
+2025/12/7 20:12:48   加载点位PLC地址：,1,4
+2025/12/7 20:12:48   加载点位PLC地址：,1,5
+2025/12/7 20:12:48   加载点位PLC地址：,1,6
+2025/12/7 20:12:48   加载点位PLC地址：,2,0
+2025/12/7 20:12:48   加载点位PLC地址：,2,1
+2025/12/7 20:12:48   加载点位PLC地址：,2,2
+2025/12/7 20:12:48   加载点位PLC地址：,2,3
+2025/12/7 20:12:48   加载点位PLC地址：,2,4
+2025/12/7 20:12:48   加载点位PLC地址：,2,5
+2025/12/7 20:12:48   加载点位PLC地址：,2,6
+2025/12/7 20:14:49   加载点位PLC地址：,0,0
+2025/12/7 20:14:49   加载点位PLC地址：,0,1
+2025/12/7 20:14:49   加载点位PLC地址：,0,2
+2025/12/7 20:14:49   加载点位PLC地址：,0,3
+2025/12/7 20:14:49   加载点位PLC地址：,0,4
+2025/12/7 20:14:49   加载点位PLC地址：,0,5
+2025/12/7 20:14:49   加载点位PLC地址：,0,6
+2025/12/7 20:14:49   加载点位PLC地址：,1,0
+2025/12/7 20:14:49   加载点位PLC地址：,1,1
+2025/12/7 20:14:49   加载点位PLC地址：,1,2
+2025/12/7 20:14:49   加载点位PLC地址：,1,3
+2025/12/7 20:14:49   加载点位PLC地址：,1,4
+2025/12/7 20:14:49   加载点位PLC地址：,1,5
+2025/12/7 20:14:49   加载点位PLC地址：,1,6
+2025/12/7 20:14:49   加载点位PLC地址：,2,0
+2025/12/7 20:14:49   加载点位PLC地址：,2,1
+2025/12/7 20:14:49   加载点位PLC地址：,2,2
+2025/12/7 20:14:49   加载点位PLC地址：,2,3
+2025/12/7 20:14:49   加载点位PLC地址：,2,4
+2025/12/7 20:14:49   加载点位PLC地址：,2,5
+2025/12/7 20:14:49   加载点位PLC地址：,2,6
+2025/12/7 20:14:55   System.Data.SqlClient.SqlException (0x80131904): 必须声明标量变量 "@MaterialID"。
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   在 System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   在 System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   在 System.Data.SqlClient.SqlDataReader.get_MetaData()
+   在 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteReader()
+   在 ErrorProofing.MainForm.GetMaterialPose(Int32 _x, Int32 _y, String& _materialID) 位置 D:\程序\ErrorProofing\MainForm.cs:行号 178
+ClientConnectionId:966c765e-c7dd-4d1c-9731-3841eb4d2180
+Error Number:137,State:2,Class:15
+2025/12/7 20:14:55   加载点位PLC地址：,0,0
+2025/12/7 20:14:55   System.Data.SqlClient.SqlException (0x80131904): 必须声明标量变量 "@MaterialID"。
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   在 System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   在 System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   在 System.Data.SqlClient.SqlDataReader.get_MetaData()
+   在 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteReader()
+   在 ErrorProofing.MainForm.GetMaterialPose(Int32 _x, Int32 _y, String& _materialID) 位置 D:\程序\ErrorProofing\MainForm.cs:行号 178
+ClientConnectionId:36ef8d60-f6c5-4ff8-86ec-f326f602a9b8
+Error Number:137,State:2,Class:15
+2025/12/7 20:14:55   加载点位PLC地址：,0,1
+2025/12/7 20:14:55   System.Data.SqlClient.SqlException (0x80131904): 必须声明标量变量 "@MaterialID"。
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   在 System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   在 System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   在 System.Data.SqlClient.SqlDataReader.get_MetaData()
+   在 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteReader()
+   在 ErrorProofing.MainForm.GetMaterialPose(Int32 _x, Int32 _y, String& _materialID) 位置 D:\程序\ErrorProofing\MainForm.cs:行号 178
+ClientConnectionId:02581f6a-8694-44f6-8840-c9c780d9bdef
+Error Number:137,State:2,Class:15
+2025/12/7 20:14:55   加载点位PLC地址：,0,2
+2025/12/7 20:14:55   System.Data.SqlClient.SqlException (0x80131904): 必须声明标量变量 "@MaterialID"。
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   在 System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   在 System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   在 System.Data.SqlClient.SqlDataReader.get_MetaData()
+   在 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteReader()
+   在 ErrorProofing.MainForm.GetMaterialPose(Int32 _x, Int32 _y, String& _materialID) 位置 D:\程序\ErrorProofing\MainForm.cs:行号 178
+ClientConnectionId:cb378a45-7b16-4df7-bb38-eca558536adf
+Error Number:137,State:2,Class:15
+2025/12/7 20:14:55   加载点位PLC地址：,0,3
+2025/12/7 20:14:55   System.Data.SqlClient.SqlException (0x80131904): 必须声明标量变量 "@MaterialID"。
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   在 System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   在 System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   在 System.Data.SqlClient.SqlDataReader.get_MetaData()
+   在 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteReader()
+   在 ErrorProofing.MainForm.GetMaterialPose(Int32 _x, Int32 _y, String& _materialID) 位置 D:\程序\ErrorProofing\MainForm.cs:行号 178
+ClientConnectionId:34babfd5-e7be-4a22-a1df-dfacf279487a
+Error Number:137,State:2,Class:15
+2025/12/7 20:14:55   加载点位PLC地址：,0,4
+2025/12/7 20:14:55   System.Data.SqlClient.SqlException (0x80131904): 必须声明标量变量 "@MaterialID"。
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   在 System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   在 System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   在 System.Data.SqlClient.SqlDataReader.get_MetaData()
+   在 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteReader()
+   在 ErrorProofing.MainForm.GetMaterialPose(Int32 _x, Int32 _y, String& _materialID) 位置 D:\程序\ErrorProofing\MainForm.cs:行号 178
+ClientConnectionId:e3262b1b-1c98-4267-ba2e-662e3459023c
+Error Number:137,State:2,Class:15
+2025/12/7 20:14:55   加载点位PLC地址：,0,5
+2025/12/7 20:14:56   System.Data.SqlClient.SqlException (0x80131904): 必须声明标量变量 "@MaterialID"。
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   在 System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   在 System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   在 System.Data.SqlClient.SqlDataReader.get_MetaData()
+   在 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteReader()
+   在 ErrorProofing.MainForm.GetMaterialPose(Int32 _x, Int32 _y, String& _materialID) 位置 D:\程序\ErrorProofing\MainForm.cs:行号 178
+ClientConnectionId:4d3eee16-1056-4d67-bc9f-752ce8009aca
+Error Number:137,State:2,Class:15
+2025/12/7 20:14:56   加载点位PLC地址：,0,6
+2025/12/7 20:14:56   System.Data.SqlClient.SqlException (0x80131904): 必须声明标量变量 "@MaterialID"。
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   在 System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   在 System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   在 System.Data.SqlClient.SqlDataReader.get_MetaData()
+   在 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteReader()
+   在 ErrorProofing.MainForm.GetMaterialPose(Int32 _x, Int32 _y, String& _materialID) 位置 D:\程序\ErrorProofing\MainForm.cs:行号 178
+ClientConnectionId:43e8c042-c7fb-449a-a2ae-8addef7b6fe3
+Error Number:137,State:2,Class:15
+2025/12/7 20:14:56   加载点位PLC地址：,1,0
+2025/12/7 20:14:56   System.Data.SqlClient.SqlException (0x80131904): 必须声明标量变量 "@MaterialID"。
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   在 System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   在 System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   在 System.Data.SqlClient.SqlDataReader.get_MetaData()
+   在 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteReader()
+   在 ErrorProofing.MainForm.GetMaterialPose(Int32 _x, Int32 _y, String& _materialID) 位置 D:\程序\ErrorProofing\MainForm.cs:行号 178
+ClientConnectionId:4ee10742-7753-4c81-96b5-f2b76e1a853c
+Error Number:137,State:2,Class:15
+2025/12/7 20:14:56   加载点位PLC地址：,1,1
+2025/12/7 20:14:56   System.Data.SqlClient.SqlException (0x80131904): 必须声明标量变量 "@MaterialID"。
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   在 System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   在 System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   在 System.Data.SqlClient.SqlDataReader.get_MetaData()
+   在 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteReader()
+   在 ErrorProofing.MainForm.GetMaterialPose(Int32 _x, Int32 _y, String& _materialID) 位置 D:\程序\ErrorProofing\MainForm.cs:行号 178
+ClientConnectionId:580cfa99-6056-42d2-9874-125ca91427bb
+Error Number:137,State:2,Class:15
+2025/12/7 20:14:56   加载点位PLC地址：,1,2
+2025/12/7 20:14:56   System.Data.SqlClient.SqlException (0x80131904): 必须声明标量变量 "@MaterialID"。
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   在 System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   在 System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   在 System.Data.SqlClient.SqlDataReader.get_MetaData()
+   在 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteReader()
+   在 ErrorProofing.MainForm.GetMaterialPose(Int32 _x, Int32 _y, String& _materialID) 位置 D:\程序\ErrorProofing\MainForm.cs:行号 178
+ClientConnectionId:79f37d79-a8ca-4533-85bc-c45d4307f555
+Error Number:137,State:2,Class:15
+2025/12/7 20:14:56   加载点位PLC地址：,1,3
+2025/12/7 20:14:56   System.Data.SqlClient.SqlException (0x80131904): 必须声明标量变量 "@MaterialID"。
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   在 System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   在 System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   在 System.Data.SqlClient.SqlDataReader.get_MetaData()
+   在 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteReader()
+   在 ErrorProofing.MainForm.GetMaterialPose(Int32 _x, Int32 _y, String& _materialID) 位置 D:\程序\ErrorProofing\MainForm.cs:行号 178
+ClientConnectionId:82771bc6-15cd-47ed-bc69-e545eb5b6d94
+Error Number:137,State:2,Class:15
+2025/12/7 20:14:56   加载点位PLC地址：,1,4
+2025/12/7 20:14:56   System.Data.SqlClient.SqlException (0x80131904): 必须声明标量变量 "@MaterialID"。
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   在 System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   在 System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   在 System.Data.SqlClient.SqlDataReader.get_MetaData()
+   在 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteReader()
+   在 ErrorProofing.MainForm.GetMaterialPose(Int32 _x, Int32 _y, String& _materialID) 位置 D:\程序\ErrorProofing\MainForm.cs:行号 178
+ClientConnectionId:580cfa99-6056-42d2-9874-125ca91427bb
+Error Number:137,State:2,Class:15
+2025/12/7 20:14:56   加载点位PLC地址：,1,5
+2025/12/7 20:14:56   System.Data.SqlClient.SqlException (0x80131904): 必须声明标量变量 "@MaterialID"。
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   在 System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   在 System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   在 System.Data.SqlClient.SqlDataReader.get_MetaData()
+   在 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteReader()
+   在 ErrorProofing.MainForm.GetMaterialPose(Int32 _x, Int32 _y, String& _materialID) 位置 D:\程序\ErrorProofing\MainForm.cs:行号 178
+ClientConnectionId:4ee10742-7753-4c81-96b5-f2b76e1a853c
+Error Number:137,State:2,Class:15
+2025/12/7 20:14:56   加载点位PLC地址：,1,6
+2025/12/7 20:14:56   System.Data.SqlClient.SqlException (0x80131904): 必须声明标量变量 "@MaterialID"。
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   在 System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   在 System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   在 System.Data.SqlClient.SqlDataReader.get_MetaData()
+   在 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteReader()
+   在 ErrorProofing.MainForm.GetMaterialPose(Int32 _x, Int32 _y, String& _materialID) 位置 D:\程序\ErrorProofing\MainForm.cs:行号 178
+ClientConnectionId:43e8c042-c7fb-449a-a2ae-8addef7b6fe3
+Error Number:137,State:2,Class:15
+2025/12/7 20:14:56   加载点位PLC地址：,2,0
+2025/12/7 20:14:56   System.Data.SqlClient.SqlException (0x80131904): 必须声明标量变量 "@MaterialID"。
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   在 System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   在 System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   在 System.Data.SqlClient.SqlDataReader.get_MetaData()
+   在 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteReader()
+   在 ErrorProofing.MainForm.GetMaterialPose(Int32 _x, Int32 _y, String& _materialID) 位置 D:\程序\ErrorProofing\MainForm.cs:行号 178
+ClientConnectionId:4d3eee16-1056-4d67-bc9f-752ce8009aca
+Error Number:137,State:2,Class:15
+2025/12/7 20:14:56   加载点位PLC地址：,2,1
+2025/12/7 20:14:56   System.Data.SqlClient.SqlException (0x80131904): 必须声明标量变量 "@MaterialID"。
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   在 System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   在 System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   在 System.Data.SqlClient.SqlDataReader.get_MetaData()
+   在 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteReader()
+   在 ErrorProofing.MainForm.GetMaterialPose(Int32 _x, Int32 _y, String& _materialID) 位置 D:\程序\ErrorProofing\MainForm.cs:行号 178
+ClientConnectionId:e3262b1b-1c98-4267-ba2e-662e3459023c
+Error Number:137,State:2,Class:15
+2025/12/7 20:14:56   加载点位PLC地址：,2,2
+2025/12/7 20:14:56   System.Data.SqlClient.SqlException (0x80131904): 必须声明标量变量 "@MaterialID"。
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   在 System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   在 System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   在 System.Data.SqlClient.SqlDataReader.get_MetaData()
+   在 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteReader()
+   在 ErrorProofing.MainForm.GetMaterialPose(Int32 _x, Int32 _y, String& _materialID) 位置 D:\程序\ErrorProofing\MainForm.cs:行号 178
+ClientConnectionId:34babfd5-e7be-4a22-a1df-dfacf279487a
+Error Number:137,State:2,Class:15
+2025/12/7 20:14:56   加载点位PLC地址：,2,3
+2025/12/7 20:14:56   System.Data.SqlClient.SqlException (0x80131904): 必须声明标量变量 "@MaterialID"。
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   在 System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   在 System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   在 System.Data.SqlClient.SqlDataReader.get_MetaData()
+   在 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteReader()
+   在 ErrorProofing.MainForm.GetMaterialPose(Int32 _x, Int32 _y, String& _materialID) 位置 D:\程序\ErrorProofing\MainForm.cs:行号 178
+ClientConnectionId:cb378a45-7b16-4df7-bb38-eca558536adf
+Error Number:137,State:2,Class:15
+2025/12/7 20:14:56   加载点位PLC地址：,2,4
+2025/12/7 20:14:56   System.Data.SqlClient.SqlException (0x80131904): 必须声明标量变量 "@MaterialID"。
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   在 System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   在 System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   在 System.Data.SqlClient.SqlDataReader.get_MetaData()
+   在 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteReader()
+   在 ErrorProofing.MainForm.GetMaterialPose(Int32 _x, Int32 _y, String& _materialID) 位置 D:\程序\ErrorProofing\MainForm.cs:行号 178
+ClientConnectionId:02581f6a-8694-44f6-8840-c9c780d9bdef
+Error Number:137,State:2,Class:15
+2025/12/7 20:14:56   加载点位PLC地址：,2,5
+2025/12/7 20:14:56   System.Data.SqlClient.SqlException (0x80131904): 必须声明标量变量 "@MaterialID"。
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   在 System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   在 System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   在 System.Data.SqlClient.SqlDataReader.get_MetaData()
+   在 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteReader()
+   在 ErrorProofing.MainForm.GetMaterialPose(Int32 _x, Int32 _y, String& _materialID) 位置 D:\程序\ErrorProofing\MainForm.cs:行号 178
+ClientConnectionId:36ef8d60-f6c5-4ff8-86ec-f326f602a9b8
+Error Number:137,State:2,Class:15
+2025/12/7 20:14:56   加载点位PLC地址：,2,6
+2025/12/7 20:16:28   System.Data.SqlClient.SqlException (0x80131904): 必须声明标量变量 "@MaterialID"。
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   在 System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   在 System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   在 System.Data.SqlClient.SqlDataReader.get_MetaData()
+   在 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteReader()
+   在 ErrorProofing.MainForm.GetMaterialPose(Int32 _x, Int32 _y, String& _materialID) 位置 D:\程序\ErrorProofing\MainForm.cs:行号 177
+ClientConnectionId:53acc133-1ccc-462a-8fe1-6d68e2bd2cd2
+Error Number:137,State:2,Class:15
+2025/12/7 20:16:28   加载点位PLC地址：,0,0
+2025/12/7 20:16:28   System.Data.SqlClient.SqlException (0x80131904): 必须声明标量变量 "@MaterialID"。
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   在 System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   在 System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   在 System.Data.SqlClient.SqlDataReader.get_MetaData()
+   在 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteReader()
+   在 ErrorProofing.MainForm.GetMaterialPose(Int32 _x, Int32 _y, String& _materialID) 位置 D:\程序\ErrorProofing\MainForm.cs:行号 177
+ClientConnectionId:862844f7-b1c5-40d8-ad92-b87d77fffa59
+Error Number:137,State:2,Class:15
+2025/12/7 20:16:28   加载点位PLC地址：,0,1
+2025/12/7 20:16:28   System.Data.SqlClient.SqlException (0x80131904): 必须声明标量变量 "@MaterialID"。
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   在 System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   在 System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   在 System.Data.SqlClient.SqlDataReader.get_MetaData()
+   在 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteReader()
+   在 ErrorProofing.MainForm.GetMaterialPose(Int32 _x, Int32 _y, String& _materialID) 位置 D:\程序\ErrorProofing\MainForm.cs:行号 177
+ClientConnectionId:58e2d1bd-dad4-4fb6-a7f9-66de9ad96b3e
+Error Number:137,State:2,Class:15
+2025/12/7 20:16:28   加载点位PLC地址：,0,2
+2025/12/7 20:16:28   System.Data.SqlClient.SqlException (0x80131904): 必须声明标量变量 "@MaterialID"。
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   在 System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   在 System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   在 System.Data.SqlClient.SqlDataReader.get_MetaData()
+   在 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteReader()
+   在 ErrorProofing.MainForm.GetMaterialPose(Int32 _x, Int32 _y, String& _materialID) 位置 D:\程序\ErrorProofing\MainForm.cs:行号 177
+ClientConnectionId:829d58f3-c73f-4fe5-804d-b6db77c71176
+Error Number:137,State:2,Class:15
+2025/12/7 20:16:28   加载点位PLC地址：,0,3
+2025/12/7 20:16:28   System.Data.SqlClient.SqlException (0x80131904): 必须声明标量变量 "@MaterialID"。
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   在 System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   在 System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   在 System.Data.SqlClient.SqlDataReader.get_MetaData()
+   在 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteReader()
+   在 ErrorProofing.MainForm.GetMaterialPose(Int32 _x, Int32 _y, String& _materialID) 位置 D:\程序\ErrorProofing\MainForm.cs:行号 177
+ClientConnectionId:ef875746-9a74-49c2-aac1-01412b2c7794
+Error Number:137,State:2,Class:15
+2025/12/7 20:16:28   加载点位PLC地址：,0,4
+2025/12/7 20:16:28   System.Data.SqlClient.SqlException (0x80131904): 必须声明标量变量 "@MaterialID"。
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   在 System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   在 System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   在 System.Data.SqlClient.SqlDataReader.get_MetaData()
+   在 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteReader()
+   在 ErrorProofing.MainForm.GetMaterialPose(Int32 _x, Int32 _y, String& _materialID) 位置 D:\程序\ErrorProofing\MainForm.cs:行号 177
+ClientConnectionId:67f5a139-0b94-4fd6-a089-df8d1045bb9c
+Error Number:137,State:2,Class:15
+2025/12/7 20:16:28   加载点位PLC地址：,0,5
+2025/12/7 20:16:28   System.Data.SqlClient.SqlException (0x80131904): 必须声明标量变量 "@MaterialID"。
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   在 System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   在 System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   在 System.Data.SqlClient.SqlDataReader.get_MetaData()
+   在 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteReader()
+   在 ErrorProofing.MainForm.GetMaterialPose(Int32 _x, Int32 _y, String& _materialID) 位置 D:\程序\ErrorProofing\MainForm.cs:行号 177
+ClientConnectionId:85119799-3d07-451e-ac03-76442eda913d
+Error Number:137,State:2,Class:15
+2025/12/7 20:16:28   加载点位PLC地址：,0,6
+2025/12/7 20:16:28   System.Data.SqlClient.SqlException (0x80131904): 必须声明标量变量 "@MaterialID"。
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   在 System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   在 System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   在 System.Data.SqlClient.SqlDataReader.get_MetaData()
+   在 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteReader()
+   在 ErrorProofing.MainForm.GetMaterialPose(Int32 _x, Int32 _y, String& _materialID) 位置 D:\程序\ErrorProofing\MainForm.cs:行号 177
+ClientConnectionId:5f2211b2-7fd7-4010-9dde-4a3caef30f7a
+Error Number:137,State:2,Class:15
+2025/12/7 20:16:28   加载点位PLC地址：,1,0
+2025/12/7 20:16:28   System.Data.SqlClient.SqlException (0x80131904): 必须声明标量变量 "@MaterialID"。
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   在 System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   在 System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   在 System.Data.SqlClient.SqlDataReader.get_MetaData()
+   在 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteReader()
+   在 ErrorProofing.MainForm.GetMaterialPose(Int32 _x, Int32 _y, String& _materialID) 位置 D:\程序\ErrorProofing\MainForm.cs:行号 177
+ClientConnectionId:197fa0b9-285a-49cd-9367-f002a2a22f80
+Error Number:137,State:2,Class:15
+2025/12/7 20:16:28   加载点位PLC地址：,1,1
+2025/12/7 20:16:28   System.Data.SqlClient.SqlException (0x80131904): 必须声明标量变量 "@MaterialID"。
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   在 System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   在 System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   在 System.Data.SqlClient.SqlDataReader.get_MetaData()
+   在 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteReader()
+   在 ErrorProofing.MainForm.GetMaterialPose(Int32 _x, Int32 _y, String& _materialID) 位置 D:\程序\ErrorProofing\MainForm.cs:行号 177
+ClientConnectionId:57dcdb7f-42e5-4c96-a506-c9c4a7bff92c
+Error Number:137,State:2,Class:15
+2025/12/7 20:16:28   加载点位PLC地址：,1,2
+2025/12/7 20:16:28   System.Data.SqlClient.SqlException (0x80131904): 必须声明标量变量 "@MaterialID"。
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   在 System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   在 System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   在 System.Data.SqlClient.SqlDataReader.get_MetaData()
+   在 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteReader()
+   在 ErrorProofing.MainForm.GetMaterialPose(Int32 _x, Int32 _y, String& _materialID) 位置 D:\程序\ErrorProofing\MainForm.cs:行号 177
+ClientConnectionId:e61f24e2-fc5b-4523-b74a-479b1b5d3713
+Error Number:137,State:2,Class:15
+2025/12/7 20:16:28   加载点位PLC地址：,1,3
+2025/12/7 20:16:28   System.Data.SqlClient.SqlException (0x80131904): 必须声明标量变量 "@MaterialID"。
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   在 System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   在 System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   在 System.Data.SqlClient.SqlDataReader.get_MetaData()
+   在 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteReader()
+   在 ErrorProofing.MainForm.GetMaterialPose(Int32 _x, Int32 _y, String& _materialID) 位置 D:\程序\ErrorProofing\MainForm.cs:行号 177
+ClientConnectionId:7b4bbf2d-6300-45ca-8959-3a41efcc22f8
+Error Number:137,State:2,Class:15
+2025/12/7 20:16:28   加载点位PLC地址：,1,4
+2025/12/7 20:16:28   System.Data.SqlClient.SqlException (0x80131904): 必须声明标量变量 "@MaterialID"。
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   在 System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   在 System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   在 System.Data.SqlClient.SqlDataReader.get_MetaData()
+   在 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteReader()
+   在 ErrorProofing.MainForm.GetMaterialPose(Int32 _x, Int32 _y, String& _materialID) 位置 D:\程序\ErrorProofing\MainForm.cs:行号 177
+ClientConnectionId:57dcdb7f-42e5-4c96-a506-c9c4a7bff92c
+Error Number:137,State:2,Class:15
+2025/12/7 20:16:28   加载点位PLC地址：,1,5
+2025/12/7 20:16:28   System.Data.SqlClient.SqlException (0x80131904): 必须声明标量变量 "@MaterialID"。
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   在 System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   在 System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   在 System.Data.SqlClient.SqlDataReader.get_MetaData()
+   在 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteReader()
+   在 ErrorProofing.MainForm.GetMaterialPose(Int32 _x, Int32 _y, String& _materialID) 位置 D:\程序\ErrorProofing\MainForm.cs:行号 177
+ClientConnectionId:197fa0b9-285a-49cd-9367-f002a2a22f80
+Error Number:137,State:2,Class:15
+2025/12/7 20:16:28   加载点位PLC地址：,1,6
+2025/12/7 20:16:28   System.Data.SqlClient.SqlException (0x80131904): 必须声明标量变量 "@MaterialID"。
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   在 System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   在 System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   在 System.Data.SqlClient.SqlDataReader.get_MetaData()
+   在 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteReader()
+   在 ErrorProofing.MainForm.GetMaterialPose(Int32 _x, Int32 _y, String& _materialID) 位置 D:\程序\ErrorProofing\MainForm.cs:行号 177
+ClientConnectionId:5f2211b2-7fd7-4010-9dde-4a3caef30f7a
+Error Number:137,State:2,Class:15
+2025/12/7 20:16:28   加载点位PLC地址：,2,0
+2025/12/7 20:16:28   System.Data.SqlClient.SqlException (0x80131904): 必须声明标量变量 "@MaterialID"。
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   在 System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   在 System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   在 System.Data.SqlClient.SqlDataReader.get_MetaData()
+   在 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteReader()
+   在 ErrorProofing.MainForm.GetMaterialPose(Int32 _x, Int32 _y, String& _materialID) 位置 D:\程序\ErrorProofing\MainForm.cs:行号 177
+ClientConnectionId:85119799-3d07-451e-ac03-76442eda913d
+Error Number:137,State:2,Class:15
+2025/12/7 20:16:28   加载点位PLC地址：,2,1
+2025/12/7 20:16:28   System.Data.SqlClient.SqlException (0x80131904): 必须声明标量变量 "@MaterialID"。
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   在 System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   在 System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   在 System.Data.SqlClient.SqlDataReader.get_MetaData()
+   在 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteReader()
+   在 ErrorProofing.MainForm.GetMaterialPose(Int32 _x, Int32 _y, String& _materialID) 位置 D:\程序\ErrorProofing\MainForm.cs:行号 177
+ClientConnectionId:67f5a139-0b94-4fd6-a089-df8d1045bb9c
+Error Number:137,State:2,Class:15
+2025/12/7 20:16:28   加载点位PLC地址：,2,2
+2025/12/7 20:16:28   System.Data.SqlClient.SqlException (0x80131904): 必须声明标量变量 "@MaterialID"。
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   在 System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   在 System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   在 System.Data.SqlClient.SqlDataReader.get_MetaData()
+   在 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteReader()
+   在 ErrorProofing.MainForm.GetMaterialPose(Int32 _x, Int32 _y, String& _materialID) 位置 D:\程序\ErrorProofing\MainForm.cs:行号 177
+ClientConnectionId:ef875746-9a74-49c2-aac1-01412b2c7794
+Error Number:137,State:2,Class:15
+2025/12/7 20:16:28   加载点位PLC地址：,2,3
+2025/12/7 20:16:28   System.Data.SqlClient.SqlException (0x80131904): 必须声明标量变量 "@MaterialID"。
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   在 System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   在 System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   在 System.Data.SqlClient.SqlDataReader.get_MetaData()
+   在 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteReader()
+   在 ErrorProofing.MainForm.GetMaterialPose(Int32 _x, Int32 _y, String& _materialID) 位置 D:\程序\ErrorProofing\MainForm.cs:行号 177
+ClientConnectionId:829d58f3-c73f-4fe5-804d-b6db77c71176
+Error Number:137,State:2,Class:15
+2025/12/7 20:16:28   加载点位PLC地址：,2,4
+2025/12/7 20:16:28   System.Data.SqlClient.SqlException (0x80131904): 必须声明标量变量 "@MaterialID"。
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   在 System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   在 System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   在 System.Data.SqlClient.SqlDataReader.get_MetaData()
+   在 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteReader()
+   在 ErrorProofing.MainForm.GetMaterialPose(Int32 _x, Int32 _y, String& _materialID) 位置 D:\程序\ErrorProofing\MainForm.cs:行号 177
+ClientConnectionId:58e2d1bd-dad4-4fb6-a7f9-66de9ad96b3e
+Error Number:137,State:2,Class:15
+2025/12/7 20:16:28   加载点位PLC地址：,2,5
+2025/12/7 20:16:29   System.Data.SqlClient.SqlException (0x80131904): 必须声明标量变量 "@MaterialID"。
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   在 System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   在 System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   在 System.Data.SqlClient.SqlDataReader.get_MetaData()
+   在 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteReader()
+   在 ErrorProofing.MainForm.GetMaterialPose(Int32 _x, Int32 _y, String& _materialID) 位置 D:\程序\ErrorProofing\MainForm.cs:行号 177
+ClientConnectionId:862844f7-b1c5-40d8-ad92-b87d77fffa59
+Error Number:137,State:2,Class:15
+2025/12/7 20:16:29   加载点位PLC地址：,2,6
+2025/12/7 20:16:45   加载点位PLC地址：,0,0
+2025/12/7 20:16:45   加载点位PLC地址：,0,1
+2025/12/7 20:16:45   加载点位PLC地址：,0,2
+2025/12/7 20:16:45   加载点位PLC地址：,0,3
+2025/12/7 20:16:45   加载点位PLC地址：,0,4
+2025/12/7 20:16:45   加载点位PLC地址：,0,5
+2025/12/7 20:16:45   加载点位PLC地址：,0,6
+2025/12/7 20:16:45   加载点位PLC地址：,1,0
+2025/12/7 20:16:45   加载点位PLC地址：,1,1
+2025/12/7 20:16:45   加载点位PLC地址：,1,2
+2025/12/7 20:16:45   加载点位PLC地址：,1,3
+2025/12/7 20:16:45   加载点位PLC地址：,1,4
+2025/12/7 20:16:45   加载点位PLC地址：,1,5
+2025/12/7 20:16:46   加载点位PLC地址：,1,6
+2025/12/7 20:16:46   加载点位PLC地址：,2,0
+2025/12/7 20:16:46   加载点位PLC地址：,2,1
+2025/12/7 20:16:46   加载点位PLC地址：,2,2
+2025/12/7 20:16:46   加载点位PLC地址：,2,3
+2025/12/7 20:16:46   加载点位PLC地址：,2,4
+2025/12/7 20:16:46   加载点位PLC地址：,2,5
+2025/12/7 20:16:46   加载点位PLC地址：,2,6
+2025/12/7 20:17:33   加载点位PLC地址：,0,0
+2025/12/7 20:17:33   加载点位PLC地址：,0,1
+2025/12/7 20:17:33   加载点位PLC地址：,0,2
+2025/12/7 20:17:33   加载点位PLC地址：,0,3
+2025/12/7 20:17:33   加载点位PLC地址：,0,4
+2025/12/7 20:17:33   加载点位PLC地址：,0,5
+2025/12/7 20:17:33   加载点位PLC地址：,0,6
+2025/12/7 20:17:33   加载点位PLC地址：,1,0
+2025/12/7 20:17:33   加载点位PLC地址：,1,1
+2025/12/7 20:17:33   加载点位PLC地址：,1,2
+2025/12/7 20:17:33   加载点位PLC地址：,1,3
+2025/12/7 20:17:33   加载点位PLC地址：,1,4
+2025/12/7 20:17:33   加载点位PLC地址：,1,5
+2025/12/7 20:17:33   加载点位PLC地址：,1,6
+2025/12/7 20:17:33   加载点位PLC地址：,2,0
+2025/12/7 20:17:33   加载点位PLC地址：,2,1
+2025/12/7 20:17:33   加载点位PLC地址：,2,2
+2025/12/7 20:17:33   加载点位PLC地址：,2,3
+2025/12/7 20:17:33   加载点位PLC地址：,2,4
+2025/12/7 20:17:33   加载点位PLC地址：,2,5
+2025/12/7 20:17:33   加载点位PLC地址：,2,6
+2025/12/7 20:19:05   加载点位PLC地址：,0,0
+2025/12/7 20:19:05   加载点位PLC地址：,0,1
+2025/12/7 20:19:05   加载点位PLC地址：,0,2
+2025/12/7 20:19:05   加载点位PLC地址：,0,3
+2025/12/7 20:19:05   加载点位PLC地址：,0,4
+2025/12/7 20:19:05   加载点位PLC地址：,0,5
+2025/12/7 20:19:05   加载点位PLC地址：,0,6
+2025/12/7 20:19:05   加载点位PLC地址：,1,0
+2025/12/7 20:19:05   加载点位PLC地址：,1,1
+2025/12/7 20:19:05   加载点位PLC地址：,1,2
+2025/12/7 20:19:05   加载点位PLC地址：,1,3
+2025/12/7 20:19:05   加载点位PLC地址：,1,4
+2025/12/7 20:19:05   加载点位PLC地址：,1,5
+2025/12/7 20:19:05   加载点位PLC地址：,1,6
+2025/12/7 20:19:05   加载点位PLC地址：,2,0
+2025/12/7 20:19:05   加载点位PLC地址：,2,1
+2025/12/7 20:19:05   加载点位PLC地址：,2,2
+2025/12/7 20:19:05   加载点位PLC地址：,2,3
+2025/12/7 20:19:05   加载点位PLC地址：,2,4
+2025/12/7 20:19:05   加载点位PLC地址：,2,5
+2025/12/7 20:19:05   加载点位PLC地址：,2,6
+2025/12/7 20:19:29   加载点位PLC地址：,0,0
+2025/12/7 20:19:30   加载点位PLC地址：,0,1
+2025/12/7 20:19:31   加载点位PLC地址：,0,2
+2025/12/7 20:19:33   加载点位PLC地址：,0,3
+2025/12/7 20:19:33   加载点位PLC地址：,0,4
+2025/12/7 20:19:33   加载点位PLC地址：,0,5
+2025/12/7 20:19:33   加载点位PLC地址：,0,6
+2025/12/7 20:19:33   加载点位PLC地址：,1,0
+2025/12/7 20:19:33   加载点位PLC地址：,1,1
+2025/12/7 20:19:33   加载点位PLC地址：,1,2
+2025/12/7 20:19:33   加载点位PLC地址：,1,3
+2025/12/7 20:19:33   加载点位PLC地址：,1,4
+2025/12/7 20:19:33   加载点位PLC地址：,1,5
+2025/12/7 20:19:33   加载点位PLC地址：,1,6
+2025/12/7 20:19:33   加载点位PLC地址：,2,0
+2025/12/7 20:19:33   加载点位PLC地址：,2,1
+2025/12/7 20:19:33   加载点位PLC地址：,2,2
+2025/12/7 20:19:33   加载点位PLC地址：,2,3
+2025/12/7 20:19:34   加载点位PLC地址：,2,4
+2025/12/7 20:19:34   加载点位PLC地址：,2,5
+2025/12/7 20:19:34   加载点位PLC地址：,2,6
+2025/12/7 20:19:58   
+2025/12/7 20:19:58   
+2025/12/7 20:19:58   
+2025/12/7 20:19:58   
+2025/12/7 20:19:58   
+2025/12/7 20:19:58   
+2025/12/7 20:19:58   
+2025/12/7 20:19:58   
+2025/12/7 20:19:58   
+2025/12/7 20:19:59   
+2025/12/7 20:19:59   
+2025/12/7 20:19:59   
+2025/12/7 20:19:59   
+2025/12/7 20:19:59   
+2025/12/7 20:19:59   
+2025/12/7 20:19:59   
+2025/12/7 20:19:59   
+2025/12/7 20:19:59   
+2025/12/7 20:19:59   
+2025/12/7 20:19:59   
+2025/12/7 20:19:59   
+2025/12/7 20:21:10   TEST0016
+2025/12/7 20:21:10   TEST0017
+2025/12/7 20:21:10   TEST0018
+2025/12/7 20:21:10   TEST0019
+2025/12/7 20:21:10   TEST0020
+2025/12/7 20:21:10   TEST0021
+2025/12/7 20:21:10   TEST001
+2025/12/7 20:21:10   TEST002
+2025/12/7 20:21:10   TEST003
+2025/12/7 20:21:10   TEST004
+2025/12/7 20:21:10   TEST005
+2025/12/7 20:21:10   TEST006
+2025/12/7 20:21:10   TEST007
+2025/12/7 20:21:10   TEST008
+2025/12/7 20:21:10   TEST009
+2025/12/7 20:21:10   TEST0010
+2025/12/7 20:21:10   TEST0011
+2025/12/7 20:21:10   TEST0012
+2025/12/7 20:21:10   TEST0013
+2025/12/7 20:21:10   TEST0014
+2025/12/7 20:21:10   
+2025/12/7 20:21:23   TEST0016
+2025/12/7 20:21:23   TEST0017
+2025/12/7 20:21:23   TEST0018
+2025/12/7 20:21:23   TEST0019
+2025/12/7 20:21:23   TEST0020
+2025/12/7 20:21:23   TEST0021
+2025/12/7 20:21:23   TEST001
+2025/12/7 20:21:23   TEST002
+2025/12/7 20:21:23   TEST003
+2025/12/7 20:21:23   TEST004
+2025/12/7 20:21:23   TEST005
+2025/12/7 20:21:23   TEST006
+2025/12/7 20:21:23   TEST007
+2025/12/7 20:21:23   TEST008
+2025/12/7 20:21:23   TEST009
+2025/12/7 20:21:23   TEST0010
+2025/12/7 20:21:23   TEST0011
+2025/12/7 20:21:23   TEST0012
+2025/12/7 20:21:23   TEST0013
+2025/12/7 20:21:23   TEST0014
+2025/12/7 20:21:23   TEST0015
+2025/12/7 20:23:12   TEST0016
+2025/12/7 20:23:12   TEST0017
+2025/12/7 20:23:12   TEST0018
+2025/12/7 20:23:12   TEST0019
+2025/12/7 20:23:12   TEST0020
+2025/12/7 20:23:12   TEST0021
+2025/12/7 20:23:12   TEST001
+2025/12/7 20:23:12   TEST002
+2025/12/7 20:23:12   TEST003
+2025/12/7 20:23:12   TEST004
+2025/12/7 20:23:12   TEST005
+2025/12/7 20:23:12   TEST006
+2025/12/7 20:23:12   TEST007
+2025/12/7 20:23:12   TEST008
+2025/12/7 20:23:12   TEST009
+2025/12/7 20:23:12   TEST0010
+2025/12/7 20:23:12   TEST0011
+2025/12/7 20:23:12   TEST0012
+2025/12/7 20:23:12   TEST0013
+2025/12/7 20:23:12   TEST0014
+2025/12/7 20:23:12   TEST0015
+2025/12/7 20:24:07   TEST0016
+2025/12/7 20:24:08   TEST0017
+2025/12/7 20:24:08   TEST0018
+2025/12/7 20:24:08   TEST0019
+2025/12/7 20:24:08   TEST0020
+2025/12/7 20:24:08   TEST0021
+2025/12/7 20:24:08   TEST001
+2025/12/7 20:24:08   TEST002
+2025/12/7 20:24:08   TEST003
+2025/12/7 20:24:08   TEST004
+2025/12/7 20:24:08   TEST005
+2025/12/7 20:24:08   TEST006
+2025/12/7 20:24:08   TEST007
+2025/12/7 20:24:08   TEST008
+2025/12/7 20:24:08   TEST009
+2025/12/7 20:24:08   TEST0010
+2025/12/7 20:24:08   TEST0011
+2025/12/7 20:24:08   TEST0012
+2025/12/7 20:24:08   TEST0013
+2025/12/7 20:24:08   TEST0014
+2025/12/7 20:24:08   TEST0015
+2025/12/7 20:25:01   TEST0016
+2025/12/7 20:25:01   TEST0017
+2025/12/7 20:25:01   TEST0018
+2025/12/7 20:25:01   TEST0019
+2025/12/7 20:25:01   TEST0020
+2025/12/7 20:25:01   TEST0021
+2025/12/7 20:25:01   TEST001
+2025/12/7 20:25:01   TEST002
+2025/12/7 20:25:01   TEST003
+2025/12/7 20:25:01   TEST004
+2025/12/7 20:25:01   TEST005
+2025/12/7 20:25:01   TEST006
+2025/12/7 20:25:01   TEST007
+2025/12/7 20:25:01   TEST008
+2025/12/7 20:25:01   TEST009
+2025/12/7 20:25:01   TEST0010
+2025/12/7 20:25:01   TEST0011
+2025/12/7 20:25:01   TEST0012
+2025/12/7 20:25:01   TEST0013
+2025/12/7 20:25:01   TEST0014
+2025/12/7 20:25:01   TEST0015
+2025/12/7 20:25:42   TEST0016
+2025/12/7 20:25:42   TEST0017
+2025/12/7 20:25:42   TEST0018
+2025/12/7 20:25:42   TEST0019
+2025/12/7 20:25:42   TEST0020
+2025/12/7 20:25:42   TEST0021
+2025/12/7 20:25:42   TEST001
+2025/12/7 20:25:42   TEST002
+2025/12/7 20:25:42   TEST003
+2025/12/7 20:25:42   TEST004
+2025/12/7 20:25:42   TEST005
+2025/12/7 20:25:42   TEST006
+2025/12/7 20:25:42   TEST007
+2025/12/7 20:25:42   TEST008
+2025/12/7 20:25:42   TEST009
+2025/12/7 20:25:42   TEST0010
+2025/12/7 20:25:42   TEST0011
+2025/12/7 20:25:42   TEST0012
+2025/12/7 20:25:42   TEST0013
+2025/12/7 20:25:42   TEST0014
+2025/12/7 20:25:42   TEST0015
+2025/12/7 20:33:43   TEST0016
+2025/12/7 20:33:43   TEST0017
+2025/12/7 20:33:43   TEST0018
+2025/12/7 20:33:43   TEST0019
+2025/12/7 20:33:43   TEST0020
+2025/12/7 20:33:43   TEST0021
+2025/12/7 20:33:43   TEST001
+2025/12/7 20:33:43   TEST002
+2025/12/7 20:33:43   TEST003
+2025/12/7 20:33:43   TEST004
+2025/12/7 20:33:43   TEST005
+2025/12/7 20:33:43   TEST006
+2025/12/7 20:33:43   TEST007
+2025/12/7 20:33:43   TEST008
+2025/12/7 20:33:43   TEST009
+2025/12/7 20:33:43   TEST0010
+2025/12/7 20:33:43   TEST0011
+2025/12/7 20:33:43   TEST0012
+2025/12/7 20:33:43   TEST0013
+2025/12/7 20:33:43   TEST0014
+2025/12/7 20:33:43   TEST0015
+2025/12/7 20:36:18   TEST0016
+2025/12/7 20:36:18   TEST0017
+2025/12/7 20:36:18   TEST0018
+2025/12/7 20:36:18   TEST0019
+2025/12/7 20:36:18   TEST0020
+2025/12/7 20:36:18   TEST0021
+2025/12/7 20:36:18   TEST001
+2025/12/7 20:36:18   TEST002
+2025/12/7 20:36:18   TEST003
+2025/12/7 20:36:18   TEST004
+2025/12/7 20:36:18   TEST005
+2025/12/7 20:36:18   TEST006
+2025/12/7 20:36:18   TEST007
+2025/12/7 20:36:18   TEST008
+2025/12/7 20:36:18   TEST009
+2025/12/7 20:36:18   TEST0010
+2025/12/7 20:36:18   TEST0011
+2025/12/7 20:36:18   TEST0012
+2025/12/7 20:36:18   TEST0013
+2025/12/7 20:36:18   TEST0014
+2025/12/7 20:36:18   TEST0015
+2025/12/7 20:44:57   TEST0016
+2025/12/7 20:44:57   TEST0017
+2025/12/7 20:44:57   TEST0018
+2025/12/7 20:44:57   TEST0019
+2025/12/7 20:44:58   TEST0020
+2025/12/7 20:44:58   TEST0021
+2025/12/7 20:44:58   TEST001
+2025/12/7 20:44:58   TEST002
+2025/12/7 20:44:58   TEST003
+2025/12/7 20:44:58   TEST004
+2025/12/7 20:44:58   TEST005
+2025/12/7 20:44:58   TEST006
+2025/12/7 20:44:58   TEST007
+2025/12/7 20:44:58   TEST008
+2025/12/7 20:44:58   TEST009
+2025/12/7 20:44:58   TEST0010
+2025/12/7 20:44:58   TEST0011
+2025/12/7 20:44:58   TEST0012
+2025/12/7 20:44:58   TEST0013
+2025/12/7 20:44:58   TEST0014
+2025/12/7 20:44:58   TEST0015
+2025/12/7 20:45:43   TEST0016
+2025/12/7 20:45:43   TEST0017
+2025/12/7 20:45:43   TEST0018
+2025/12/7 20:45:43   TEST0019
+2025/12/7 20:45:43   TEST0020
+2025/12/7 20:45:43   TEST0021
+2025/12/7 20:45:43   TEST001
+2025/12/7 20:45:43   TEST002
+2025/12/7 20:45:43   TEST003
+2025/12/7 20:45:43   TEST004
+2025/12/7 20:45:43   TEST005
+2025/12/7 20:45:43   TEST006
+2025/12/7 20:45:43   TEST007
+2025/12/7 20:45:43   TEST008
+2025/12/7 20:45:43   TEST009
+2025/12/7 20:45:43   TEST0010
+2025/12/7 20:45:43   TEST0011
+2025/12/7 20:45:43   TEST0012
+2025/12/7 20:45:43   TEST0013
+2025/12/7 20:45:43   TEST0014
+2025/12/7 20:45:43   TEST0015
+2025/12/7 20:47:14   TEST0016
+2025/12/7 20:47:14   TEST0017
+2025/12/7 20:47:14   TEST0018
+2025/12/7 20:47:14   TEST0019
+2025/12/7 20:47:14   TEST0020
+2025/12/7 20:47:14   TEST0021
+2025/12/7 20:47:14   TEST001
+2025/12/7 20:47:14   TEST002
+2025/12/7 20:47:14   TEST003
+2025/12/7 20:47:14   TEST004
+2025/12/7 20:47:14   TEST005
+2025/12/7 20:47:14   TEST006
+2025/12/7 20:47:14   TEST007
+2025/12/7 20:47:14   TEST008
+2025/12/7 20:47:14   TEST009
+2025/12/7 20:47:14   TEST0010
+2025/12/7 20:47:14   TEST0011
+2025/12/7 20:47:15   TEST0012
+2025/12/7 20:47:15   TEST0013
+2025/12/7 20:47:15   TEST0014
+2025/12/7 20:47:15   TEST0015
+2025/12/7 20:47:47   TEST0016
+2025/12/7 20:47:47   TEST0017
+2025/12/7 20:47:47   TEST0018
+2025/12/7 20:47:47   TEST0019
+2025/12/7 20:47:47   TEST0020
+2025/12/7 20:47:47   TEST0021
+2025/12/7 20:47:47   TEST001
+2025/12/7 20:47:47   TEST002
+2025/12/7 20:47:47   TEST003
+2025/12/7 20:47:47   TEST004
+2025/12/7 20:47:47   TEST005
+2025/12/7 20:47:47   TEST006
+2025/12/7 20:47:47   TEST007
+2025/12/7 20:47:47   TEST008
+2025/12/7 20:47:47   TEST009
+2025/12/7 20:47:47   TEST0010
+2025/12/7 20:47:47   TEST0011
+2025/12/7 20:47:47   TEST0012
+2025/12/7 20:47:47   TEST0013
+2025/12/7 20:47:47   TEST0014
+2025/12/7 20:47:47   TEST0015
+2025/12/7 20:48:07   TEST0016
+2025/12/7 20:48:07   TEST0017
+2025/12/7 20:48:07   TEST0018
+2025/12/7 20:48:07   TEST0019
+2025/12/7 20:48:07   TEST0020
+2025/12/7 20:48:07   TEST0021
+2025/12/7 20:48:07   TEST001
+2025/12/7 20:48:07   TEST002
+2025/12/7 20:48:07   TEST003
+2025/12/7 20:48:07   TEST004
+2025/12/7 20:48:07   TEST005
+2025/12/7 20:48:07   TEST006
+2025/12/7 20:48:07   TEST007
+2025/12/7 20:48:07   TEST008
+2025/12/7 20:48:07   TEST009
+2025/12/7 20:48:07   TEST0010
+2025/12/7 20:48:07   TEST0011
+2025/12/7 20:48:07   TEST0012
+2025/12/7 20:48:07   TEST0013
+2025/12/7 20:48:07   TEST0014
+2025/12/7 20:48:07   TEST0015
+2025/12/7 20:49:44   TEST0016
+2025/12/7 20:49:44   TEST0017
+2025/12/7 20:49:44   TEST0018
+2025/12/7 20:49:44   TEST0019
+2025/12/7 20:49:44   TEST0020
+2025/12/7 20:49:44   TEST0021
+2025/12/7 20:49:44   TEST001
+2025/12/7 20:49:44   TEST002
+2025/12/7 20:49:44   TEST003
+2025/12/7 20:49:44   TEST004
+2025/12/7 20:49:44   TEST005
+2025/12/7 20:49:44   TEST006
+2025/12/7 20:49:44   TEST007
+2025/12/7 20:49:44   TEST008
+2025/12/7 20:49:44   TEST009
+2025/12/7 20:49:44   TEST0010
+2025/12/7 20:49:44   TEST0011
+2025/12/7 20:49:44   TEST0012
+2025/12/7 20:49:44   TEST0013
+2025/12/7 20:49:45   TEST0014
+2025/12/7 20:49:45   TEST0015
+2025/12/7 20:49:57   TEST0016
+2025/12/7 20:49:57   TEST0017
+2025/12/7 20:49:57   TEST0018
+2025/12/7 20:49:57   TEST0019
+2025/12/7 20:49:57   TEST0020
+2025/12/7 20:49:57   TEST0021
+2025/12/7 20:49:57   TEST001
+2025/12/7 20:49:57   TEST002
+2025/12/7 20:49:57   TEST003
+2025/12/7 20:49:57   TEST004
+2025/12/7 20:49:57   TEST005
+2025/12/7 20:49:57   TEST006
+2025/12/7 20:49:57   TEST007
+2025/12/7 20:49:57   TEST008
+2025/12/7 20:49:57   TEST009
+2025/12/7 20:49:57   TEST0010
+2025/12/7 20:49:57   TEST0011
+2025/12/7 20:49:57   TEST0012
+2025/12/7 20:49:57   TEST0013
+2025/12/7 20:49:57   TEST0014
+2025/12/7 20:49:57   TEST0015
+2025/12/7 20:50:08   TEST0016
+2025/12/7 20:50:08   TEST0017
+2025/12/7 20:50:08   TEST0018
+2025/12/7 20:50:08   TEST0019
+2025/12/7 20:50:08   TEST0020
+2025/12/7 20:50:08   TEST0021
+2025/12/7 20:50:08   TEST001
+2025/12/7 20:50:08   TEST002
+2025/12/7 20:50:08   TEST003
+2025/12/7 20:50:08   TEST004
+2025/12/7 20:50:08   TEST005
+2025/12/7 20:50:08   TEST006
+2025/12/7 20:50:08   TEST007
+2025/12/7 20:50:08   TEST008
+2025/12/7 20:50:08   TEST009
+2025/12/7 20:50:08   TEST0010
+2025/12/7 20:50:08   TEST0011
+2025/12/7 20:50:08   TEST0012
+2025/12/7 20:50:08   TEST0013
+2025/12/7 20:50:08   TEST0014
+2025/12/7 20:50:08   TEST0015
+2025/12/7 20:50:17   TEST0016
+2025/12/7 20:50:17   TEST0017
+2025/12/7 20:50:17   TEST0018
+2025/12/7 20:50:17   TEST0019
+2025/12/7 20:50:17   TEST0020
+2025/12/7 20:50:17   TEST0021
+2025/12/7 20:50:17   TEST001
+2025/12/7 20:50:17   TEST002
+2025/12/7 20:50:17   TEST003
+2025/12/7 20:50:17   TEST004
+2025/12/7 20:50:17   TEST005
+2025/12/7 20:50:17   TEST006
+2025/12/7 20:50:17   TEST007
+2025/12/7 20:50:17   TEST008
+2025/12/7 20:50:17   TEST009
+2025/12/7 20:50:17   TEST0010
+2025/12/7 20:50:17   TEST0011
+2025/12/7 20:50:17   TEST0012
+2025/12/7 20:50:17   TEST0013
+2025/12/7 20:50:17   TEST0014
+2025/12/7 20:50:17   TEST0015
+2025/12/7 20:50:27   TEST0016
+2025/12/7 20:50:27   TEST0017
+2025/12/7 20:50:27   TEST0018
+2025/12/7 20:50:27   TEST0019
+2025/12/7 20:50:27   TEST0020
+2025/12/7 20:50:27   TEST0021
+2025/12/7 20:50:27   TEST001
+2025/12/7 20:50:27   TEST002
+2025/12/7 20:50:27   TEST003
+2025/12/7 20:50:27   TEST004
+2025/12/7 20:50:27   TEST005
+2025/12/7 20:50:27   TEST006
+2025/12/7 20:50:27   TEST007
+2025/12/7 20:50:27   TEST008
+2025/12/7 20:50:27   TEST009
+2025/12/7 20:50:27   TEST0010
+2025/12/7 20:50:27   TEST0011
+2025/12/7 20:50:27   TEST0012
+2025/12/7 20:50:27   TEST0013
+2025/12/7 20:50:27   TEST0014
+2025/12/7 20:50:27   TEST0015
+2025/12/7 20:50:55   TEST0016
+2025/12/7 20:50:55   TEST0017
+2025/12/7 20:50:55   TEST0018
+2025/12/7 20:50:55   TEST0019
+2025/12/7 20:50:55   TEST0020
+2025/12/7 20:50:55   TEST0021
+2025/12/7 20:50:55   TEST001
+2025/12/7 20:50:55   TEST002
+2025/12/7 20:50:55   TEST003
+2025/12/7 20:50:55   TEST004
+2025/12/7 20:50:55   TEST005
+2025/12/7 20:50:55   TEST006
+2025/12/7 20:50:55   TEST007
+2025/12/7 20:50:55   TEST008
+2025/12/7 20:50:55   TEST009
+2025/12/7 20:50:55   TEST0010
+2025/12/7 20:50:55   TEST0011
+2025/12/7 20:50:55   TEST0012
+2025/12/7 20:50:55   TEST0013
+2025/12/7 20:50:55   TEST0014
+2025/12/7 20:50:55   TEST0015

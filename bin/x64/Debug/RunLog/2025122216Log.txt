@@ -1,0 +1,5 @@
+2025/12/22 16:00:57   检测端读码器连接失败：System.Net.Sockets.SocketException (0x80004005): 向一个无法连接的网络尝试了一个套接字操作。 192.168.2.60:51236
+   在 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   在 ErrorProofing.MainForm.ConnectCheckIDReader() 位置 D:\VSproject\ErrorProofing\MainForm.cs:行号 1217
+2025/12/22 16:00:57   系统重启，已恢复队列数量：2

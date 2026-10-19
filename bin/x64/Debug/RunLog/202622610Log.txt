@@ -1,0 +1,49 @@
+2026/2/26 10:33:06   System.Data.SqlTypes.SqlNullValueException: 数据为空。不能对 Null 值调用此方法或属性。
+   在 System.Data.SqlClient.SqlBuffer.get_Int32()
+   在 ErrorProofing.MainForm.GetAllHistoryCount() 位置 D:\VSproject\ErrorProofing（并发弹出版）\MainForm.cs:行号 656
+   在 ErrorProofing.MainForm.datagridviewbutton() 位置 D:\VSproject\ErrorProofing（并发弹出版）\MainForm.cs:行号 2497
+2026/2/26 10:33:06   系统重启完成，恢复待处理批次数：0
+2026/2/26 10:33:09   System.Data.SqlTypes.SqlNullValueException: 数据为空。不能对 Null 值调用此方法或属性。
+   在 System.Data.SqlClient.SqlBuffer.get_Int32()
+   在 ErrorProofing.MainForm.GetAllHistoryCount() 位置 D:\VSproject\ErrorProofing（并发弹出版）\MainForm.cs:行号 656
+   在 ErrorProofing.MainForm.<timer_RefreshGrid_Tick>b__128_0() 位置 D:\VSproject\ErrorProofing（并发弹出版）\MainForm.cs:行号 2361
+2026/2/26 10:33:12   System.Data.SqlTypes.SqlNullValueException: 数据为空。不能对 Null 值调用此方法或属性。
+   在 System.Data.SqlClient.SqlBuffer.get_Int32()
+   在 ErrorProofing.MainForm.GetAllHistoryCount() 位置 D:\VSproject\ErrorProofing（并发弹出版）\MainForm.cs:行号 656
+   在 ErrorProofing.MainForm.<timer_RefreshGrid_Tick>b__128_0() 位置 D:\VSproject\ErrorProofing（并发弹出版）\MainForm.cs:行号 2361
+2026/2/26 10:33:15   System.Data.SqlTypes.SqlNullValueException: 数据为空。不能对 Null 值调用此方法或属性。
+   在 System.Data.SqlClient.SqlBuffer.get_Int32()
+   在 ErrorProofing.MainForm.GetAllHistoryCount() 位置 D:\VSproject\ErrorProofing（并发弹出版）\MainForm.cs:行号 656
+   在 ErrorProofing.MainForm.<timer_RefreshGrid_Tick>b__128_0() 位置 D:\VSproject\ErrorProofing（并发弹出版）\MainForm.cs:行号 2361
+2026/2/26 10:33:18   System.Data.SqlTypes.SqlNullValueException: 数据为空。不能对 Null 值调用此方法或属性。
+   在 System.Data.SqlClient.SqlBuffer.get_Int32()
+   在 ErrorProofing.MainForm.GetAllHistoryCount() 位置 D:\VSproject\ErrorProofing（并发弹出版）\MainForm.cs:行号 656
+   在 ErrorProofing.MainForm.<timer_RefreshGrid_Tick>b__128_0() 位置 D:\VSproject\ErrorProofing（并发弹出版）\MainForm.cs:行号 2361
+2026/2/26 10:33:21   System.Data.SqlTypes.SqlNullValueException: 数据为空。不能对 Null 值调用此方法或属性。
+   在 System.Data.SqlClient.SqlBuffer.get_Int32()
+   在 ErrorProofing.MainForm.GetAllHistoryCount() 位置 D:\VSproject\ErrorProofing（并发弹出版）\MainForm.cs:行号 656
+   在 ErrorProofing.MainForm.<timer_RefreshGrid_Tick>b__128_0() 位置 D:\VSproject\ErrorProofing（并发弹出版）\MainForm.cs:行号 2361
+2026/2/26 10:33:24   System.Data.SqlTypes.SqlNullValueException: 数据为空。不能对 Null 值调用此方法或属性。
+   在 System.Data.SqlClient.SqlBuffer.get_Int32()
+   在 ErrorProofing.MainForm.GetAllHistoryCount() 位置 D:\VSproject\ErrorProofing（并发弹出版）\MainForm.cs:行号 656
+   在 ErrorProofing.MainForm.<timer_RefreshGrid_Tick>b__128_0() 位置 D:\VSproject\ErrorProofing（并发弹出版）\MainForm.cs:行号 2361
+2026/2/26 10:33:27   System.Data.SqlTypes.SqlNullValueException: 数据为空。不能对 Null 值调用此方法或属性。
+   在 System.Data.SqlClient.SqlBuffer.get_Int32()
+   在 ErrorProofing.MainForm.GetAllHistoryCount() 位置 D:\VSproject\ErrorProofing（并发弹出版）\MainForm.cs:行号 656
+   在 ErrorProofing.MainForm.<timer_RefreshGrid_Tick>b__128_0() 位置 D:\VSproject\ErrorProofing（并发弹出版）\MainForm.cs:行号 2361
+2026/2/26 10:33:30   System.Data.SqlTypes.SqlNullValueException: 数据为空。不能对 Null 值调用此方法或属性。
+   在 System.Data.SqlClient.SqlBuffer.get_Int32()
+   在 ErrorProofing.MainForm.GetAllHistoryCount() 位置 D:\VSproject\ErrorProofing（并发弹出版）\MainForm.cs:行号 656
+   在 ErrorProofing.MainForm.<timer_RefreshGrid_Tick>b__128_0() 位置 D:\VSproject\ErrorProofing（并发弹出版）\MainForm.cs:行号 2361
+2026/2/26 10:33:33   System.Data.SqlTypes.SqlNullValueException: 数据为空。不能对 Null 值调用此方法或属性。
+   在 System.Data.SqlClient.SqlBuffer.get_Int32()
+   在 ErrorProofing.MainForm.GetAllHistoryCount() 位置 D:\VSproject\ErrorProofing（并发弹出版）\MainForm.cs:行号 656
+   在 ErrorProofing.MainForm.<timer_RefreshGrid_Tick>b__128_0() 位置 D:\VSproject\ErrorProofing（并发弹出版）\MainForm.cs:行号 2361
+2026/2/26 10:33:36   System.Data.SqlTypes.SqlNullValueException: 数据为空。不能对 Null 值调用此方法或属性。
+   在 System.Data.SqlClient.SqlBuffer.get_Int32()
+   在 ErrorProofing.MainForm.GetAllHistoryCount() 位置 D:\VSproject\ErrorProofing（并发弹出版）\MainForm.cs:行号 656
+   在 ErrorProofing.MainForm.<timer_RefreshGrid_Tick>b__128_0() 位置 D:\VSproject\ErrorProofing（并发弹出版）\MainForm.cs:行号 2361
+2026/2/26 10:33:39   System.Data.SqlTypes.SqlNullValueException: 数据为空。不能对 Null 值调用此方法或属性。
+   在 System.Data.SqlClient.SqlBuffer.get_Int32()
+   在 ErrorProofing.MainForm.GetAllHistoryCount() 位置 D:\VSproject\ErrorProofing（并发弹出版）\MainForm.cs:行号 656
+   在 ErrorProofing.MainForm.<timer_RefreshGrid_Tick>b__128_0() 位置 D:\VSproject\ErrorProofing（并发弹出版）\MainForm.cs:行号 2361

@@ -1,0 +1,16 @@
+2025/12/23 16:18:15   系统重启，已恢复队列数量：2
+2025/12/23 16:18:28   系统重启，已恢复队列数量：2
+2025/12/23 16:20:11   系统重启，已恢复队列数量：2
+2025/12/23 16:29:12   系统重启，已恢复队列数量：2
+2025/12/23 16:34:27   PLC_1 Ping失败
+2025/12/23 16:34:48   检测端读码器连接失败：System.Net.Sockets.SocketException (0x80004005): 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。 192.168.2.60:51236
+   在 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   在 ErrorProofing.MainForm.ConnectCheckIDReader() 位置 D:\VSproject\ErrorProofing\MainForm.cs:行号 1229
+2025/12/23 16:34:48   系统重启，已恢复队列数量：2
+2025/12/23 16:36:24   PLC_1 Ping失败
+2025/12/23 16:36:45   检测端读码器连接失败：System.Net.Sockets.SocketException (0x80004005): 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。 192.168.2.60:51236
+   在 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   在 ErrorProofing.MainForm.ConnectCheckIDReader() 位置 D:\VSproject\ErrorProofing\MainForm.cs:行号 1229
+2025/12/23 16:36:45   系统重启，已恢复队列数量：2

@@ -1,0 +1,45 @@
+2025/12/24 23:01:19   系统重启，已恢复队列数量：2
+2025/12/24 23:02:45   系统重启，已恢复队列数量：2
+2025/12/24 23:08:24   系统重启，已恢复队列数量：2
+2025/12/24 23:16:49   系统重启，已恢复队列数量：2
+2025/12/24 23:20:22   系统重启，已恢复队列数量：2
+2025/12/24 23:21:05   系统重启，已恢复队列数量：2
+2025/12/24 23:37:16   系统重启，已恢复队列数量：2
+2025/12/24 23:37:30   System.FormatException: 输入字符串的格式不正确。
+   在 System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   在 System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   在 ErrorProofing.AddMaterialID.button2_Click(Object sender, EventArgs e) 位置 D:\VSproject\ErrorProofing\AddMaterialID.cs:行号 122
+   在 System.Windows.Forms.Control.OnClick(EventArgs e)
+   在 System.Windows.Forms.Button.OnMouseUp(MouseEventArgs mevent)
+   在 System.Windows.Forms.Control.WmMouseUp(Message& m, MouseButtons button, Int32 clicks)
+   在 System.Windows.Forms.Control.WndProc(Message& m)
+   在 System.Windows.Forms.ButtonBase.WndProc(Message& m)
+   在 System.Windows.Forms.Button.WndProc(Message& m)
+   在 System.Windows.Forms.NativeWindow.DebuggableCallback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   在 System.Windows.Forms.UnsafeNativeMethods.DispatchMessageW(MSG& msg)
+   在 System.Windows.Forms.Application.ComponentManager.System.Windows.Forms.UnsafeNativeMethods.IMsoComponentManager.FPushMessageLoop(IntPtr dwComponentID, Int32 reason, Int32 pvLoopData)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   在 System.Windows.Forms.Form.ShowDialog(IWin32Window owner)
+   在 ErrorProofing.MainForm.dataGridView1_CellMouseClick(Object sender, DataGridViewCellMouseEventArgs e) 位置 D:\VSproject\ErrorProofing\MainForm.cs:行号 2263
+2025/12/24 23:39:05   系统重启，已恢复队列数量：2
+2025/12/24 23:39:17   System.FormatException: 输入字符串的格式不正确。
+   在 System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   在 System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   在 ErrorProofing.AddMaterialID.button2_Click(Object sender, EventArgs e) 位置 D:\VSproject\ErrorProofing\AddMaterialID.cs:行号 122
+   在 System.Windows.Forms.Control.OnClick(EventArgs e)
+   在 System.Windows.Forms.Button.OnMouseUp(MouseEventArgs mevent)
+   在 System.Windows.Forms.Control.WmMouseUp(Message& m, MouseButtons button, Int32 clicks)
+   在 System.Windows.Forms.Control.WndProc(Message& m)
+   在 System.Windows.Forms.ButtonBase.WndProc(Message& m)
+   在 System.Windows.Forms.Button.WndProc(Message& m)
+   在 System.Windows.Forms.NativeWindow.DebuggableCallback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   在 System.Windows.Forms.UnsafeNativeMethods.DispatchMessageW(MSG& msg)
+   在 System.Windows.Forms.Application.ComponentManager.System.Windows.Forms.UnsafeNativeMethods.IMsoComponentManager.FPushMessageLoop(IntPtr dwComponentID, Int32 reason, Int32 pvLoopData)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   在 System.Windows.Forms.Form.ShowDialog(IWin32Window owner)
+   在 ErrorProofing.MainForm.dataGridView1_CellMouseClick(Object sender, DataGridViewCellMouseEventArgs e) 位置 D:\VSproject\ErrorProofing\MainForm.cs:行号 2263
+2025/12/24 23:41:14   系统重启，已恢复队列数量：2
+2025/12/24 23:42:34   系统重启，已恢复队列数量：2
+2025/12/24 23:50:09   系统重启，已恢复队列数量：2

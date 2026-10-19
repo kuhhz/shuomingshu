@@ -1,0 +1,96 @@
+2025/12/20 14:02:49   4373259
+2025/12/20 14:02:50   4368602
+2025/12/20 14:02:50   20107389
+2025/12/20 14:02:50   4293607
+2025/12/20 14:02:50   20120956
+2025/12/20 14:02:50   20105174
+2025/12/20 14:02:50   20116927
+2025/12/20 14:02:50   20112325
+2025/12/20 14:02:50   4346414
+2025/12/20 14:02:50   4368602
+2025/12/20 14:02:50   4336297
+2025/12/20 14:02:50   4246284
+2025/12/20 14:02:50   2079738
+2025/12/20 14:02:50   20103505
+2025/12/20 14:02:50   4390204
+2025/12/20 14:02:50   20120956
+2025/12/20 14:02:50   2183277
+2025/12/20 14:02:50   TEST0012
+2025/12/20 14:02:50   TEST0013
+2025/12/20 14:02:50   TEST0014
+2025/12/20 14:02:50   TEST0015
+2025/12/20 14:02:50   系统重启，已恢复队列数量：3
+2025/12/20 14:12:42   4373259
+2025/12/20 14:12:42   4368602
+2025/12/20 14:12:42   20107389
+2025/12/20 14:12:42   4293607
+2025/12/20 14:12:42   20120956
+2025/12/20 14:12:42   20105174
+2025/12/20 14:12:42   20116927
+2025/12/20 14:12:42   20112325
+2025/12/20 14:12:42   4346414
+2025/12/20 14:12:42   4368602
+2025/12/20 14:12:42   4336297
+2025/12/20 14:12:42   4246284
+2025/12/20 14:12:42   2079738
+2025/12/20 14:12:42   20103505
+2025/12/20 14:12:42   4390204
+2025/12/20 14:12:42   20120956
+2025/12/20 14:12:42   2183277
+2025/12/20 14:12:42   TEST0012
+2025/12/20 14:12:42   TEST0013
+2025/12/20 14:12:42   TEST0014
+2025/12/20 14:12:42   System.FormatException: 输入字符串的格式不正确。
+   在 System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   在 System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   在 ErrorProofing.MainForm.GetMaterialPose(Int32 _x, Int32 _y, String& _materialID, Int32& _n) 位置 D:\VSproject\ErrorProofing\MainForm.cs:行号 271
+2025/12/20 14:12:42   TEST0015
+2025/12/20 14:12:42   系统重启，已恢复队列数量：3
+2025/12/20 14:14:27   4373259
+2025/12/20 14:14:27   4368602
+2025/12/20 14:14:27   20107389
+2025/12/20 14:14:27   4293607
+2025/12/20 14:14:27   20120956
+2025/12/20 14:14:27   20105174
+2025/12/20 14:14:27   20116927
+2025/12/20 14:14:27   20112325
+2025/12/20 14:14:27   4346414
+2025/12/20 14:14:27   4368602
+2025/12/20 14:14:27   4336297
+2025/12/20 14:14:27   4246284
+2025/12/20 14:14:27   2079738
+2025/12/20 14:14:28   20103505
+2025/12/20 14:14:28   4390204
+2025/12/20 14:14:28   20120956
+2025/12/20 14:14:28   2183277
+2025/12/20 14:14:28   TEST0012
+2025/12/20 14:14:28   TEST0013
+2025/12/20 14:14:28   TEST0014
+2025/12/20 14:14:28   System.FormatException: 输入字符串的格式不正确。
+   在 System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   在 System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   在 ErrorProofing.MainForm.GetMaterialPose(Int32 _x, Int32 _y, String& _materialID, Int32& _n) 位置 D:\VSproject\ErrorProofing\MainForm.cs:行号 271
+2025/12/20 14:14:28   TEST0015
+2025/12/20 14:14:28   系统重启，已恢复队列数量：3
+2025/12/20 14:19:32   System.FormatException: 输入字符串的格式不正确。
+   在 System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   在 System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   在 ErrorProofing.MainForm.GetMaterialPose(Int32 _x, Int32 _y, String& _materialID, Int32& _n) 位置 D:\VSproject\ErrorProofing\MainForm.cs:行号 271
+2025/12/20 14:19:32   系统重启，已恢复队列数量：3
+2025/12/20 14:19:38   点击仓位 X0 Y1，内容：4368602
+数量：30
+2025/12/20 14:20:20   点击仓位 X0 Y2，内容：20107389
+数量：35
+2025/12/20 14:21:56   System.FormatException: 输入字符串的格式不正确。
+   在 System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   在 System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   在 ErrorProofing.MainForm.GetMaterialPose(Int32 _x, Int32 _y, String& _materialID, Int32& _n) 位置 D:\VSproject\ErrorProofing\MainForm.cs:行号 271
+2025/12/20 14:21:56   系统重启，已恢复队列数量：3
+2025/12/20 14:27:29   系统重启，已恢复队列数量：3
+2025/12/20 14:28:04   点击仓位 X0 Y2，内容：20107389
+数量：35
+2025/12/20 14:28:11   点击仓位 X0 Y3，内容：4293607
+数量：34
+2025/12/20 14:28:16   点击仓位 X0 Y3，内容：4293607
+数量：34
+2025/12/20 14:37:56   系统重启，已恢复队列数量：3

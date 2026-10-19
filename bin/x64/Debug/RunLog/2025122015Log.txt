@@ -1,0 +1,38 @@
+2025/12/20 15:37:00   系统重启，已恢复队列数量：3
+2025/12/20 15:40:04   系统重启，已恢复队列数量：3
+2025/12/20 15:40:07   数量为 0，禁止取料
+2025/12/20 15:42:02   系统重启，已恢复队列数量：3
+2025/12/20 15:49:57   系统重启，已恢复队列数量：3
+2025/12/20 15:55:33   收到扫码枪条码：lb123456
+2025/12/20 15:55:33   System.ArgumentOutOfRangeException: 索引和长度必须引用该字符串内的位置。
+参数名: length
+   在 System.String.Substring(Int32 startIndex, Int32 length)
+   在 ErrorProofing.MainForm.check12or17(String productcode, String& _md) 位置 D:\VSproject\ErrorProofing\MainForm.cs:行号 1186
+   在 ErrorProofing.MainForm.GetMaterialIDandModel(String _keycode, String& _materialID) 位置 D:\VSproject\ErrorProofing\MainForm.cs:行号 303
+2025/12/20 15:55:33   当前队列大小: 3, 最大容量: 3
+2025/12/20 15:55:33   队列已满，触发停线逻辑
+2025/12/20 15:59:40   系统重启，已恢复队列数量：0
+2025/12/20 15:59:46   收到扫码枪条码：lb123456789
+2025/12/20 15:59:46   System.ArgumentOutOfRangeException: 索引和长度必须引用该字符串内的位置。
+参数名: length
+   在 System.String.Substring(Int32 startIndex, Int32 length)
+   在 ErrorProofing.MainForm.check12or17(String productcode, String& _md) 位置 D:\VSproject\ErrorProofing\MainForm.cs:行号 1186
+   在 ErrorProofing.MainForm.GetMaterialIDandModel(String _keycode, String& _materialID) 位置 D:\VSproject\ErrorProofing\MainForm.cs:行号 303
+2025/12/20 15:59:46   当前队列大小: 0, 最大容量: 3
+2025/12/20 15:59:46   System.Data.SqlClient.SqlException (0x80131904): 参数化查询 '(@ModelID nvarchar(11),@Address nvarchar(4000))
+               ' 需要参数 '@Address'，但未提供该参数。
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   在 System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   在 System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   在 System.Data.SqlClient.SqlDataReader.get_MetaData()
+   在 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteScalar()
+   在 ErrorProofing.MainForm.InsertQueueToDB(MyStruct item) 位置 D:\VSproject\ErrorProofing\MainForm.cs:行号 343
+ClientConnectionId:34b1dd2b-6bfb-4f29-bf14-83a80d5790a3
+Error Number:8178,State:1,Class:16
+2025/12/20 15:59:46   项目已加入队列 - 型号: lb123456789, 地址: 
+2025/12/20 15:59:46   当前队列大小: 1

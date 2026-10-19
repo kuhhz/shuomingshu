@@ -1,0 +1,224 @@
+2025/12/13 12:00:28   System.IndexOutOfRangeException: 索引超出了数组界限。
+   在 ErrorProofing.AddMaterialID.ParseScanCode(String scanCode) 位置 C:\Users\12717\Desktop\ErrorProofing\AddMaterialID.cs:行号 160
+   在 ErrorProofing.AddMaterialID.UpdateMaterialIDandPLCAddress(String _materialID, Int32 _x, Int32 _y, Int32 _qty) 位置 C:\Users\12717\Desktop\ErrorProofing\AddMaterialID.cs:行号 31
+   在 ErrorProofing.AddMaterialID.button2_Click(Object sender, EventArgs e) 位置 C:\Users\12717\Desktop\ErrorProofing\AddMaterialID.cs:行号 207
+   在 System.Windows.Forms.Control.OnClick(EventArgs e)
+   在 System.Windows.Forms.Button.OnMouseUp(MouseEventArgs mevent)
+   在 System.Windows.Forms.Control.WmMouseUp(Message& m, MouseButtons button, Int32 clicks)
+   在 System.Windows.Forms.Control.WndProc(Message& m)
+   在 System.Windows.Forms.ButtonBase.WndProc(Message& m)
+   在 System.Windows.Forms.Button.WndProc(Message& m)
+   在 System.Windows.Forms.NativeWindow.DebuggableCallback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   在 System.Windows.Forms.UnsafeNativeMethods.DispatchMessageW(MSG& msg)
+   在 System.Windows.Forms.Application.ComponentManager.System.Windows.Forms.UnsafeNativeMethods.IMsoComponentManager.FPushMessageLoop(IntPtr dwComponentID, Int32 reason, Int32 pvLoopData)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   在 System.Windows.Forms.Form.ShowDialog(IWin32Window owner)
+   在 ErrorProofing.MainForm.dataGridView1_CellMouseClick(Object sender, DataGridViewCellMouseEventArgs e) 位置 C:\Users\12717\Desktop\ErrorProofing\MainForm.cs:行号 1080
+2025/12/13 12:01:11   PLC_1 Ping失败
+2025/12/13 12:01:11   20151999
+2025/12/13 12:01:11   20160111
+2025/12/13 12:01:11   20151995
+2025/12/13 12:01:11   20151994
+2025/12/13 12:01:11   4396703
+2025/12/13 12:01:11   4390204
+2025/12/13 12:01:11   4386934
+2025/12/13 12:01:11   20102605
+2025/12/13 12:01:11   3605982
+2025/12/13 12:01:11   2375247
+2025/12/13 12:01:11   TEST005
+2025/12/13 12:01:11   TEST006
+2025/12/13 12:01:11   TEST007
+2025/12/13 12:01:11   TEST008
+2025/12/13 12:01:11   4390204
+2025/12/13 12:01:11   TEST0010
+2025/12/13 12:01:11   TEST0011
+2025/12/13 12:01:11   TEST0012
+2025/12/13 12:01:11   TEST0013
+2025/12/13 12:01:11   TEST0014
+2025/12/13 12:01:11   TEST0015
+2025/12/13 12:01:13   检测端读码器连接失败：System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。 192.168.2.51:1024
+   在 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   在 ErrorProofing.MainForm.ConnectCheckIDReader() 位置 C:\Users\12717\Desktop\ErrorProofing\MainForm.cs:行号 760
+2025/12/13 12:01:23   System.IndexOutOfRangeException: 索引超出了数组界限。
+   在 ErrorProofing.AddMaterialID.ParseScanCode(String scanCode) 位置 C:\Users\12717\Desktop\ErrorProofing\AddMaterialID.cs:行号 160
+   在 ErrorProofing.AddMaterialID.UpdateMaterialIDandPLCAddress(String _materialID, Int32 _x, Int32 _y, Int32 _qty) 位置 C:\Users\12717\Desktop\ErrorProofing\AddMaterialID.cs:行号 31
+   在 ErrorProofing.AddMaterialID.button2_Click(Object sender, EventArgs e) 位置 C:\Users\12717\Desktop\ErrorProofing\AddMaterialID.cs:行号 207
+   在 System.Windows.Forms.Control.OnClick(EventArgs e)
+   在 System.Windows.Forms.Button.OnMouseUp(MouseEventArgs mevent)
+   在 System.Windows.Forms.Control.WmMouseUp(Message& m, MouseButtons button, Int32 clicks)
+   在 System.Windows.Forms.Control.WndProc(Message& m)
+   在 System.Windows.Forms.ButtonBase.WndProc(Message& m)
+   在 System.Windows.Forms.Button.WndProc(Message& m)
+   在 System.Windows.Forms.NativeWindow.DebuggableCallback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   在 System.Windows.Forms.UnsafeNativeMethods.DispatchMessageW(MSG& msg)
+   在 System.Windows.Forms.Application.ComponentManager.System.Windows.Forms.UnsafeNativeMethods.IMsoComponentManager.FPushMessageLoop(IntPtr dwComponentID, Int32 reason, Int32 pvLoopData)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   在 System.Windows.Forms.Form.ShowDialog(IWin32Window owner)
+   在 ErrorProofing.MainForm.dataGridView1_CellMouseClick(Object sender, DataGridViewCellMouseEventArgs e) 位置 C:\Users\12717\Desktop\ErrorProofing\MainForm.cs:行号 1080
+2025/12/13 12:09:13   PLC_1 Ping失败
+2025/12/13 12:09:13   20151999
+2025/12/13 12:09:13   20160111
+2025/12/13 12:09:13   20151995
+2025/12/13 12:09:13   20151994
+2025/12/13 12:09:14   4396703
+2025/12/13 12:09:14   4390204
+2025/12/13 12:09:14   4386934
+2025/12/13 12:09:14   20102605
+2025/12/13 12:09:14   3605982
+2025/12/13 12:09:14   2375247
+2025/12/13 12:09:14   TEST005
+2025/12/13 12:09:14   TEST006
+2025/12/13 12:09:14   TEST007
+2025/12/13 12:09:14   TEST008
+2025/12/13 12:09:14   4390204
+2025/12/13 12:09:14   TEST0010
+2025/12/13 12:09:14   TEST0011
+2025/12/13 12:09:14   TEST0012
+2025/12/13 12:09:14   TEST0013
+2025/12/13 12:09:14   TEST0014
+2025/12/13 12:09:14   TEST0015
+2025/12/13 12:09:16   检测端读码器连接失败：System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。 192.168.2.51:1024
+   在 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   在 ErrorProofing.MainForm.ConnectCheckIDReader() 位置 C:\Users\12717\Desktop\ErrorProofing\MainForm.cs:行号 760
+2025/12/13 12:09:29   System.IndexOutOfRangeException: 索引超出了数组界限。
+   在 ErrorProofing.AddMaterialID.ParseScanCode(String scanCode) 位置 C:\Users\12717\Desktop\ErrorProofing\AddMaterialID.cs:行号 160
+   在 ErrorProofing.AddMaterialID.UpdateMaterialIDandPLCAddress(String _materialID, Int32 _x, Int32 _y, Int32 _qty) 位置 C:\Users\12717\Desktop\ErrorProofing\AddMaterialID.cs:行号 31
+   在 ErrorProofing.AddMaterialID.button2_Click(Object sender, EventArgs e) 位置 C:\Users\12717\Desktop\ErrorProofing\AddMaterialID.cs:行号 207
+   在 System.Windows.Forms.Control.OnClick(EventArgs e)
+   在 System.Windows.Forms.Button.OnMouseUp(MouseEventArgs mevent)
+   在 System.Windows.Forms.Control.WmMouseUp(Message& m, MouseButtons button, Int32 clicks)
+   在 System.Windows.Forms.Control.WndProc(Message& m)
+   在 System.Windows.Forms.ButtonBase.WndProc(Message& m)
+   在 System.Windows.Forms.Button.WndProc(Message& m)
+   在 System.Windows.Forms.NativeWindow.DebuggableCallback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   在 System.Windows.Forms.UnsafeNativeMethods.DispatchMessageW(MSG& msg)
+   在 System.Windows.Forms.Application.ComponentManager.System.Windows.Forms.UnsafeNativeMethods.IMsoComponentManager.FPushMessageLoop(IntPtr dwComponentID, Int32 reason, Int32 pvLoopData)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   在 System.Windows.Forms.Form.ShowDialog(IWin32Window owner)
+   在 ErrorProofing.MainForm.dataGridView1_CellMouseClick(Object sender, DataGridViewCellMouseEventArgs e) 位置 C:\Users\12717\Desktop\ErrorProofing\MainForm.cs:行号 1080
+2025/12/13 12:10:37   System.IndexOutOfRangeException: 索引超出了数组界限。
+   在 ErrorProofing.AddMaterialID.ParseScanCode(String scanCode) 位置 C:\Users\12717\Desktop\ErrorProofing\AddMaterialID.cs:行号 160
+   在 ErrorProofing.AddMaterialID.UpdateMaterialIDandPLCAddress(String _materialID, Int32 _x, Int32 _y, Int32 _qty) 位置 C:\Users\12717\Desktop\ErrorProofing\AddMaterialID.cs:行号 31
+   在 ErrorProofing.AddMaterialID.button2_Click(Object sender, EventArgs e) 位置 C:\Users\12717\Desktop\ErrorProofing\AddMaterialID.cs:行号 207
+   在 System.Windows.Forms.Control.OnClick(EventArgs e)
+   在 System.Windows.Forms.Button.OnMouseUp(MouseEventArgs mevent)
+   在 System.Windows.Forms.Control.WmMouseUp(Message& m, MouseButtons button, Int32 clicks)
+   在 System.Windows.Forms.Control.WndProc(Message& m)
+   在 System.Windows.Forms.ButtonBase.WndProc(Message& m)
+   在 System.Windows.Forms.Button.WndProc(Message& m)
+   在 System.Windows.Forms.NativeWindow.DebuggableCallback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   在 System.Windows.Forms.UnsafeNativeMethods.DispatchMessageW(MSG& msg)
+   在 System.Windows.Forms.Application.ComponentManager.System.Windows.Forms.UnsafeNativeMethods.IMsoComponentManager.FPushMessageLoop(IntPtr dwComponentID, Int32 reason, Int32 pvLoopData)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   在 System.Windows.Forms.Form.ShowDialog(IWin32Window owner)
+   在 ErrorProofing.MainForm.dataGridView1_CellMouseClick(Object sender, DataGridViewCellMouseEventArgs e) 位置 C:\Users\12717\Desktop\ErrorProofing\MainForm.cs:行号 1080
+2025/12/13 12:16:06   PLC_1 Ping失败
+2025/12/13 12:16:06   20151999
+2025/12/13 12:16:06   20160111
+2025/12/13 12:16:06   20151995
+2025/12/13 12:16:06   20151994
+2025/12/13 12:16:07   4396703
+2025/12/13 12:16:07   4390204
+2025/12/13 12:16:07   4386934
+2025/12/13 12:16:07   20102605
+2025/12/13 12:16:07   3605982
+2025/12/13 12:16:07   2375247
+2025/12/13 12:16:07   TEST005
+2025/12/13 12:16:07   TEST006
+2025/12/13 12:16:07   TEST007
+2025/12/13 12:16:07   TEST008
+2025/12/13 12:16:07   4390204
+2025/12/13 12:16:07   TEST0010
+2025/12/13 12:16:07   TEST0011
+2025/12/13 12:16:07   TEST0012
+2025/12/13 12:16:07   TEST0013
+2025/12/13 12:16:07   TEST0014
+2025/12/13 12:16:07   TEST0015
+2025/12/13 12:16:09   检测端读码器连接失败：System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。 192.168.2.51:1024
+   在 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   在 ErrorProofing.MainForm.ConnectCheckIDReader() 位置 C:\Users\12717\Desktop\ErrorProofing\MainForm.cs:行号 760
+2025/12/13 12:22:54   PLC_1 Ping失败
+2025/12/13 12:22:55   20151999
+2025/12/13 12:22:55   20160111
+2025/12/13 12:22:55   20151995
+2025/12/13 12:22:55   20151994
+2025/12/13 12:22:55   4396703
+2025/12/13 12:22:55   4390204
+2025/12/13 12:22:55   4386934
+2025/12/13 12:22:55   20158883
+2025/12/13 12:22:55   3605982
+2025/12/13 12:22:55   2375247
+2025/12/13 12:22:55   TEST005
+2025/12/13 12:22:55   TEST006
+2025/12/13 12:22:55   TEST007
+2025/12/13 12:22:55   TEST008
+2025/12/13 12:22:55   4390204
+2025/12/13 12:22:55   TEST0010
+2025/12/13 12:22:55   TEST0011
+2025/12/13 12:22:55   TEST0012
+2025/12/13 12:22:55   TEST0013
+2025/12/13 12:22:55   TEST0014
+2025/12/13 12:22:55   TEST0015
+2025/12/13 12:22:57   检测端读码器连接失败：System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。 192.168.2.51:1024
+   在 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   在 ErrorProofing.MainForm.ConnectCheckIDReader() 位置 C:\Users\12717\Desktop\ErrorProofing\MainForm.cs:行号 760
+2025/12/13 12:25:23   PLC_1 Ping失败
+2025/12/13 12:25:23   20151999
+2025/12/13 12:25:23   20160111
+2025/12/13 12:25:23   20151995
+2025/12/13 12:25:23   20151994
+2025/12/13 12:25:23   4396703
+2025/12/13 12:25:23   4390204
+2025/12/13 12:25:23   4386934
+2025/12/13 12:25:23   20158883
+2025/12/13 12:25:23   3605982
+2025/12/13 12:25:23   2375247
+2025/12/13 12:25:23   TEST005
+2025/12/13 12:25:23   TEST006
+2025/12/13 12:25:23   TEST007
+2025/12/13 12:25:23   TEST008
+2025/12/13 12:25:23   4390204
+2025/12/13 12:25:23   TEST0010
+2025/12/13 12:25:23   TEST0011
+2025/12/13 12:25:23   TEST0012
+2025/12/13 12:25:23   TEST0013
+2025/12/13 12:25:23   TEST0014
+2025/12/13 12:25:23   TEST0015
+2025/12/13 12:25:25   检测端读码器连接失败：System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。 192.168.2.51:1024
+   在 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   在 ErrorProofing.MainForm.ConnectCheckIDReader() 位置 C:\Users\12717\Desktop\ErrorProofing\MainForm.cs:行号 760
+2025/12/13 12:36:36   PLC_1 Ping失败
+2025/12/13 12:36:36   20151999
+2025/12/13 12:36:36   20160111
+2025/12/13 12:36:36   20151995
+2025/12/13 12:36:37   20151994
+2025/12/13 12:36:37   4396703
+2025/12/13 12:36:37   4390204
+2025/12/13 12:36:37   4386934
+2025/12/13 12:36:37   20158883
+2025/12/13 12:36:37   3605982
+2025/12/13 12:36:37   2375247
+2025/12/13 12:36:37   TEST005
+2025/12/13 12:36:37   TEST006
+2025/12/13 12:36:37   TEST007
+2025/12/13 12:36:37   TEST008
+2025/12/13 12:36:37   4390204
+2025/12/13 12:36:37   TEST0010
+2025/12/13 12:36:37   TEST0011
+2025/12/13 12:36:37   TEST0012
+2025/12/13 12:36:37   TEST0013
+2025/12/13 12:36:37   TEST0014
+2025/12/13 12:36:37   TEST0015
+2025/12/13 12:36:39   检测端读码器连接失败：System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。 192.168.2.51:1024
+   在 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   在 ErrorProofing.MainForm.ConnectCheckIDReader() 位置 C:\Users\12717\Desktop\ErrorProofing\MainForm.cs:行号 760

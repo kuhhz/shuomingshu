@@ -1,0 +1,6 @@
+2026/1/21 14:59:03   PLC_1 Ping失败
+2026/1/21 14:59:03   检测端读码器连接失败：System.Net.Sockets.SocketException (0x80004005): 套接字操作尝试一个无法连接的主机。 192.168.2.60:51236
+   在 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   在 ErrorProofing.MainForm.ConnectCheckIDReader() 位置 D:\VSproject\ErrorProofing（并发弹出版）\MainForm.cs:行号 1372
+2026/1/21 14:59:03   系统重启，恢复队列数量：0

@@ -1,0 +1,178 @@
+2025/12/7 18:08:13   加载点位PLC地址：M1,0,0
+2025/12/7 18:08:13   加载点位PLC地址：M2,0,1
+2025/12/7 18:08:13   加载点位PLC地址：M3,0,2
+2025/12/7 18:08:13   加载点位PLC地址：M4,0,3
+2025/12/7 18:08:13   加载点位PLC地址：M5,0,4
+2025/12/7 18:08:13   加载点位PLC地址：M6,0,5
+2025/12/7 18:08:13   加载点位PLC地址：M7,0,6
+2025/12/7 18:08:13   加载点位PLC地址：M8,1,0
+2025/12/7 18:08:13   加载点位PLC地址：M9,1,1
+2025/12/7 18:08:13   加载点位PLC地址：M10,1,2
+2025/12/7 18:08:13   加载点位PLC地址：M11,1,3
+2025/12/7 18:08:13   加载点位PLC地址：M12,1,4
+2025/12/7 18:08:13   加载点位PLC地址：M13,1,5
+2025/12/7 18:08:13   加载点位PLC地址：M14,1,6
+2025/12/7 18:08:13   加载点位PLC地址：M15,2,0
+2025/12/7 18:08:13   加载点位PLC地址：M16,2,1
+2025/12/7 18:08:13   加载点位PLC地址：M17,2,2
+2025/12/7 18:08:13   加载点位PLC地址：M18,2,3
+2025/12/7 18:08:13   加载点位PLC地址：M19,2,4
+2025/12/7 18:08:13   加载点位PLC地址：M20,2,5
+2025/12/7 18:08:13   加载点位PLC地址：M21,2,6
+2025/12/7 18:36:58   加载点位PLC地址：M1,0,0
+2025/12/7 18:36:58   加载点位PLC地址：M2,0,1
+2025/12/7 18:36:58   加载点位PLC地址：M3,0,2
+2025/12/7 18:36:58   加载点位PLC地址：M4,0,3
+2025/12/7 18:36:58   加载点位PLC地址：M5,0,4
+2025/12/7 18:36:58   加载点位PLC地址：M6,0,5
+2025/12/7 18:36:58   加载点位PLC地址：M7,0,6
+2025/12/7 18:36:58   加载点位PLC地址：M8,1,0
+2025/12/7 18:36:58   加载点位PLC地址：M9,1,1
+2025/12/7 18:36:58   加载点位PLC地址：M10,1,2
+2025/12/7 18:36:58   加载点位PLC地址：M11,1,3
+2025/12/7 18:36:58   加载点位PLC地址：M12,1,4
+2025/12/7 18:36:58   加载点位PLC地址：M13,1,5
+2025/12/7 18:36:58   加载点位PLC地址：M14,1,6
+2025/12/7 18:36:58   加载点位PLC地址：M15,2,0
+2025/12/7 18:36:58   加载点位PLC地址：M16,2,1
+2025/12/7 18:36:58   加载点位PLC地址：M17,2,2
+2025/12/7 18:36:58   加载点位PLC地址：M18,2,3
+2025/12/7 18:36:58   加载点位PLC地址：M19,2,4
+2025/12/7 18:36:58   加载点位PLC地址：M20,2,5
+2025/12/7 18:36:58   加载点位PLC地址：M21,2,6
+2025/12/7 18:37:00   System.Data.SqlClient.SqlException (0x80131904): 列名 'MaterialID' 无效。
+列名 'MaterialID' 无效。
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   在 System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   在 System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   在 System.Data.SqlClient.SqlDataReader.get_MetaData()
+   在 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteReader()
+   在 ErrorProofing.MainForm.GetMaterialIDandPLCAddress(String _materialID, Int32& _x, Int32& _y) 位置 D:\程序\ErrorProofing\MainForm.cs:行号 132
+ClientConnectionId:be9c53d3-6384-4ec1-a6fe-f22043d3f164
+Error Number:207,State:1,Class:16
+2025/12/7 18:37:58   加载点位PLC地址：M1,0,0
+2025/12/7 18:37:58   加载点位PLC地址：M2,0,1
+2025/12/7 18:37:58   加载点位PLC地址：M3,0,2
+2025/12/7 18:37:58   加载点位PLC地址：M4,0,3
+2025/12/7 18:37:58   加载点位PLC地址：M5,0,4
+2025/12/7 18:37:58   加载点位PLC地址：M6,0,5
+2025/12/7 18:37:58   加载点位PLC地址：M7,0,6
+2025/12/7 18:37:58   加载点位PLC地址：M8,1,0
+2025/12/7 18:37:58   加载点位PLC地址：M9,1,1
+2025/12/7 18:37:58   加载点位PLC地址：M10,1,2
+2025/12/7 18:37:58   加载点位PLC地址：M11,1,3
+2025/12/7 18:37:58   加载点位PLC地址：M12,1,4
+2025/12/7 18:37:58   加载点位PLC地址：M13,1,5
+2025/12/7 18:37:58   加载点位PLC地址：M14,1,6
+2025/12/7 18:37:59   加载点位PLC地址：M15,2,0
+2025/12/7 18:37:59   加载点位PLC地址：M16,2,1
+2025/12/7 18:37:59   加载点位PLC地址：M17,2,2
+2025/12/7 18:37:59   加载点位PLC地址：M18,2,3
+2025/12/7 18:37:59   加载点位PLC地址：M19,2,4
+2025/12/7 18:37:59   加载点位PLC地址：M20,2,5
+2025/12/7 18:37:59   加载点位PLC地址：M21,2,6
+2025/12/7 18:38:00   System.Data.SqlClient.SqlException (0x80131904): 列名 'CellY' 无效。
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   在 System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   在 System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   在 System.Data.SqlClient.SqlDataReader.get_MetaData()
+   在 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteReader()
+   在 ErrorProofing.MainForm.GetMaterialIDandPLCAddress(String _materialID, Int32& _x, Int32& _y) 位置 D:\程序\ErrorProofing\MainForm.cs:行号 132
+ClientConnectionId:337b4c33-2134-4e91-baf8-58639b3e1834
+Error Number:207,State:1,Class:16
+2025/12/7 18:39:11   加载点位PLC地址：M1,0,0
+2025/12/7 18:39:11   加载点位PLC地址：M2,0,1
+2025/12/7 18:39:11   加载点位PLC地址：M3,0,2
+2025/12/7 18:39:11   加载点位PLC地址：M4,0,3
+2025/12/7 18:39:11   加载点位PLC地址：M5,0,4
+2025/12/7 18:39:11   加载点位PLC地址：M6,0,5
+2025/12/7 18:39:11   加载点位PLC地址：M7,0,6
+2025/12/7 18:39:11   加载点位PLC地址：M8,1,0
+2025/12/7 18:39:11   加载点位PLC地址：M9,1,1
+2025/12/7 18:39:11   加载点位PLC地址：M10,1,2
+2025/12/7 18:39:11   加载点位PLC地址：M11,1,3
+2025/12/7 18:39:11   加载点位PLC地址：M12,1,4
+2025/12/7 18:39:11   加载点位PLC地址：M13,1,5
+2025/12/7 18:39:11   加载点位PLC地址：M14,1,6
+2025/12/7 18:39:11   加载点位PLC地址：M15,2,0
+2025/12/7 18:39:11   加载点位PLC地址：M16,2,1
+2025/12/7 18:39:11   加载点位PLC地址：M17,2,2
+2025/12/7 18:39:11   加载点位PLC地址：M18,2,3
+2025/12/7 18:39:11   加载点位PLC地址：M19,2,4
+2025/12/7 18:39:11   加载点位PLC地址：M20,2,5
+2025/12/7 18:39:11   加载点位PLC地址：M21,2,6
+2025/12/7 18:50:45   加载点位PLC地址：M1,0,0
+2025/12/7 18:50:45   加载点位PLC地址：M2,0,1
+2025/12/7 18:50:45   加载点位PLC地址：M3,0,2
+2025/12/7 18:50:45   加载点位PLC地址：M4,0,3
+2025/12/7 18:50:45   加载点位PLC地址：M5,0,4
+2025/12/7 18:50:45   加载点位PLC地址：M6,0,5
+2025/12/7 18:50:45   加载点位PLC地址：M7,0,6
+2025/12/7 18:50:45   加载点位PLC地址：M8,1,0
+2025/12/7 18:50:45   加载点位PLC地址：M9,1,1
+2025/12/7 18:50:45   加载点位PLC地址：M10,1,2
+2025/12/7 18:50:45   加载点位PLC地址：M11,1,3
+2025/12/7 18:50:45   加载点位PLC地址：M12,1,4
+2025/12/7 18:50:45   加载点位PLC地址：M13,1,5
+2025/12/7 18:50:45   加载点位PLC地址：M14,1,6
+2025/12/7 18:50:45   加载点位PLC地址：M15,2,0
+2025/12/7 18:50:45   加载点位PLC地址：M16,2,1
+2025/12/7 18:50:45   加载点位PLC地址：M17,2,2
+2025/12/7 18:50:45   加载点位PLC地址：M18,2,3
+2025/12/7 18:50:45   加载点位PLC地址：M19,2,4
+2025/12/7 18:50:45   加载点位PLC地址：M20,2,5
+2025/12/7 18:50:45   加载点位PLC地址：M21,2,6
+2025/12/7 18:52:36   加载点位PLC地址：M1,0,0
+2025/12/7 18:52:36   加载点位PLC地址：M2,0,1
+2025/12/7 18:52:36   加载点位PLC地址：M3,0,2
+2025/12/7 18:52:36   加载点位PLC地址：M4,0,3
+2025/12/7 18:52:36   加载点位PLC地址：M5,0,4
+2025/12/7 18:52:36   加载点位PLC地址：M6,0,5
+2025/12/7 18:52:36   加载点位PLC地址：M7,0,6
+2025/12/7 18:52:36   加载点位PLC地址：M8,1,0
+2025/12/7 18:52:36   加载点位PLC地址：M9,1,1
+2025/12/7 18:52:36   加载点位PLC地址：M10,1,2
+2025/12/7 18:52:36   加载点位PLC地址：M11,1,3
+2025/12/7 18:52:36   加载点位PLC地址：M12,1,4
+2025/12/7 18:52:36   加载点位PLC地址：M13,1,5
+2025/12/7 18:52:36   加载点位PLC地址：M14,1,6
+2025/12/7 18:52:36   加载点位PLC地址：M15,2,0
+2025/12/7 18:52:36   加载点位PLC地址：M16,2,1
+2025/12/7 18:52:36   加载点位PLC地址：M17,2,2
+2025/12/7 18:52:36   加载点位PLC地址：M18,2,3
+2025/12/7 18:52:36   加载点位PLC地址：M19,2,4
+2025/12/7 18:52:36   加载点位PLC地址：M20,2,5
+2025/12/7 18:52:36   加载点位PLC地址：M21,2,6
+2025/12/7 18:59:08   加载点位PLC地址：M1,0,0
+2025/12/7 18:59:08   加载点位PLC地址：M2,0,1
+2025/12/7 18:59:08   加载点位PLC地址：M3,0,2
+2025/12/7 18:59:08   加载点位PLC地址：M4,0,3
+2025/12/7 18:59:08   加载点位PLC地址：M5,0,4
+2025/12/7 18:59:08   加载点位PLC地址：M6,0,5
+2025/12/7 18:59:08   加载点位PLC地址：M7,0,6
+2025/12/7 18:59:08   加载点位PLC地址：M8,1,0
+2025/12/7 18:59:08   加载点位PLC地址：M9,1,1
+2025/12/7 18:59:08   加载点位PLC地址：M10,1,2
+2025/12/7 18:59:08   加载点位PLC地址：M11,1,3
+2025/12/7 18:59:08   加载点位PLC地址：M12,1,4
+2025/12/7 18:59:08   加载点位PLC地址：M13,1,5
+2025/12/7 18:59:08   加载点位PLC地址：M14,1,6
+2025/12/7 18:59:08   加载点位PLC地址：M15,2,0
+2025/12/7 18:59:08   加载点位PLC地址：M16,2,1
+2025/12/7 18:59:08   加载点位PLC地址：M17,2,2
+2025/12/7 18:59:08   加载点位PLC地址：M18,2,3
+2025/12/7 18:59:08   加载点位PLC地址：M19,2,4
+2025/12/7 18:59:08   加载点位PLC地址：M20,2,5
+2025/12/7 18:59:08   加载点位PLC地址：M21,2,6

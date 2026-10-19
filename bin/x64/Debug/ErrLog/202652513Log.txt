@@ -1,0 +1,24 @@
+2026/5/25 13:32:04   System.Net.Sockets.SocketException (0x80004005): 不知道这样的主机。
+   在 System.Net.Dns.GetAddrInfo(String name)
+   在 System.Net.Dns.InternalGetHostByName(String hostName, Boolean includeIPv6)
+   在 System.Net.Dns.GetHostEntry(String hostNameOrAddress)
+   在 HslCommunication.Core.HslHelper.GetIpAddressFromInput(String value)
+   在 HslCommunication.Core.Pipe.PipeSocket.set_IpAddress(String value)
+   在 HslCommunication.Core.Net.NetworkDoubleBase.set_IpAddress(String value)
+   在 ErrorProofing.MainForm.ConnectPLC() 位置 C:\Users\12717\Desktop\ErrorProofing（并发弹出版）\MainForm.cs:行号 2041
+2026/5/25 13:34:03   System.Net.Sockets.SocketException (0x80004005): 不知道这样的主机。
+   在 System.Net.Dns.GetAddrInfo(String name)
+   在 System.Net.Dns.InternalGetHostByName(String hostName, Boolean includeIPv6)
+   在 System.Net.Dns.GetHostEntry(String hostNameOrAddress)
+   在 HslCommunication.Core.HslHelper.GetIpAddressFromInput(String value)
+   在 HslCommunication.Core.Pipe.PipeSocket.set_IpAddress(String value)
+   在 HslCommunication.Core.Net.NetworkDoubleBase.set_IpAddress(String value)
+   在 ErrorProofing.MainForm.ConnectPLC() 位置 C:\Users\12717\Desktop\ErrorProofing（并发弹出版）\MainForm.cs:行号 2041
+2026/5/25 13:35:38   System.Net.Sockets.SocketException (0x80004005): 不知道这样的主机。
+   在 System.Net.Dns.GetAddrInfo(String name)
+   在 System.Net.Dns.InternalGetHostByName(String hostName, Boolean includeIPv6)
+   在 System.Net.Dns.GetHostEntry(String hostNameOrAddress)
+   在 HslCommunication.Core.HslHelper.GetIpAddressFromInput(String value)
+   在 HslCommunication.Core.Pipe.PipeSocket.set_IpAddress(String value)
+   在 HslCommunication.Core.Net.NetworkDoubleBase.set_IpAddress(String value)
+   在 ErrorProofing.MainForm.ConnectPLC() 位置 C:\Users\12717\Desktop\ErrorProofing（并发弹出版）\MainForm.cs:行号 2041

@@ -1,0 +1,87 @@
+2025/12/23 14:00:25   PLC_1 Ping失败
+2025/12/23 14:00:46   检测端读码器连接失败：System.Net.Sockets.SocketException (0x80004005): 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。 192.168.2.60:51236
+   在 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   在 ErrorProofing.MainForm.ConnectCheckIDReader() 位置 D:\VSproject\ErrorProofing\MainForm.cs:行号 1228
+2025/12/23 14:00:46   系统重启，已恢复队列数量：2
+2025/12/23 14:00:56   System.InvalidOperationException: 线程间操作无效: 从不是创建控件“comboBox1”的线程访问它。
+   在 System.Windows.Forms.Control.get_Handle()
+   在 System.Windows.Forms.ComboBox.get_SelectedIndex()
+   在 System.Windows.Forms.ComboBox.get_SelectedItem()
+   在 System.Windows.Forms.ComboBox.get_Text()
+   在 ErrorProofing.AddMaterialID.GetInformation(String queryText) 位置 D:\VSproject\ErrorProofing\AddMaterialID.cs:行号 82
+   在 ErrorProofing.MesShow.<>c__DisplayClass6_0.<RefreshMesGrid_Async>b__0() 位置 D:\VSproject\ErrorProofing\MesShow.cs:行号 129
+2025/12/23 14:05:44   PLC_1 Ping失败
+2025/12/23 14:06:05   检测端读码器连接失败：System.Net.Sockets.SocketException (0x80004005): 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。 192.168.2.60:51236
+   在 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   在 ErrorProofing.MainForm.ConnectCheckIDReader() 位置 D:\VSproject\ErrorProofing\MainForm.cs:行号 1228
+2025/12/23 14:06:05   系统重启，已恢复队列数量：2
+2025/12/23 14:06:23   System.InvalidOperationException: 线程间操作无效: 从不是创建控件“comboBox1”的线程访问它。
+   在 System.Windows.Forms.Control.get_Handle()
+   在 System.Windows.Forms.ComboBox.get_SelectedIndex()
+   在 System.Windows.Forms.ComboBox.get_SelectedItem()
+   在 System.Windows.Forms.ComboBox.get_Text()
+   在 ErrorProofing.AddMaterialID.GetInformation(String queryText) 位置 D:\VSproject\ErrorProofing\AddMaterialID.cs:行号 82
+   在 ErrorProofing.MesShow.<>c__DisplayClass6_0.<RefreshMesGrid_Async>b__0() 位置 D:\VSproject\ErrorProofing\MesShow.cs:行号 129
+2025/12/23 14:10:54   PLC_1 Ping失败
+2025/12/23 14:11:15   检测端读码器连接失败：System.Net.Sockets.SocketException (0x80004005): 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。 192.168.2.60:51236
+   在 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   在 ErrorProofing.MainForm.ConnectCheckIDReader() 位置 D:\VSproject\ErrorProofing\MainForm.cs:行号 1228
+2025/12/23 14:11:15   系统重启，已恢复队列数量：2
+2025/12/23 14:11:30   System.InvalidOperationException: 线程间操作无效: 从不是创建控件“comboBox1”的线程访问它。
+   在 System.Windows.Forms.Control.get_Handle()
+   在 System.Windows.Forms.ComboBox.get_SelectedIndex()
+   在 System.Windows.Forms.ComboBox.get_SelectedItem()
+   在 System.Windows.Forms.ComboBox.get_Text()
+   在 ErrorProofing.AddMaterialID.GetInformation(String queryText) 位置 D:\VSproject\ErrorProofing\AddMaterialID.cs:行号 82
+   在 ErrorProofing.MesShow.<>c__DisplayClass6_0.<RefreshMesGrid_Async>b__0() 位置 D:\VSproject\ErrorProofing\MesShow.cs:行号 129
+2025/12/23 14:15:48   PLC_1 Ping失败
+2025/12/23 14:16:09   检测端读码器连接失败：System.Net.Sockets.SocketException (0x80004005): 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。 192.168.2.60:51236
+   在 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   在 ErrorProofing.MainForm.ConnectCheckIDReader() 位置 D:\VSproject\ErrorProofing\MainForm.cs:行号 1228
+2025/12/23 14:16:09   系统重启，已恢复队列数量：2
+2025/12/23 14:16:18   System.InvalidOperationException: 线程间操作无效: 从不是创建控件“comboBox1”的线程访问它。
+   在 System.Windows.Forms.Control.get_Handle()
+   在 System.Windows.Forms.ComboBox.get_SelectedIndex()
+   在 System.Windows.Forms.ComboBox.get_SelectedItem()
+   在 System.Windows.Forms.ComboBox.get_Text()
+   在 ErrorProofing.AddMaterialID.GetInformation(String queryText, String qu_value) 位置 D:\VSproject\ErrorProofing\AddMaterialID.cs:行号 76
+   在 ErrorProofing.MesShow.<>c__DisplayClass6_0.<RefreshMesGrid_Async>b__0() 位置 D:\VSproject\ErrorProofing\MesShow.cs:行号 129
+2025/12/23 14:21:06   PLC_1 Ping失败
+2025/12/23 14:21:27   检测端读码器连接失败：System.Net.Sockets.SocketException (0x80004005): 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。 192.168.2.60:51236
+   在 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   在 ErrorProofing.MainForm.ConnectCheckIDReader() 位置 D:\VSproject\ErrorProofing\MainForm.cs:行号 1228
+2025/12/23 14:21:27   系统重启，已恢复队列数量：2
+2025/12/23 14:21:40   System.InvalidOperationException: 线程间操作无效: 从不是创建控件“comboBox1”的线程访问它。
+   在 System.Windows.Forms.Control.get_Handle()
+   在 System.Windows.Forms.ComboBox.get_SelectedIndex()
+   在 System.Windows.Forms.ComboBox.get_SelectedItem()
+   在 System.Windows.Forms.ComboBox.get_Text()
+   在 ErrorProofing.AddMaterialID.GetInformation(String queryText, String qu_value) 位置 D:\VSproject\ErrorProofing\AddMaterialID.cs:行号 124
+   在 ErrorProofing.MesShow.<>c__DisplayClass6_0.<RefreshMesGrid_Async>b__0() 位置 D:\VSproject\ErrorProofing\MesShow.cs:行号 129
+2025/12/23 14:25:53   PLC_1 Ping失败
+2025/12/23 14:26:14   检测端读码器连接失败：System.Net.Sockets.SocketException (0x80004005): 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。 192.168.2.60:51236
+   在 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   在 ErrorProofing.MainForm.ConnectCheckIDReader() 位置 D:\VSproject\ErrorProofing\MainForm.cs:行号 1228
+2025/12/23 14:26:14   系统重启，已恢复队列数量：2
+2025/12/23 14:26:35   PLC_1 Ping失败
+2025/12/23 14:26:56   检测端读码器连接失败：System.Net.Sockets.SocketException (0x80004005): 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。 192.168.2.60:51236
+   在 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   在 ErrorProofing.MainForm.ConnectCheckIDReader() 位置 D:\VSproject\ErrorProofing\MainForm.cs:行号 1228
+2025/12/23 14:26:56   系统重启，已恢复队列数量：2
+2025/12/23 14:30:12   PLC_1 Ping失败
+2025/12/23 14:30:33   检测端读码器连接失败：System.Net.Sockets.SocketException (0x80004005): 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。 192.168.2.60:51236
+   在 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   在 ErrorProofing.MainForm.ConnectCheckIDReader() 位置 D:\VSproject\ErrorProofing\MainForm.cs:行号 1228
+2025/12/23 14:30:33   系统重启，已恢复队列数量：2
+2025/12/23 14:40:52   PLC_1 Ping失败
+2025/12/23 14:41:16   系统重启，已恢复队列数量：2
+2025/12/23 14:42:44   系统重启，已恢复队列数量：2
+2025/12/23 14:44:54   系统重启，已恢复队列数量：2

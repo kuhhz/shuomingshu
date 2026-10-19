@@ -1,0 +1,241 @@
+2025/12/13 11:47:47   PLC_1 Ping失败
+2025/12/13 11:47:47   20151999
+2025/12/13 11:47:47   20160111
+2025/12/13 11:47:47   20151995
+2025/12/13 11:47:48   20151994
+2025/12/13 11:47:48   4396703
+2025/12/13 11:47:48   4390204
+2025/12/13 11:47:48   4386934
+2025/12/13 11:47:48   20102605
+2025/12/13 11:47:48   3605982
+2025/12/13 11:47:48   2375247
+2025/12/13 11:47:48   TEST005
+2025/12/13 11:47:48   TEST006
+2025/12/13 11:47:48   TEST007
+2025/12/13 11:47:48   TEST008
+2025/12/13 11:47:48   4390204
+2025/12/13 11:47:48   TEST0010
+2025/12/13 11:47:48   TEST0011
+2025/12/13 11:47:48   TEST0012
+2025/12/13 11:47:48   TEST0013
+2025/12/13 11:47:48   TEST0014
+2025/12/13 11:47:48   TEST0015
+2025/12/13 11:47:50   检测端读码器连接失败：System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。 192.168.2.51:1024
+   在 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   在 ErrorProofing.MainForm.ConnectCheckIDReader() 位置 C:\Users\12717\Desktop\ErrorProofing\MainForm.cs:行号 760
+2025/12/13 11:49:08   System.Exception: 扫码格式错误！
+   在 ErrorProofing.AddMaterialID.ParseScanCode(String scanCode)
+   在 ErrorProofing.AddMaterialID.UpdateMaterialIDandPLCAddress(String _materialID, Int32 _x, Int32 _y, Int32 _qty)
+   在 ErrorProofing.AddMaterialID.button2_Click(Object sender, EventArgs e)
+   在 System.Windows.Forms.Control.OnClick(EventArgs e)
+   在 System.Windows.Forms.Button.OnMouseUp(MouseEventArgs mevent)
+   在 System.Windows.Forms.Control.WmMouseUp(Message& m, MouseButtons button, Int32 clicks)
+   在 System.Windows.Forms.Control.WndProc(Message& m)
+   在 System.Windows.Forms.ButtonBase.WndProc(Message& m)
+   在 System.Windows.Forms.Button.WndProc(Message& m)
+   在 System.Windows.Forms.NativeWindow.DebuggableCallback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   在 System.Windows.Forms.UnsafeNativeMethods.DispatchMessageW(MSG& msg)
+   在 System.Windows.Forms.Application.ComponentManager.System.Windows.Forms.UnsafeNativeMethods.IMsoComponentManager.FPushMessageLoop(IntPtr dwComponentID, Int32 reason, Int32 pvLoopData)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   在 System.Windows.Forms.Form.ShowDialog(IWin32Window owner)
+   在 ErrorProofing.MainForm.dataGridView1_CellMouseClick(Object sender, DataGridViewCellMouseEventArgs e)
+2025/12/13 11:49:34   PLC_1 Ping失败
+2025/12/13 11:49:34   20151999
+2025/12/13 11:49:34   20160111
+2025/12/13 11:49:34   20151995
+2025/12/13 11:49:34   20151994
+2025/12/13 11:49:34   4396703
+2025/12/13 11:49:34   4390204
+2025/12/13 11:49:34   4386934
+2025/12/13 11:49:34   20102605
+2025/12/13 11:49:34   3605982
+2025/12/13 11:49:34   2375247
+2025/12/13 11:49:34   TEST005
+2025/12/13 11:49:34   TEST006
+2025/12/13 11:49:34   TEST007
+2025/12/13 11:49:34   TEST008
+2025/12/13 11:49:34   4390204
+2025/12/13 11:49:34   TEST0010
+2025/12/13 11:49:34   TEST0011
+2025/12/13 11:49:34   TEST0012
+2025/12/13 11:49:34   TEST0013
+2025/12/13 11:49:34   TEST0014
+2025/12/13 11:49:34   TEST0015
+2025/12/13 11:49:36   检测端读码器连接失败：System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。 192.168.2.51:1024
+   在 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   在 ErrorProofing.MainForm.ConnectCheckIDReader() 位置 C:\Users\12717\Desktop\ErrorProofing\MainForm.cs:行号 760
+2025/12/13 11:49:54   System.Exception: 扫码格式错误！
+   在 ErrorProofing.AddMaterialID.ParseScanCode(String scanCode) 位置 C:\Users\12717\Desktop\ErrorProofing\AddMaterialID.cs:行号 160
+   在 ErrorProofing.AddMaterialID.UpdateMaterialIDandPLCAddress(String _materialID, Int32 _x, Int32 _y, Int32 _qty) 位置 C:\Users\12717\Desktop\ErrorProofing\AddMaterialID.cs:行号 31
+   在 ErrorProofing.AddMaterialID.button2_Click(Object sender, EventArgs e) 位置 C:\Users\12717\Desktop\ErrorProofing\AddMaterialID.cs:行号 207
+   在 System.Windows.Forms.Control.OnClick(EventArgs e)
+   在 System.Windows.Forms.Button.OnMouseUp(MouseEventArgs mevent)
+   在 System.Windows.Forms.Control.WmMouseUp(Message& m, MouseButtons button, Int32 clicks)
+   在 System.Windows.Forms.Control.WndProc(Message& m)
+   在 System.Windows.Forms.ButtonBase.WndProc(Message& m)
+   在 System.Windows.Forms.Button.WndProc(Message& m)
+   在 System.Windows.Forms.NativeWindow.DebuggableCallback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   在 System.Windows.Forms.UnsafeNativeMethods.DispatchMessageW(MSG& msg)
+   在 System.Windows.Forms.Application.ComponentManager.System.Windows.Forms.UnsafeNativeMethods.IMsoComponentManager.FPushMessageLoop(IntPtr dwComponentID, Int32 reason, Int32 pvLoopData)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   在 System.Windows.Forms.Form.ShowDialog(IWin32Window owner)
+   在 ErrorProofing.MainForm.dataGridView1_CellMouseClick(Object sender, DataGridViewCellMouseEventArgs e) 位置 C:\Users\12717\Desktop\ErrorProofing\MainForm.cs:行号 1080
+2025/12/13 11:52:02   PLC_1 Ping失败
+2025/12/13 11:52:02   20151999
+2025/12/13 11:52:02   20160111
+2025/12/13 11:52:02   20151995
+2025/12/13 11:52:02   20151994
+2025/12/13 11:52:03   4396703
+2025/12/13 11:52:03   4390204
+2025/12/13 11:52:03   4386934
+2025/12/13 11:52:03   20102605
+2025/12/13 11:52:03   3605982
+2025/12/13 11:52:03   2375247
+2025/12/13 11:52:03   TEST005
+2025/12/13 11:52:03   TEST006
+2025/12/13 11:52:03   TEST007
+2025/12/13 11:52:03   TEST008
+2025/12/13 11:52:03   4390204
+2025/12/13 11:52:03   TEST0010
+2025/12/13 11:52:03   TEST0011
+2025/12/13 11:52:03   TEST0012
+2025/12/13 11:52:03   TEST0013
+2025/12/13 11:52:03   TEST0014
+2025/12/13 11:52:03   TEST0015
+2025/12/13 11:52:05   检测端读码器连接失败：System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。 192.168.2.51:1024
+   在 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   在 ErrorProofing.MainForm.ConnectCheckIDReader() 位置 C:\Users\12717\Desktop\ErrorProofing\MainForm.cs:行号 760
+2025/12/13 11:53:09   System.Exception: 扫码格式错误！
+   在 ErrorProofing.AddMaterialID.ParseScanCode(String scanCode) 位置 C:\Users\12717\Desktop\ErrorProofing\AddMaterialID.cs:行号 160
+   在 ErrorProofing.AddMaterialID.UpdateMaterialIDandPLCAddress(String _materialID, Int32 _x, Int32 _y, Int32 _qty) 位置 C:\Users\12717\Desktop\ErrorProofing\AddMaterialID.cs:行号 31
+   在 ErrorProofing.AddMaterialID.button2_Click(Object sender, EventArgs e) 位置 C:\Users\12717\Desktop\ErrorProofing\AddMaterialID.cs:行号 207
+   在 System.Windows.Forms.Control.OnClick(EventArgs e)
+   在 System.Windows.Forms.Button.OnMouseUp(MouseEventArgs mevent)
+   在 System.Windows.Forms.Control.WmMouseUp(Message& m, MouseButtons button, Int32 clicks)
+   在 System.Windows.Forms.Control.WndProc(Message& m)
+   在 System.Windows.Forms.ButtonBase.WndProc(Message& m)
+   在 System.Windows.Forms.Button.WndProc(Message& m)
+   在 System.Windows.Forms.NativeWindow.DebuggableCallback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   在 System.Windows.Forms.UnsafeNativeMethods.DispatchMessageW(MSG& msg)
+   在 System.Windows.Forms.Application.ComponentManager.System.Windows.Forms.UnsafeNativeMethods.IMsoComponentManager.FPushMessageLoop(IntPtr dwComponentID, Int32 reason, Int32 pvLoopData)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   在 System.Windows.Forms.Form.ShowDialog(IWin32Window owner)
+   在 ErrorProofing.MainForm.dataGridView1_CellMouseClick(Object sender, DataGridViewCellMouseEventArgs e) 位置 C:\Users\12717\Desktop\ErrorProofing\MainForm.cs:行号 1080
+2025/12/13 11:53:43   PLC_1 Ping失败
+2025/12/13 11:53:43   20151999
+2025/12/13 11:53:43   20160111
+2025/12/13 11:53:43   20151995
+2025/12/13 11:53:43   20151994
+2025/12/13 11:53:43   4396703
+2025/12/13 11:53:43   4390204
+2025/12/13 11:53:43   4386934
+2025/12/13 11:53:43   20102605
+2025/12/13 11:53:43   3605982
+2025/12/13 11:53:43   2375247
+2025/12/13 11:53:43   TEST005
+2025/12/13 11:53:43   TEST006
+2025/12/13 11:53:43   TEST007
+2025/12/13 11:53:43   TEST008
+2025/12/13 11:53:43   4390204
+2025/12/13 11:53:43   TEST0010
+2025/12/13 11:53:43   TEST0011
+2025/12/13 11:53:43   TEST0012
+2025/12/13 11:53:43   TEST0013
+2025/12/13 11:53:43   TEST0014
+2025/12/13 11:53:43   TEST0015
+2025/12/13 11:53:45   检测端读码器连接失败：System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。 192.168.2.51:1024
+   在 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   在 ErrorProofing.MainForm.ConnectCheckIDReader() 位置 C:\Users\12717\Desktop\ErrorProofing\MainForm.cs:行号 760
+2025/12/13 11:55:38   System.Exception: 扫码格式错误！
+   在 ErrorProofing.AddMaterialID.ParseScanCode(String scanCode)
+   在 ErrorProofing.AddMaterialID.UpdateMaterialIDandPLCAddress(String _materialID, Int32 _x, Int32 _y, Int32 _qty)
+   在 ErrorProofing.AddMaterialID.button2_Click(Object sender, EventArgs e)
+   在 System.Windows.Forms.Control.OnClick(EventArgs e)
+   在 System.Windows.Forms.Button.OnMouseUp(MouseEventArgs mevent)
+   在 System.Windows.Forms.Control.WmMouseUp(Message& m, MouseButtons button, Int32 clicks)
+   在 System.Windows.Forms.Control.WndProc(Message& m)
+   在 System.Windows.Forms.ButtonBase.WndProc(Message& m)
+   在 System.Windows.Forms.Button.WndProc(Message& m)
+   在 System.Windows.Forms.NativeWindow.DebuggableCallback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   在 System.Windows.Forms.UnsafeNativeMethods.DispatchMessageW(MSG& msg)
+   在 System.Windows.Forms.Application.ComponentManager.System.Windows.Forms.UnsafeNativeMethods.IMsoComponentManager.FPushMessageLoop(IntPtr dwComponentID, Int32 reason, Int32 pvLoopData)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   在 System.Windows.Forms.Form.ShowDialog(IWin32Window owner)
+   在 ErrorProofing.MainForm.dataGridView1_CellMouseClick(Object sender, DataGridViewCellMouseEventArgs e)
+2025/12/13 11:57:57   PLC_1 Ping失败
+2025/12/13 11:57:57   20151999
+2025/12/13 11:57:57   20160111
+2025/12/13 11:57:57   20151995
+2025/12/13 11:57:57   20151994
+2025/12/13 11:57:57   4396703
+2025/12/13 11:57:57   4390204
+2025/12/13 11:57:57   4386934
+2025/12/13 11:57:57   20102605
+2025/12/13 11:57:57   3605982
+2025/12/13 11:57:57   2375247
+2025/12/13 11:57:57   TEST005
+2025/12/13 11:57:57   TEST006
+2025/12/13 11:57:57   TEST007
+2025/12/13 11:57:57   TEST008
+2025/12/13 11:57:57   4390204
+2025/12/13 11:57:57   TEST0010
+2025/12/13 11:57:57   TEST0011
+2025/12/13 11:57:57   TEST0012
+2025/12/13 11:57:57   TEST0013
+2025/12/13 11:57:57   TEST0014
+2025/12/13 11:57:57   TEST0015
+2025/12/13 11:57:59   检测端读码器连接失败：System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。 192.168.2.51:1024
+   在 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   在 ErrorProofing.MainForm.ConnectCheckIDReader() 位置 C:\Users\12717\Desktop\ErrorProofing\MainForm.cs:行号 760
+2025/12/13 11:58:19   System.IndexOutOfRangeException: 索引超出了数组界限。
+   在 ErrorProofing.AddMaterialID.ParseScanCode(String scanCode) 位置 C:\Users\12717\Desktop\ErrorProofing\AddMaterialID.cs:行号 160
+   在 ErrorProofing.AddMaterialID.UpdateMaterialIDandPLCAddress(String _materialID, Int32 _x, Int32 _y, Int32 _qty) 位置 C:\Users\12717\Desktop\ErrorProofing\AddMaterialID.cs:行号 31
+   在 ErrorProofing.AddMaterialID.button2_Click(Object sender, EventArgs e) 位置 C:\Users\12717\Desktop\ErrorProofing\AddMaterialID.cs:行号 207
+   在 System.Windows.Forms.Control.OnClick(EventArgs e)
+   在 System.Windows.Forms.Button.OnMouseUp(MouseEventArgs mevent)
+   在 System.Windows.Forms.Control.WmMouseUp(Message& m, MouseButtons button, Int32 clicks)
+   在 System.Windows.Forms.Control.WndProc(Message& m)
+   在 System.Windows.Forms.ButtonBase.WndProc(Message& m)
+   在 System.Windows.Forms.Button.WndProc(Message& m)
+   在 System.Windows.Forms.NativeWindow.DebuggableCallback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   在 System.Windows.Forms.UnsafeNativeMethods.DispatchMessageW(MSG& msg)
+   在 System.Windows.Forms.Application.ComponentManager.System.Windows.Forms.UnsafeNativeMethods.IMsoComponentManager.FPushMessageLoop(IntPtr dwComponentID, Int32 reason, Int32 pvLoopData)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   在 System.Windows.Forms.Form.ShowDialog(IWin32Window owner)
+   在 ErrorProofing.MainForm.dataGridView1_CellMouseClick(Object sender, DataGridViewCellMouseEventArgs e) 位置 C:\Users\12717\Desktop\ErrorProofing\MainForm.cs:行号 1080
+2025/12/13 11:59:08   PLC_1 Ping失败
+2025/12/13 11:59:08   20151999
+2025/12/13 11:59:08   20160111
+2025/12/13 11:59:09   20151995
+2025/12/13 11:59:09   20151994
+2025/12/13 11:59:09   4396703
+2025/12/13 11:59:09   4390204
+2025/12/13 11:59:09   4386934
+2025/12/13 11:59:09   20102605
+2025/12/13 11:59:09   3605982
+2025/12/13 11:59:09   2375247
+2025/12/13 11:59:09   TEST005
+2025/12/13 11:59:09   TEST006
+2025/12/13 11:59:09   TEST007
+2025/12/13 11:59:09   TEST008
+2025/12/13 11:59:09   4390204
+2025/12/13 11:59:09   TEST0010
+2025/12/13 11:59:09   TEST0011
+2025/12/13 11:59:09   TEST0012
+2025/12/13 11:59:09   TEST0013
+2025/12/13 11:59:09   TEST0014
+2025/12/13 11:59:09   TEST0015
+2025/12/13 11:59:11   检测端读码器连接失败：System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。 192.168.2.51:1024
+   在 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   在 ErrorProofing.MainForm.ConnectCheckIDReader() 位置 C:\Users\12717\Desktop\ErrorProofing\MainForm.cs:行号 760

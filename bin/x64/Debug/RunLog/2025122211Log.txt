@@ -1,0 +1,24 @@
+2025/12/22 11:02:10   PLC_1 Ping失败
+2025/12/22 11:02:10   检测端读码器连接失败：System.Net.Sockets.SocketException (0x80004005): 套接字操作尝试一个无法连接的主机。 192.168.2.60:51236
+   在 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   在 ErrorProofing.MainForm.ConnectCheckIDReader() 位置 D:\VSproject\ErrorProofing\MainForm.cs:行号 1182
+2025/12/22 11:02:10   系统重启，已恢复队列数量：2
+2025/12/22 11:04:15   PLC_1 Ping失败
+2025/12/22 11:04:15   检测端读码器连接失败：System.Net.Sockets.SocketException (0x80004005): 套接字操作尝试一个无法连接的主机。 192.168.2.60:51236
+   在 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   在 ErrorProofing.MainForm.ConnectCheckIDReader() 位置 D:\VSproject\ErrorProofing\MainForm.cs:行号 1182
+2025/12/22 11:04:15   系统重启，已恢复队列数量：2
+2025/12/22 11:19:04   PLC_1 Ping失败
+2025/12/22 11:19:04   检测端读码器连接失败：System.Net.Sockets.SocketException (0x80004005): 套接字操作尝试一个无法连接的主机。 192.168.2.60:51236
+   在 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   在 ErrorProofing.MainForm.ConnectCheckIDReader() 位置 D:\VSproject\ErrorProofing\MainForm.cs:行号 1182
+2025/12/22 11:19:04   系统重启，已恢复队列数量：2
+2025/12/22 11:19:47   PLC_1 Ping失败
+2025/12/22 11:19:47   检测端读码器连接失败：System.Net.Sockets.SocketException (0x80004005): 套接字操作尝试一个无法连接的主机。 192.168.2.60:51236
+   在 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   在 ErrorProofing.MainForm.ConnectCheckIDReader() 位置 D:\VSproject\ErrorProofing\MainForm.cs:行号 1182
+2025/12/22 11:19:47   系统重启，已恢复队列数量：2

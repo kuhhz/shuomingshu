@@ -1,0 +1,55 @@
+2025/12/25 14:19:02   系统重启，已恢复队列数量：2
+2025/12/25 14:36:50   系统重启，已恢复队列数量：2
+2025/12/25 14:40:43   系统重启，已恢复队列数量：2
+2025/12/25 14:40:58   系统重启，已恢复队列数量：2
+2025/12/25 14:41:21   系统重启，已恢复队列数量：2
+2025/12/25 14:41:57   系统重启，已恢复队列数量：2
+2025/12/25 14:44:29   系统重启，已恢复队列数量：2
+2025/12/25 14:44:29   System.ArgumentOutOfRangeException: 索引超出范围。必须为非负值并小于集合大小。
+参数名: index
+   在 System.Collections.ArrayList.get_Item(Int32 index)
+   在 System.Windows.Forms.DataGridViewRowCollection.SharedRow(Int32 rowIndex)
+   在 System.Windows.Forms.DataGridViewRowCollection.get_Item(Int32 index)
+   在 System.Windows.Forms.DataGridView.get_Item(Int32 columnIndex, Int32 rowIndex)
+   在 ErrorProofing.MainForm.GetPickQueue_ModelAndMaterial() 位置 D:\VSproject\ErrorProofing\MainForm.cs:行号 730
+2025/12/25 14:53:59   系统重启，已恢复队列数量：2
+2025/12/25 14:54:00   System.ArgumentException: 列“取料状态”不属于表 。
+   在 System.Data.DataRow.GetDataColumn(String columnName)
+   在 System.Data.DataRow.set_Item(String columnName, Object value)
+   在 ErrorProofing.MainForm.GetPickQueue_ModelAndMaterial() 位置 D:\VSproject\ErrorProofing\MainForm.cs:行号 793
+2025/12/25 14:54:00   System.ArgumentException: 列“取料状态”不属于表 。
+   在 System.Data.DataRow.GetDataColumn(String columnName)
+   在 System.Data.DataRow.set_Item(String columnName, Object value)
+   在 ErrorProofing.MainForm.GetPickQueue_ModelAndMaterial() 位置 D:\VSproject\ErrorProofing\MainForm.cs:行号 793
+2025/12/25 14:54:00   System.ArgumentException: 列“取料状态”不属于表 。
+   在 System.Data.DataRow.GetDataColumn(String columnName)
+   在 System.Data.DataRow.set_Item(String columnName, Object value)
+   在 ErrorProofing.MainForm.GetPickQueue_ModelAndMaterial() 位置 D:\VSproject\ErrorProofing\MainForm.cs:行号 793
+2025/12/25 14:54:00   System.ArgumentException: 列“取料状态”不属于表 。
+   在 System.Data.DataRow.GetDataColumn(String columnName)
+   在 System.Data.DataRow.set_Item(String columnName, Object value)
+   在 ErrorProofing.MainForm.GetPickQueue_ModelAndMaterial() 位置 D:\VSproject\ErrorProofing\MainForm.cs:行号 793
+2025/12/25 14:54:01   System.ArgumentException: 列“取料状态”不属于表 。
+   在 System.Data.DataRow.GetDataColumn(String columnName)
+   在 System.Data.DataRow.set_Item(String columnName, Object value)
+   在 ErrorProofing.MainForm.GetPickQueue_ModelAndMaterial() 位置 D:\VSproject\ErrorProofing\MainForm.cs:行号 793
+2025/12/25 14:54:01   System.ArgumentException: 列“取料状态”不属于表 。
+   在 System.Data.DataRow.GetDataColumn(String columnName)
+   在 System.Data.DataRow.set_Item(String columnName, Object value)
+   在 ErrorProofing.MainForm.GetPickQueue_ModelAndMaterial() 位置 D:\VSproject\ErrorProofing\MainForm.cs:行号 793
+2025/12/25 14:54:01   System.ArgumentException: 列“取料状态”不属于表 。
+   在 System.Data.DataRow.GetDataColumn(String columnName)
+   在 System.Data.DataRow.set_Item(String columnName, Object value)
+   在 ErrorProofing.MainForm.GetPickQueue_ModelAndMaterial() 位置 D:\VSproject\ErrorProofing\MainForm.cs:行号 793
+2025/12/25 14:54:01   System.ArgumentException: 列“取料状态”不属于表 。
+   在 System.Data.DataRow.GetDataColumn(String columnName)
+   在 System.Data.DataRow.set_Item(String columnName, Object value)
+   在 ErrorProofing.MainForm.GetPickQueue_ModelAndMaterial() 位置 D:\VSproject\ErrorProofing\MainForm.cs:行号 793
+2025/12/25 14:54:02   System.ArgumentException: 列“取料状态”不属于表 。
+   在 System.Data.DataRow.GetDataColumn(String columnName)
+   在 System.Data.DataRow.set_Item(String columnName, Object value)
+   在 ErrorProofing.MainForm.GetPickQueue_ModelAndMaterial() 位置 D:\VSproject\ErrorProofing\MainForm.cs:行号 793
+2025/12/25 14:54:02   System.ArgumentException: 列“取料状态”不属于表 。
+   在 System.Data.DataRow.GetDataColumn(String columnName)
+   在 System.Data.DataRow.set_Item(String columnName, Object value)
+   在 ErrorProofing.MainForm.GetPickQueue_ModelAndMaterial() 位置 D:\VSproject\ErrorProofing\MainForm.cs:行号 793

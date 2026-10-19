@@ -1,0 +1,406 @@
+2025/12/23 15:21:01   系统重启，已恢复队列数量：2
+2025/12/23 15:21:02   System.ArgumentException: 列“型号”不属于表 。
+   在 System.Data.DataRow.GetDataColumn(String columnName)
+   在 System.Data.DataRow.set_Item(String columnName, Object value)
+   在 ErrorProofing.MainForm.GetPickQueue_ModelAndMaterial() 位置 D:\VSproject\ErrorProofing\MainForm.cs:行号 690
+2025/12/23 15:21:02   System.ArgumentException: 列“型号”不属于表 。
+   在 System.Data.DataRow.GetDataColumn(String columnName)
+   在 System.Data.DataRow.set_Item(String columnName, Object value)
+   在 ErrorProofing.MainForm.GetPickQueue_ModelAndMaterial() 位置 D:\VSproject\ErrorProofing\MainForm.cs:行号 690
+2025/12/23 15:21:02   System.ArgumentException: 列“型号”不属于表 。
+   在 System.Data.DataRow.GetDataColumn(String columnName)
+   在 System.Data.DataRow.set_Item(String columnName, Object value)
+   在 ErrorProofing.MainForm.GetPickQueue_ModelAndMaterial() 位置 D:\VSproject\ErrorProofing\MainForm.cs:行号 690
+2025/12/23 15:21:02   System.ArgumentException: 列“型号”不属于表 。
+   在 System.Data.DataRow.GetDataColumn(String columnName)
+   在 System.Data.DataRow.set_Item(String columnName, Object value)
+   在 ErrorProofing.MainForm.GetPickQueue_ModelAndMaterial() 位置 D:\VSproject\ErrorProofing\MainForm.cs:行号 690
+2025/12/23 15:21:03   System.ArgumentException: 列“型号”不属于表 。
+   在 System.Data.DataRow.GetDataColumn(String columnName)
+   在 System.Data.DataRow.set_Item(String columnName, Object value)
+   在 ErrorProofing.MainForm.GetPickQueue_ModelAndMaterial() 位置 D:\VSproject\ErrorProofing\MainForm.cs:行号 690
+2025/12/23 15:21:03   System.ArgumentException: 列“型号”不属于表 。
+   在 System.Data.DataRow.GetDataColumn(String columnName)
+   在 System.Data.DataRow.set_Item(String columnName, Object value)
+   在 ErrorProofing.MainForm.GetPickQueue_ModelAndMaterial() 位置 D:\VSproject\ErrorProofing\MainForm.cs:行号 690
+2025/12/23 15:21:03   System.ArgumentException: 列“型号”不属于表 。
+   在 System.Data.DataRow.GetDataColumn(String columnName)
+   在 System.Data.DataRow.set_Item(String columnName, Object value)
+   在 ErrorProofing.MainForm.GetPickQueue_ModelAndMaterial() 位置 D:\VSproject\ErrorProofing\MainForm.cs:行号 690
+2025/12/23 15:21:03   System.ArgumentException: 列“型号”不属于表 。
+   在 System.Data.DataRow.GetDataColumn(String columnName)
+   在 System.Data.DataRow.set_Item(String columnName, Object value)
+   在 ErrorProofing.MainForm.GetPickQueue_ModelAndMaterial() 位置 D:\VSproject\ErrorProofing\MainForm.cs:行号 690
+2025/12/23 15:21:04   System.ArgumentException: 列“型号”不属于表 。
+   在 System.Data.DataRow.GetDataColumn(String columnName)
+   在 System.Data.DataRow.set_Item(String columnName, Object value)
+   在 ErrorProofing.MainForm.GetPickQueue_ModelAndMaterial() 位置 D:\VSproject\ErrorProofing\MainForm.cs:行号 690
+2025/12/23 15:21:04   System.ArgumentException: 列“型号”不属于表 。
+   在 System.Data.DataRow.GetDataColumn(String columnName)
+   在 System.Data.DataRow.set_Item(String columnName, Object value)
+   在 ErrorProofing.MainForm.GetPickQueue_ModelAndMaterial() 位置 D:\VSproject\ErrorProofing\MainForm.cs:行号 690
+2025/12/23 15:21:04   System.ArgumentException: 列“型号”不属于表 。
+   在 System.Data.DataRow.GetDataColumn(String columnName)
+   在 System.Data.DataRow.set_Item(String columnName, Object value)
+   在 ErrorProofing.MainForm.GetPickQueue_ModelAndMaterial() 位置 D:\VSproject\ErrorProofing\MainForm.cs:行号 690
+2025/12/23 15:21:04   System.ArgumentException: 列“型号”不属于表 。
+   在 System.Data.DataRow.GetDataColumn(String columnName)
+   在 System.Data.DataRow.set_Item(String columnName, Object value)
+   在 ErrorProofing.MainForm.GetPickQueue_ModelAndMaterial() 位置 D:\VSproject\ErrorProofing\MainForm.cs:行号 690
+2025/12/23 15:21:05   System.ArgumentException: 列“型号”不属于表 。
+   在 System.Data.DataRow.GetDataColumn(String columnName)
+   在 System.Data.DataRow.set_Item(String columnName, Object value)
+   在 ErrorProofing.MainForm.GetPickQueue_ModelAndMaterial() 位置 D:\VSproject\ErrorProofing\MainForm.cs:行号 690
+2025/12/23 15:21:05   System.ArgumentException: 列“型号”不属于表 。
+   在 System.Data.DataRow.GetDataColumn(String columnName)
+   在 System.Data.DataRow.set_Item(String columnName, Object value)
+   在 ErrorProofing.MainForm.GetPickQueue_ModelAndMaterial() 位置 D:\VSproject\ErrorProofing\MainForm.cs:行号 690
+2025/12/23 15:21:05   System.ArgumentException: 列“型号”不属于表 。
+   在 System.Data.DataRow.GetDataColumn(String columnName)
+   在 System.Data.DataRow.set_Item(String columnName, Object value)
+   在 ErrorProofing.MainForm.GetPickQueue_ModelAndMaterial() 位置 D:\VSproject\ErrorProofing\MainForm.cs:行号 690
+2025/12/23 15:21:05   System.ArgumentException: 列“型号”不属于表 。
+   在 System.Data.DataRow.GetDataColumn(String columnName)
+   在 System.Data.DataRow.set_Item(String columnName, Object value)
+   在 ErrorProofing.MainForm.GetPickQueue_ModelAndMaterial() 位置 D:\VSproject\ErrorProofing\MainForm.cs:行号 690
+2025/12/23 15:21:06   System.ArgumentException: 列“型号”不属于表 。
+   在 System.Data.DataRow.GetDataColumn(String columnName)
+   在 System.Data.DataRow.set_Item(String columnName, Object value)
+   在 ErrorProofing.MainForm.GetPickQueue_ModelAndMaterial() 位置 D:\VSproject\ErrorProofing\MainForm.cs:行号 690
+2025/12/23 15:21:06   System.ArgumentException: 列“型号”不属于表 。
+   在 System.Data.DataRow.GetDataColumn(String columnName)
+   在 System.Data.DataRow.set_Item(String columnName, Object value)
+   在 ErrorProofing.MainForm.GetPickQueue_ModelAndMaterial() 位置 D:\VSproject\ErrorProofing\MainForm.cs:行号 690
+2025/12/23 15:21:06   System.ArgumentException: 列“型号”不属于表 。
+   在 System.Data.DataRow.GetDataColumn(String columnName)
+   在 System.Data.DataRow.set_Item(String columnName, Object value)
+   在 ErrorProofing.MainForm.GetPickQueue_ModelAndMaterial() 位置 D:\VSproject\ErrorProofing\MainForm.cs:行号 690
+2025/12/23 15:21:06   System.ArgumentException: 列“型号”不属于表 。
+   在 System.Data.DataRow.GetDataColumn(String columnName)
+   在 System.Data.DataRow.set_Item(String columnName, Object value)
+   在 ErrorProofing.MainForm.GetPickQueue_ModelAndMaterial() 位置 D:\VSproject\ErrorProofing\MainForm.cs:行号 690
+2025/12/23 15:21:07   System.ArgumentException: 列“型号”不属于表 。
+   在 System.Data.DataRow.GetDataColumn(String columnName)
+   在 System.Data.DataRow.set_Item(String columnName, Object value)
+   在 ErrorProofing.MainForm.GetPickQueue_ModelAndMaterial() 位置 D:\VSproject\ErrorProofing\MainForm.cs:行号 690
+2025/12/23 15:21:07   System.ArgumentException: 列“型号”不属于表 。
+   在 System.Data.DataRow.GetDataColumn(String columnName)
+   在 System.Data.DataRow.set_Item(String columnName, Object value)
+   在 ErrorProofing.MainForm.GetPickQueue_ModelAndMaterial() 位置 D:\VSproject\ErrorProofing\MainForm.cs:行号 690
+2025/12/23 15:21:07   System.ArgumentException: 列“型号”不属于表 。
+   在 System.Data.DataRow.GetDataColumn(String columnName)
+   在 System.Data.DataRow.set_Item(String columnName, Object value)
+   在 ErrorProofing.MainForm.GetPickQueue_ModelAndMaterial() 位置 D:\VSproject\ErrorProofing\MainForm.cs:行号 690
+2025/12/23 15:21:07   System.ArgumentException: 列“型号”不属于表 。
+   在 System.Data.DataRow.GetDataColumn(String columnName)
+   在 System.Data.DataRow.set_Item(String columnName, Object value)
+   在 ErrorProofing.MainForm.GetPickQueue_ModelAndMaterial() 位置 D:\VSproject\ErrorProofing\MainForm.cs:行号 690
+2025/12/23 15:21:08   System.ArgumentException: 列“型号”不属于表 。
+   在 System.Data.DataRow.GetDataColumn(String columnName)
+   在 System.Data.DataRow.set_Item(String columnName, Object value)
+   在 ErrorProofing.MainForm.GetPickQueue_ModelAndMaterial() 位置 D:\VSproject\ErrorProofing\MainForm.cs:行号 690
+2025/12/23 15:21:08   System.ArgumentException: 列“型号”不属于表 。
+   在 System.Data.DataRow.GetDataColumn(String columnName)
+   在 System.Data.DataRow.set_Item(String columnName, Object value)
+   在 ErrorProofing.MainForm.GetPickQueue_ModelAndMaterial() 位置 D:\VSproject\ErrorProofing\MainForm.cs:行号 690
+2025/12/23 15:21:08   System.ArgumentException: 列“型号”不属于表 。
+   在 System.Data.DataRow.GetDataColumn(String columnName)
+   在 System.Data.DataRow.set_Item(String columnName, Object value)
+   在 ErrorProofing.MainForm.GetPickQueue_ModelAndMaterial() 位置 D:\VSproject\ErrorProofing\MainForm.cs:行号 690
+2025/12/23 15:21:08   System.ArgumentException: 列“型号”不属于表 。
+   在 System.Data.DataRow.GetDataColumn(String columnName)
+   在 System.Data.DataRow.set_Item(String columnName, Object value)
+   在 ErrorProofing.MainForm.GetPickQueue_ModelAndMaterial() 位置 D:\VSproject\ErrorProofing\MainForm.cs:行号 690
+2025/12/23 15:21:09   System.ArgumentException: 列“型号”不属于表 。
+   在 System.Data.DataRow.GetDataColumn(String columnName)
+   在 System.Data.DataRow.set_Item(String columnName, Object value)
+   在 ErrorProofing.MainForm.GetPickQueue_ModelAndMaterial() 位置 D:\VSproject\ErrorProofing\MainForm.cs:行号 690
+2025/12/23 15:21:09   System.ArgumentException: 列“型号”不属于表 。
+   在 System.Data.DataRow.GetDataColumn(String columnName)
+   在 System.Data.DataRow.set_Item(String columnName, Object value)
+   在 ErrorProofing.MainForm.GetPickQueue_ModelAndMaterial() 位置 D:\VSproject\ErrorProofing\MainForm.cs:行号 690
+2025/12/23 15:21:09   System.ArgumentException: 列“型号”不属于表 。
+   在 System.Data.DataRow.GetDataColumn(String columnName)
+   在 System.Data.DataRow.set_Item(String columnName, Object value)
+   在 ErrorProofing.MainForm.GetPickQueue_ModelAndMaterial() 位置 D:\VSproject\ErrorProofing\MainForm.cs:行号 690
+2025/12/23 15:21:09   System.ArgumentException: 列“型号”不属于表 。
+   在 System.Data.DataRow.GetDataColumn(String columnName)
+   在 System.Data.DataRow.set_Item(String columnName, Object value)
+   在 ErrorProofing.MainForm.GetPickQueue_ModelAndMaterial() 位置 D:\VSproject\ErrorProofing\MainForm.cs:行号 690
+2025/12/23 15:21:10   System.ArgumentException: 列“型号”不属于表 。
+   在 System.Data.DataRow.GetDataColumn(String columnName)
+   在 System.Data.DataRow.set_Item(String columnName, Object value)
+   在 ErrorProofing.MainForm.GetPickQueue_ModelAndMaterial() 位置 D:\VSproject\ErrorProofing\MainForm.cs:行号 690
+2025/12/23 15:21:10   System.ArgumentException: 列“型号”不属于表 。
+   在 System.Data.DataRow.GetDataColumn(String columnName)
+   在 System.Data.DataRow.set_Item(String columnName, Object value)
+   在 ErrorProofing.MainForm.GetPickQueue_ModelAndMaterial() 位置 D:\VSproject\ErrorProofing\MainForm.cs:行号 690
+2025/12/23 15:21:10   System.ArgumentException: 列“型号”不属于表 。
+   在 System.Data.DataRow.GetDataColumn(String columnName)
+   在 System.Data.DataRow.set_Item(String columnName, Object value)
+   在 ErrorProofing.MainForm.GetPickQueue_ModelAndMaterial() 位置 D:\VSproject\ErrorProofing\MainForm.cs:行号 690
+2025/12/23 15:21:10   System.ArgumentException: 列“型号”不属于表 。
+   在 System.Data.DataRow.GetDataColumn(String columnName)
+   在 System.Data.DataRow.set_Item(String columnName, Object value)
+   在 ErrorProofing.MainForm.GetPickQueue_ModelAndMaterial() 位置 D:\VSproject\ErrorProofing\MainForm.cs:行号 690
+2025/12/23 15:21:11   System.ArgumentException: 列“型号”不属于表 。
+   在 System.Data.DataRow.GetDataColumn(String columnName)
+   在 System.Data.DataRow.set_Item(String columnName, Object value)
+   在 ErrorProofing.MainForm.GetPickQueue_ModelAndMaterial() 位置 D:\VSproject\ErrorProofing\MainForm.cs:行号 690
+2025/12/23 15:21:11   System.ArgumentException: 列“型号”不属于表 。
+   在 System.Data.DataRow.GetDataColumn(String columnName)
+   在 System.Data.DataRow.set_Item(String columnName, Object value)
+   在 ErrorProofing.MainForm.GetPickQueue_ModelAndMaterial() 位置 D:\VSproject\ErrorProofing\MainForm.cs:行号 690
+2025/12/23 15:21:11   System.ArgumentException: 列“型号”不属于表 。
+   在 System.Data.DataRow.GetDataColumn(String columnName)
+   在 System.Data.DataRow.set_Item(String columnName, Object value)
+   在 ErrorProofing.MainForm.GetPickQueue_ModelAndMaterial() 位置 D:\VSproject\ErrorProofing\MainForm.cs:行号 690
+2025/12/23 15:21:11   System.ArgumentException: 列“型号”不属于表 。
+   在 System.Data.DataRow.GetDataColumn(String columnName)
+   在 System.Data.DataRow.set_Item(String columnName, Object value)
+   在 ErrorProofing.MainForm.GetPickQueue_ModelAndMaterial() 位置 D:\VSproject\ErrorProofing\MainForm.cs:行号 690
+2025/12/23 15:21:12   System.ArgumentException: 列“型号”不属于表 。
+   在 System.Data.DataRow.GetDataColumn(String columnName)
+   在 System.Data.DataRow.set_Item(String columnName, Object value)
+   在 ErrorProofing.MainForm.GetPickQueue_ModelAndMaterial() 位置 D:\VSproject\ErrorProofing\MainForm.cs:行号 690
+2025/12/23 15:21:12   System.ArgumentException: 列“型号”不属于表 。
+   在 System.Data.DataRow.GetDataColumn(String columnName)
+   在 System.Data.DataRow.set_Item(String columnName, Object value)
+   在 ErrorProofing.MainForm.GetPickQueue_ModelAndMaterial() 位置 D:\VSproject\ErrorProofing\MainForm.cs:行号 690
+2025/12/23 15:21:12   System.ArgumentException: 列“型号”不属于表 。
+   在 System.Data.DataRow.GetDataColumn(String columnName)
+   在 System.Data.DataRow.set_Item(String columnName, Object value)
+   在 ErrorProofing.MainForm.GetPickQueue_ModelAndMaterial() 位置 D:\VSproject\ErrorProofing\MainForm.cs:行号 690
+2025/12/23 15:21:12   System.ArgumentException: 列“型号”不属于表 。
+   在 System.Data.DataRow.GetDataColumn(String columnName)
+   在 System.Data.DataRow.set_Item(String columnName, Object value)
+   在 ErrorProofing.MainForm.GetPickQueue_ModelAndMaterial() 位置 D:\VSproject\ErrorProofing\MainForm.cs:行号 690
+2025/12/23 15:21:13   System.ArgumentException: 列“型号”不属于表 。
+   在 System.Data.DataRow.GetDataColumn(String columnName)
+   在 System.Data.DataRow.set_Item(String columnName, Object value)
+   在 ErrorProofing.MainForm.GetPickQueue_ModelAndMaterial() 位置 D:\VSproject\ErrorProofing\MainForm.cs:行号 690
+2025/12/23 15:21:13   System.ArgumentException: 列“型号”不属于表 。
+   在 System.Data.DataRow.GetDataColumn(String columnName)
+   在 System.Data.DataRow.set_Item(String columnName, Object value)
+   在 ErrorProofing.MainForm.GetPickQueue_ModelAndMaterial() 位置 D:\VSproject\ErrorProofing\MainForm.cs:行号 690
+2025/12/23 15:21:13   System.ArgumentException: 列“型号”不属于表 。
+   在 System.Data.DataRow.GetDataColumn(String columnName)
+   在 System.Data.DataRow.set_Item(String columnName, Object value)
+   在 ErrorProofing.MainForm.GetPickQueue_ModelAndMaterial() 位置 D:\VSproject\ErrorProofing\MainForm.cs:行号 690
+2025/12/23 15:21:13   System.ArgumentException: 列“型号”不属于表 。
+   在 System.Data.DataRow.GetDataColumn(String columnName)
+   在 System.Data.DataRow.set_Item(String columnName, Object value)
+   在 ErrorProofing.MainForm.GetPickQueue_ModelAndMaterial() 位置 D:\VSproject\ErrorProofing\MainForm.cs:行号 690
+2025/12/23 15:21:14   System.ArgumentException: 列“型号”不属于表 。
+   在 System.Data.DataRow.GetDataColumn(String columnName)
+   在 System.Data.DataRow.set_Item(String columnName, Object value)
+   在 ErrorProofing.MainForm.GetPickQueue_ModelAndMaterial() 位置 D:\VSproject\ErrorProofing\MainForm.cs:行号 690
+2025/12/23 15:21:14   System.ArgumentException: 列“型号”不属于表 。
+   在 System.Data.DataRow.GetDataColumn(String columnName)
+   在 System.Data.DataRow.set_Item(String columnName, Object value)
+   在 ErrorProofing.MainForm.GetPickQueue_ModelAndMaterial() 位置 D:\VSproject\ErrorProofing\MainForm.cs:行号 690
+2025/12/23 15:21:14   System.ArgumentException: 列“型号”不属于表 。
+   在 System.Data.DataRow.GetDataColumn(String columnName)
+   在 System.Data.DataRow.set_Item(String columnName, Object value)
+   在 ErrorProofing.MainForm.GetPickQueue_ModelAndMaterial() 位置 D:\VSproject\ErrorProofing\MainForm.cs:行号 690
+2025/12/23 15:21:14   System.ArgumentException: 列“型号”不属于表 。
+   在 System.Data.DataRow.GetDataColumn(String columnName)
+   在 System.Data.DataRow.set_Item(String columnName, Object value)
+   在 ErrorProofing.MainForm.GetPickQueue_ModelAndMaterial() 位置 D:\VSproject\ErrorProofing\MainForm.cs:行号 690
+2025/12/23 15:21:15   System.ArgumentException: 列“型号”不属于表 。
+   在 System.Data.DataRow.GetDataColumn(String columnName)
+   在 System.Data.DataRow.set_Item(String columnName, Object value)
+   在 ErrorProofing.MainForm.GetPickQueue_ModelAndMaterial() 位置 D:\VSproject\ErrorProofing\MainForm.cs:行号 690
+2025/12/23 15:21:15   System.ArgumentException: 列“型号”不属于表 。
+   在 System.Data.DataRow.GetDataColumn(String columnName)
+   在 System.Data.DataRow.set_Item(String columnName, Object value)
+   在 ErrorProofing.MainForm.GetPickQueue_ModelAndMaterial() 位置 D:\VSproject\ErrorProofing\MainForm.cs:行号 690
+2025/12/23 15:21:15   System.ArgumentException: 列“型号”不属于表 。
+   在 System.Data.DataRow.GetDataColumn(String columnName)
+   在 System.Data.DataRow.set_Item(String columnName, Object value)
+   在 ErrorProofing.MainForm.GetPickQueue_ModelAndMaterial() 位置 D:\VSproject\ErrorProofing\MainForm.cs:行号 690
+2025/12/23 15:21:15   System.ArgumentException: 列“型号”不属于表 。
+   在 System.Data.DataRow.GetDataColumn(String columnName)
+   在 System.Data.DataRow.set_Item(String columnName, Object value)
+   在 ErrorProofing.MainForm.GetPickQueue_ModelAndMaterial() 位置 D:\VSproject\ErrorProofing\MainForm.cs:行号 690
+2025/12/23 15:21:16   System.ArgumentException: 列“型号”不属于表 。
+   在 System.Data.DataRow.GetDataColumn(String columnName)
+   在 System.Data.DataRow.set_Item(String columnName, Object value)
+   在 ErrorProofing.MainForm.GetPickQueue_ModelAndMaterial() 位置 D:\VSproject\ErrorProofing\MainForm.cs:行号 690
+2025/12/23 15:21:16   System.ArgumentException: 列“型号”不属于表 。
+   在 System.Data.DataRow.GetDataColumn(String columnName)
+   在 System.Data.DataRow.set_Item(String columnName, Object value)
+   在 ErrorProofing.MainForm.GetPickQueue_ModelAndMaterial() 位置 D:\VSproject\ErrorProofing\MainForm.cs:行号 690
+2025/12/23 15:21:16   System.ArgumentException: 列“型号”不属于表 。
+   在 System.Data.DataRow.GetDataColumn(String columnName)
+   在 System.Data.DataRow.set_Item(String columnName, Object value)
+   在 ErrorProofing.MainForm.GetPickQueue_ModelAndMaterial() 位置 D:\VSproject\ErrorProofing\MainForm.cs:行号 690
+2025/12/23 15:21:16   System.ArgumentException: 列“型号”不属于表 。
+   在 System.Data.DataRow.GetDataColumn(String columnName)
+   在 System.Data.DataRow.set_Item(String columnName, Object value)
+   在 ErrorProofing.MainForm.GetPickQueue_ModelAndMaterial() 位置 D:\VSproject\ErrorProofing\MainForm.cs:行号 690
+2025/12/23 15:21:17   System.ArgumentException: 列“型号”不属于表 。
+   在 System.Data.DataRow.GetDataColumn(String columnName)
+   在 System.Data.DataRow.set_Item(String columnName, Object value)
+   在 ErrorProofing.MainForm.GetPickQueue_ModelAndMaterial() 位置 D:\VSproject\ErrorProofing\MainForm.cs:行号 690
+2025/12/23 15:21:17   System.ArgumentException: 列“型号”不属于表 。
+   在 System.Data.DataRow.GetDataColumn(String columnName)
+   在 System.Data.DataRow.set_Item(String columnName, Object value)
+   在 ErrorProofing.MainForm.GetPickQueue_ModelAndMaterial() 位置 D:\VSproject\ErrorProofing\MainForm.cs:行号 690
+2025/12/23 15:21:17   System.ArgumentException: 列“型号”不属于表 。
+   在 System.Data.DataRow.GetDataColumn(String columnName)
+   在 System.Data.DataRow.set_Item(String columnName, Object value)
+   在 ErrorProofing.MainForm.GetPickQueue_ModelAndMaterial() 位置 D:\VSproject\ErrorProofing\MainForm.cs:行号 690
+2025/12/23 15:21:17   System.ArgumentException: 列“型号”不属于表 。
+   在 System.Data.DataRow.GetDataColumn(String columnName)
+   在 System.Data.DataRow.set_Item(String columnName, Object value)
+   在 ErrorProofing.MainForm.GetPickQueue_ModelAndMaterial() 位置 D:\VSproject\ErrorProofing\MainForm.cs:行号 690
+2025/12/23 15:21:18   System.ArgumentException: 列“型号”不属于表 。
+   在 System.Data.DataRow.GetDataColumn(String columnName)
+   在 System.Data.DataRow.set_Item(String columnName, Object value)
+   在 ErrorProofing.MainForm.GetPickQueue_ModelAndMaterial() 位置 D:\VSproject\ErrorProofing\MainForm.cs:行号 690
+2025/12/23 15:21:18   System.ArgumentException: 列“型号”不属于表 。
+   在 System.Data.DataRow.GetDataColumn(String columnName)
+   在 System.Data.DataRow.set_Item(String columnName, Object value)
+   在 ErrorProofing.MainForm.GetPickQueue_ModelAndMaterial() 位置 D:\VSproject\ErrorProofing\MainForm.cs:行号 690
+2025/12/23 15:21:18   System.ArgumentException: 列“型号”不属于表 。
+   在 System.Data.DataRow.GetDataColumn(String columnName)
+   在 System.Data.DataRow.set_Item(String columnName, Object value)
+   在 ErrorProofing.MainForm.GetPickQueue_ModelAndMaterial() 位置 D:\VSproject\ErrorProofing\MainForm.cs:行号 690
+2025/12/23 15:21:18   System.ArgumentException: 列“型号”不属于表 。
+   在 System.Data.DataRow.GetDataColumn(String columnName)
+   在 System.Data.DataRow.set_Item(String columnName, Object value)
+   在 ErrorProofing.MainForm.GetPickQueue_ModelAndMaterial() 位置 D:\VSproject\ErrorProofing\MainForm.cs:行号 690
+2025/12/23 15:21:19   System.ArgumentException: 列“型号”不属于表 。
+   在 System.Data.DataRow.GetDataColumn(String columnName)
+   在 System.Data.DataRow.set_Item(String columnName, Object value)
+   在 ErrorProofing.MainForm.GetPickQueue_ModelAndMaterial() 位置 D:\VSproject\ErrorProofing\MainForm.cs:行号 690
+2025/12/23 15:21:19   System.ArgumentException: 列“型号”不属于表 。
+   在 System.Data.DataRow.GetDataColumn(String columnName)
+   在 System.Data.DataRow.set_Item(String columnName, Object value)
+   在 ErrorProofing.MainForm.GetPickQueue_ModelAndMaterial() 位置 D:\VSproject\ErrorProofing\MainForm.cs:行号 690
+2025/12/23 15:21:19   System.ArgumentException: 列“型号”不属于表 。
+   在 System.Data.DataRow.GetDataColumn(String columnName)
+   在 System.Data.DataRow.set_Item(String columnName, Object value)
+   在 ErrorProofing.MainForm.GetPickQueue_ModelAndMaterial() 位置 D:\VSproject\ErrorProofing\MainForm.cs:行号 690
+2025/12/23 15:21:19   System.ArgumentException: 列“型号”不属于表 。
+   在 System.Data.DataRow.GetDataColumn(String columnName)
+   在 System.Data.DataRow.set_Item(String columnName, Object value)
+   在 ErrorProofing.MainForm.GetPickQueue_ModelAndMaterial() 位置 D:\VSproject\ErrorProofing\MainForm.cs:行号 690
+2025/12/23 15:21:23   系统重启，已恢复队列数量：2
+2025/12/23 15:21:24   System.ArgumentException: 列“型号”不属于表 。
+   在 System.Data.DataRow.GetDataColumn(String columnName)
+   在 System.Data.DataRow.set_Item(String columnName, Object value)
+   在 ErrorProofing.MainForm.GetPickQueue_ModelAndMaterial() 位置 D:\VSproject\ErrorProofing\MainForm.cs:行号 690
+2025/12/23 15:21:24   System.ArgumentException: 列“型号”不属于表 。
+   在 System.Data.DataRow.GetDataColumn(String columnName)
+   在 System.Data.DataRow.set_Item(String columnName, Object value)
+   在 ErrorProofing.MainForm.GetPickQueue_ModelAndMaterial() 位置 D:\VSproject\ErrorProofing\MainForm.cs:行号 690
+2025/12/23 15:21:24   System.ArgumentException: 列“型号”不属于表 。
+   在 System.Data.DataRow.GetDataColumn(String columnName)
+   在 System.Data.DataRow.set_Item(String columnName, Object value)
+   在 ErrorProofing.MainForm.GetPickQueue_ModelAndMaterial() 位置 D:\VSproject\ErrorProofing\MainForm.cs:行号 690
+2025/12/23 15:21:24   System.ArgumentException: 列“型号”不属于表 。
+   在 System.Data.DataRow.GetDataColumn(String columnName)
+   在 System.Data.DataRow.set_Item(String columnName, Object value)
+   在 ErrorProofing.MainForm.GetPickQueue_ModelAndMaterial() 位置 D:\VSproject\ErrorProofing\MainForm.cs:行号 690
+2025/12/23 15:21:25   System.ArgumentException: 列“型号”不属于表 。
+   在 System.Data.DataRow.GetDataColumn(String columnName)
+   在 System.Data.DataRow.set_Item(String columnName, Object value)
+   在 ErrorProofing.MainForm.GetPickQueue_ModelAndMaterial() 位置 D:\VSproject\ErrorProofing\MainForm.cs:行号 690
+2025/12/23 15:21:25   System.ArgumentException: 列“型号”不属于表 。
+   在 System.Data.DataRow.GetDataColumn(String columnName)
+   在 System.Data.DataRow.set_Item(String columnName, Object value)
+   在 ErrorProofing.MainForm.GetPickQueue_ModelAndMaterial() 位置 D:\VSproject\ErrorProofing\MainForm.cs:行号 690
+2025/12/23 15:21:25   System.ArgumentException: 列“型号”不属于表 。
+   在 System.Data.DataRow.GetDataColumn(String columnName)
+   在 System.Data.DataRow.set_Item(String columnName, Object value)
+   在 ErrorProofing.MainForm.GetPickQueue_ModelAndMaterial() 位置 D:\VSproject\ErrorProofing\MainForm.cs:行号 690
+2025/12/23 15:21:25   System.ArgumentException: 列“型号”不属于表 。
+   在 System.Data.DataRow.GetDataColumn(String columnName)
+   在 System.Data.DataRow.set_Item(String columnName, Object value)
+   在 ErrorProofing.MainForm.GetPickQueue_ModelAndMaterial() 位置 D:\VSproject\ErrorProofing\MainForm.cs:行号 690
+2025/12/23 15:21:26   System.ArgumentException: 列“型号”不属于表 。
+   在 System.Data.DataRow.GetDataColumn(String columnName)
+   在 System.Data.DataRow.set_Item(String columnName, Object value)
+   在 ErrorProofing.MainForm.GetPickQueue_ModelAndMaterial() 位置 D:\VSproject\ErrorProofing\MainForm.cs:行号 690
+2025/12/23 15:21:26   System.ArgumentException: 列“型号”不属于表 。
+   在 System.Data.DataRow.GetDataColumn(String columnName)
+   在 System.Data.DataRow.set_Item(String columnName, Object value)
+   在 ErrorProofing.MainForm.GetPickQueue_ModelAndMaterial() 位置 D:\VSproject\ErrorProofing\MainForm.cs:行号 690
+2025/12/23 15:21:26   System.ArgumentException: 列“型号”不属于表 。
+   在 System.Data.DataRow.GetDataColumn(String columnName)
+   在 System.Data.DataRow.set_Item(String columnName, Object value)
+   在 ErrorProofing.MainForm.GetPickQueue_ModelAndMaterial() 位置 D:\VSproject\ErrorProofing\MainForm.cs:行号 690
+2025/12/23 15:21:26   System.ArgumentException: 列“型号”不属于表 。
+   在 System.Data.DataRow.GetDataColumn(String columnName)
+   在 System.Data.DataRow.set_Item(String columnName, Object value)
+   在 ErrorProofing.MainForm.GetPickQueue_ModelAndMaterial() 位置 D:\VSproject\ErrorProofing\MainForm.cs:行号 690
+2025/12/23 15:22:14   系统重启，已恢复队列数量：2
+2025/12/23 15:22:15   System.ArgumentException: 列“型号”不属于表 。
+   在 System.Data.DataRow.GetDataColumn(String columnName)
+   在 System.Data.DataRow.set_Item(String columnName, Object value)
+   在 ErrorProofing.MainForm.GetPickQueue_ModelAndMaterial() 位置 D:\VSproject\ErrorProofing\MainForm.cs:行号 691
+2025/12/23 15:22:15   System.ArgumentException: 列“型号”不属于表 。
+   在 System.Data.DataRow.GetDataColumn(String columnName)
+   在 System.Data.DataRow.set_Item(String columnName, Object value)
+   在 ErrorProofing.MainForm.GetPickQueue_ModelAndMaterial() 位置 D:\VSproject\ErrorProofing\MainForm.cs:行号 691
+2025/12/23 15:22:15   System.ArgumentException: 列“型号”不属于表 。
+   在 System.Data.DataRow.GetDataColumn(String columnName)
+   在 System.Data.DataRow.set_Item(String columnName, Object value)
+   在 ErrorProofing.MainForm.GetPickQueue_ModelAndMaterial() 位置 D:\VSproject\ErrorProofing\MainForm.cs:行号 691
+2025/12/23 15:22:15   System.ArgumentException: 列“型号”不属于表 。
+   在 System.Data.DataRow.GetDataColumn(String columnName)
+   在 System.Data.DataRow.set_Item(String columnName, Object value)
+   在 ErrorProofing.MainForm.GetPickQueue_ModelAndMaterial() 位置 D:\VSproject\ErrorProofing\MainForm.cs:行号 691
+2025/12/23 15:22:34   系统重启，已恢复队列数量：2
+2025/12/23 15:22:35   System.ArgumentException: 列“型号”不属于表 。
+   在 System.Data.DataRow.GetDataColumn(String columnName)
+   在 System.Data.DataRow.set_Item(String columnName, Object value)
+   在 ErrorProofing.MainForm.GetPickQueue_ModelAndMaterial() 位置 D:\VSproject\ErrorProofing\MainForm.cs:行号 691
+2025/12/23 15:22:35   System.ArgumentException: 列“型号”不属于表 。
+   在 System.Data.DataRow.GetDataColumn(String columnName)
+   在 System.Data.DataRow.set_Item(String columnName, Object value)
+   在 ErrorProofing.MainForm.GetPickQueue_ModelAndMaterial() 位置 D:\VSproject\ErrorProofing\MainForm.cs:行号 691
+2025/12/23 15:22:35   System.ArgumentException: 列“型号”不属于表 。
+   在 System.Data.DataRow.GetDataColumn(String columnName)
+   在 System.Data.DataRow.set_Item(String columnName, Object value)
+   在 ErrorProofing.MainForm.GetPickQueue_ModelAndMaterial() 位置 D:\VSproject\ErrorProofing\MainForm.cs:行号 691
+2025/12/23 15:22:35   System.ArgumentException: 列“型号”不属于表 。
+   在 System.Data.DataRow.GetDataColumn(String columnName)
+   在 System.Data.DataRow.set_Item(String columnName, Object value)
+   在 ErrorProofing.MainForm.GetPickQueue_ModelAndMaterial() 位置 D:\VSproject\ErrorProofing\MainForm.cs:行号 691
+2025/12/23 15:22:36   System.ArgumentException: 列“型号”不属于表 。
+   在 System.Data.DataRow.GetDataColumn(String columnName)
+   在 System.Data.DataRow.set_Item(String columnName, Object value)
+   在 ErrorProofing.MainForm.GetPickQueue_ModelAndMaterial() 位置 D:\VSproject\ErrorProofing\MainForm.cs:行号 691
+2025/12/23 15:22:36   System.ArgumentException: 列“型号”不属于表 。
+   在 System.Data.DataRow.GetDataColumn(String columnName)
+   在 System.Data.DataRow.set_Item(String columnName, Object value)
+   在 ErrorProofing.MainForm.GetPickQueue_ModelAndMaterial() 位置 D:\VSproject\ErrorProofing\MainForm.cs:行号 691
+2025/12/23 15:22:36   System.ArgumentException: 列“型号”不属于表 。
+   在 System.Data.DataRow.GetDataColumn(String columnName)
+   在 System.Data.DataRow.set_Item(String columnName, Object value)
+   在 ErrorProofing.MainForm.GetPickQueue_ModelAndMaterial() 位置 D:\VSproject\ErrorProofing\MainForm.cs:行号 691
+2025/12/23 15:22:36   System.ArgumentException: 列“型号”不属于表 。
+   在 System.Data.DataRow.GetDataColumn(String columnName)
+   在 System.Data.DataRow.set_Item(String columnName, Object value)
+   在 ErrorProofing.MainForm.GetPickQueue_ModelAndMaterial() 位置 D:\VSproject\ErrorProofing\MainForm.cs:行号 691
+2025/12/23 15:22:37   System.ArgumentException: 列“型号”不属于表 。
+   在 System.Data.DataRow.GetDataColumn(String columnName)
+   在 System.Data.DataRow.set_Item(String columnName, Object value)
+   在 ErrorProofing.MainForm.GetPickQueue_ModelAndMaterial() 位置 D:\VSproject\ErrorProofing\MainForm.cs:行号 691
+2025/12/23 15:22:37   System.ArgumentException: 列“型号”不属于表 。
+   在 System.Data.DataRow.GetDataColumn(String columnName)
+   在 System.Data.DataRow.set_Item(String columnName, Object value)
+   在 ErrorProofing.MainForm.GetPickQueue_ModelAndMaterial() 位置 D:\VSproject\ErrorProofing\MainForm.cs:行号 691
+2025/12/23 15:22:37   System.ArgumentException: 列“型号”不属于表 。
+   在 System.Data.DataRow.GetDataColumn(String columnName)
+   在 System.Data.DataRow.set_Item(String columnName, Object value)
+   在 ErrorProofing.MainForm.GetPickQueue_ModelAndMaterial() 位置 D:\VSproject\ErrorProofing\MainForm.cs:行号 691
+2025/12/23 15:22:37   System.ArgumentException: 列“型号”不属于表 。
+   在 System.Data.DataRow.GetDataColumn(String columnName)
+   在 System.Data.DataRow.set_Item(String columnName, Object value)
+   在 ErrorProofing.MainForm.GetPickQueue_ModelAndMaterial() 位置 D:\VSproject\ErrorProofing\MainForm.cs:行号 691
+2025/12/23 15:23:13   系统重启，已恢复队列数量：2
+2025/12/23 15:23:32   系统重启，已恢复队列数量：2

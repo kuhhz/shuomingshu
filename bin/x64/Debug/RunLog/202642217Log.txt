@@ -1,0 +1,124 @@
+2026/4/22 17:16:15   PLC_1 Ping失败
+2026/4/22 17:16:15   System.Data.SqlTypes.SqlNullValueException: 数据为空。不能对 Null 值调用此方法或属性。
+   在 System.Data.SqlClient.SqlBuffer.get_Int32()
+   在 ErrorProofing.MainForm.GetAllHistoryCount() 位置 C:\Users\12717\Desktop\ErrorProofing（并发弹出版）\MainForm.cs:行号 671
+   在 ErrorProofing.MainForm.datagridviewbutton() 位置 C:\Users\12717\Desktop\ErrorProofing（并发弹出版）\MainForm.cs:行号 3040
+2026/4/22 17:16:15   System.Data.SqlTypes.SqlNullValueException: 数据为空。不能对 Null 值调用此方法或属性。
+   在 System.Data.SqlClient.SqlBuffer.get_Int32()
+   在 ErrorProofing.MainForm.GetAllHistoryCount() 位置 C:\Users\12717\Desktop\ErrorProofing（并发弹出版）\MainForm.cs:行号 671
+   在 ErrorProofing.MainForm.datagridviewbutton3() 位置 C:\Users\12717\Desktop\ErrorProofing（并发弹出版）\MainForm.cs:行号 3101
+2026/4/22 17:16:36   检测端读码器连接失败：System.Net.Sockets.SocketException (0x80004005): 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。 192.168.2.60:51236
+   在 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   在 ErrorProofing.MainForm.ConnectCheckIDReader() 位置 C:\Users\12717\Desktop\ErrorProofing（并发弹出版）\MainForm.cs:行号 1371
+2026/4/22 17:16:36   系统重启完成，恢复待处理批次数：0
+2026/4/22 17:16:36   System.Data.SqlTypes.SqlNullValueException: 数据为空。不能对 Null 值调用此方法或属性。
+   在 System.Data.SqlClient.SqlBuffer.get_Int32()
+   在 ErrorProofing.MainForm.GetAllHistoryCount() 位置 C:\Users\12717\Desktop\ErrorProofing（并发弹出版）\MainForm.cs:行号 671
+   在 ErrorProofing.MainForm.<timer_RefreshGrid_Tick>b__144_0() 位置 C:\Users\12717\Desktop\ErrorProofing（并发弹出版）\MainForm.cs:行号 2875
+2026/4/22 17:16:39   System.Data.SqlTypes.SqlNullValueException: 数据为空。不能对 Null 值调用此方法或属性。
+   在 System.Data.SqlClient.SqlBuffer.get_Int32()
+   在 ErrorProofing.MainForm.GetAllHistoryCount() 位置 C:\Users\12717\Desktop\ErrorProofing（并发弹出版）\MainForm.cs:行号 671
+   在 ErrorProofing.MainForm.<timer_RefreshGrid_Tick>b__144_0() 位置 C:\Users\12717\Desktop\ErrorProofing（并发弹出版）\MainForm.cs:行号 2875
+2026/4/22 17:16:42   System.Data.SqlTypes.SqlNullValueException: 数据为空。不能对 Null 值调用此方法或属性。
+   在 System.Data.SqlClient.SqlBuffer.get_Int32()
+   在 ErrorProofing.MainForm.GetAllHistoryCount() 位置 C:\Users\12717\Desktop\ErrorProofing（并发弹出版）\MainForm.cs:行号 671
+   在 ErrorProofing.MainForm.<timer_RefreshGrid_Tick>b__144_0() 位置 C:\Users\12717\Desktop\ErrorProofing（并发弹出版）\MainForm.cs:行号 2875
+2026/4/22 17:16:45   System.Data.SqlTypes.SqlNullValueException: 数据为空。不能对 Null 值调用此方法或属性。
+   在 System.Data.SqlClient.SqlBuffer.get_Int32()
+   在 ErrorProofing.MainForm.GetAllHistoryCount() 位置 C:\Users\12717\Desktop\ErrorProofing（并发弹出版）\MainForm.cs:行号 671
+   在 ErrorProofing.MainForm.<timer_RefreshGrid_Tick>b__144_0() 位置 C:\Users\12717\Desktop\ErrorProofing（并发弹出版）\MainForm.cs:行号 2875
+2026/4/22 17:16:48   System.Data.SqlTypes.SqlNullValueException: 数据为空。不能对 Null 值调用此方法或属性。
+   在 System.Data.SqlClient.SqlBuffer.get_Int32()
+   在 ErrorProofing.MainForm.GetAllHistoryCount() 位置 C:\Users\12717\Desktop\ErrorProofing（并发弹出版）\MainForm.cs:行号 671
+   在 ErrorProofing.MainForm.<timer_RefreshGrid_Tick>b__144_0() 位置 C:\Users\12717\Desktop\ErrorProofing（并发弹出版）\MainForm.cs:行号 2875
+2026/4/22 17:16:48   System.Data.SqlTypes.SqlNullValueException: 数据为空。不能对 Null 值调用此方法或属性。
+   在 System.Data.SqlClient.SqlBuffer.get_Int32()
+   在 ErrorProofing.MainForm.GetAllHistoryCount() 位置 C:\Users\12717\Desktop\ErrorProofing（并发弹出版）\MainForm.cs:行号 671
+   在 ErrorProofing.MainForm.datagridviewbutton() 位置 C:\Users\12717\Desktop\ErrorProofing（并发弹出版）\MainForm.cs:行号 3040
+2026/4/22 17:16:48   System.Data.SqlTypes.SqlNullValueException: 数据为空。不能对 Null 值调用此方法或属性。
+   在 System.Data.SqlClient.SqlBuffer.get_Int32()
+   在 ErrorProofing.MainForm.GetAllHistoryCount() 位置 C:\Users\12717\Desktop\ErrorProofing（并发弹出版）\MainForm.cs:行号 671
+   在 ErrorProofing.MainForm.datagridviewbutton3() 位置 C:\Users\12717\Desktop\ErrorProofing（并发弹出版）\MainForm.cs:行号 3101
+2026/4/22 17:16:51   System.Data.SqlTypes.SqlNullValueException: 数据为空。不能对 Null 值调用此方法或属性。
+   在 System.Data.SqlClient.SqlBuffer.get_Int32()
+   在 ErrorProofing.MainForm.GetAllHistoryCount() 位置 C:\Users\12717\Desktop\ErrorProofing（并发弹出版）\MainForm.cs:行号 671
+   在 ErrorProofing.MainForm.<timer_RefreshGrid_Tick>b__144_0() 位置 C:\Users\12717\Desktop\ErrorProofing（并发弹出版）\MainForm.cs:行号 2875
+2026/4/22 17:16:54   System.Data.SqlTypes.SqlNullValueException: 数据为空。不能对 Null 值调用此方法或属性。
+   在 System.Data.SqlClient.SqlBuffer.get_Int32()
+   在 ErrorProofing.MainForm.GetAllHistoryCount() 位置 C:\Users\12717\Desktop\ErrorProofing（并发弹出版）\MainForm.cs:行号 671
+   在 ErrorProofing.MainForm.<timer_RefreshGrid_Tick>b__144_0() 位置 C:\Users\12717\Desktop\ErrorProofing（并发弹出版）\MainForm.cs:行号 2875
+2026/4/22 17:16:57   System.Data.SqlTypes.SqlNullValueException: 数据为空。不能对 Null 值调用此方法或属性。
+   在 System.Data.SqlClient.SqlBuffer.get_Int32()
+   在 ErrorProofing.MainForm.GetAllHistoryCount() 位置 C:\Users\12717\Desktop\ErrorProofing（并发弹出版）\MainForm.cs:行号 671
+   在 ErrorProofing.MainForm.<timer_RefreshGrid_Tick>b__144_0() 位置 C:\Users\12717\Desktop\ErrorProofing（并发弹出版）\MainForm.cs:行号 2875
+2026/4/22 17:17:00   System.Data.SqlTypes.SqlNullValueException: 数据为空。不能对 Null 值调用此方法或属性。
+   在 System.Data.SqlClient.SqlBuffer.get_Int32()
+   在 ErrorProofing.MainForm.GetAllHistoryCount() 位置 C:\Users\12717\Desktop\ErrorProofing（并发弹出版）\MainForm.cs:行号 671
+   在 ErrorProofing.MainForm.<timer_RefreshGrid_Tick>b__144_0() 位置 C:\Users\12717\Desktop\ErrorProofing（并发弹出版）\MainForm.cs:行号 2875
+2026/4/22 17:17:03   System.Data.SqlTypes.SqlNullValueException: 数据为空。不能对 Null 值调用此方法或属性。
+   在 System.Data.SqlClient.SqlBuffer.get_Int32()
+   在 ErrorProofing.MainForm.GetAllHistoryCount() 位置 C:\Users\12717\Desktop\ErrorProofing（并发弹出版）\MainForm.cs:行号 671
+   在 ErrorProofing.MainForm.<timer_RefreshGrid_Tick>b__144_0() 位置 C:\Users\12717\Desktop\ErrorProofing（并发弹出版）\MainForm.cs:行号 2875
+2026/4/22 17:17:06   System.Data.SqlTypes.SqlNullValueException: 数据为空。不能对 Null 值调用此方法或属性。
+   在 System.Data.SqlClient.SqlBuffer.get_Int32()
+   在 ErrorProofing.MainForm.GetAllHistoryCount() 位置 C:\Users\12717\Desktop\ErrorProofing（并发弹出版）\MainForm.cs:行号 671
+   在 ErrorProofing.MainForm.<timer_RefreshGrid_Tick>b__144_0() 位置 C:\Users\12717\Desktop\ErrorProofing（并发弹出版）\MainForm.cs:行号 2875
+2026/4/22 17:17:09   System.Data.SqlTypes.SqlNullValueException: 数据为空。不能对 Null 值调用此方法或属性。
+   在 System.Data.SqlClient.SqlBuffer.get_Int32()
+   在 ErrorProofing.MainForm.GetAllHistoryCount() 位置 C:\Users\12717\Desktop\ErrorProofing（并发弹出版）\MainForm.cs:行号 671
+   在 ErrorProofing.MainForm.<timer_RefreshGrid_Tick>b__144_0() 位置 C:\Users\12717\Desktop\ErrorProofing（并发弹出版）\MainForm.cs:行号 2875
+2026/4/22 17:17:12   System.Data.SqlTypes.SqlNullValueException: 数据为空。不能对 Null 值调用此方法或属性。
+   在 System.Data.SqlClient.SqlBuffer.get_Int32()
+   在 ErrorProofing.MainForm.GetAllHistoryCount() 位置 C:\Users\12717\Desktop\ErrorProofing（并发弹出版）\MainForm.cs:行号 671
+   在 ErrorProofing.MainForm.<timer_RefreshGrid_Tick>b__144_0() 位置 C:\Users\12717\Desktop\ErrorProofing（并发弹出版）\MainForm.cs:行号 2875
+2026/4/22 17:17:15   System.Data.SqlTypes.SqlNullValueException: 数据为空。不能对 Null 值调用此方法或属性。
+   在 System.Data.SqlClient.SqlBuffer.get_Int32()
+   在 ErrorProofing.MainForm.GetAllHistoryCount() 位置 C:\Users\12717\Desktop\ErrorProofing（并发弹出版）\MainForm.cs:行号 671
+   在 ErrorProofing.MainForm.<timer_RefreshGrid_Tick>b__144_0() 位置 C:\Users\12717\Desktop\ErrorProofing（并发弹出版）\MainForm.cs:行号 2875
+2026/4/22 17:17:18   System.Data.SqlTypes.SqlNullValueException: 数据为空。不能对 Null 值调用此方法或属性。
+   在 System.Data.SqlClient.SqlBuffer.get_Int32()
+   在 ErrorProofing.MainForm.GetAllHistoryCount() 位置 C:\Users\12717\Desktop\ErrorProofing（并发弹出版）\MainForm.cs:行号 671
+   在 ErrorProofing.MainForm.<timer_RefreshGrid_Tick>b__144_0() 位置 C:\Users\12717\Desktop\ErrorProofing（并发弹出版）\MainForm.cs:行号 2875
+2026/4/22 17:17:21   System.Data.SqlTypes.SqlNullValueException: 数据为空。不能对 Null 值调用此方法或属性。
+   在 System.Data.SqlClient.SqlBuffer.get_Int32()
+   在 ErrorProofing.MainForm.GetAllHistoryCount() 位置 C:\Users\12717\Desktop\ErrorProofing（并发弹出版）\MainForm.cs:行号 671
+   在 ErrorProofing.MainForm.<timer_RefreshGrid_Tick>b__144_0() 位置 C:\Users\12717\Desktop\ErrorProofing（并发弹出版）\MainForm.cs:行号 2875
+2026/4/22 17:17:24   System.Data.SqlTypes.SqlNullValueException: 数据为空。不能对 Null 值调用此方法或属性。
+   在 System.Data.SqlClient.SqlBuffer.get_Int32()
+   在 ErrorProofing.MainForm.GetAllHistoryCount() 位置 C:\Users\12717\Desktop\ErrorProofing（并发弹出版）\MainForm.cs:行号 671
+   在 ErrorProofing.MainForm.<timer_RefreshGrid_Tick>b__144_0() 位置 C:\Users\12717\Desktop\ErrorProofing（并发弹出版）\MainForm.cs:行号 2875
+2026/4/22 17:17:27   System.Data.SqlTypes.SqlNullValueException: 数据为空。不能对 Null 值调用此方法或属性。
+   在 System.Data.SqlClient.SqlBuffer.get_Int32()
+   在 ErrorProofing.MainForm.GetAllHistoryCount() 位置 C:\Users\12717\Desktop\ErrorProofing（并发弹出版）\MainForm.cs:行号 671
+   在 ErrorProofing.MainForm.<timer_RefreshGrid_Tick>b__144_0() 位置 C:\Users\12717\Desktop\ErrorProofing（并发弹出版）\MainForm.cs:行号 2875
+2026/4/22 17:17:30   System.Data.SqlTypes.SqlNullValueException: 数据为空。不能对 Null 值调用此方法或属性。
+   在 System.Data.SqlClient.SqlBuffer.get_Int32()
+   在 ErrorProofing.MainForm.GetAllHistoryCount() 位置 C:\Users\12717\Desktop\ErrorProofing（并发弹出版）\MainForm.cs:行号 671
+   在 ErrorProofing.MainForm.<timer_RefreshGrid_Tick>b__144_0() 位置 C:\Users\12717\Desktop\ErrorProofing（并发弹出版）\MainForm.cs:行号 2875
+2026/4/22 17:19:43   PLC_1 Ping失败
+2026/4/22 17:19:43   System.Data.SqlTypes.SqlNullValueException: 数据为空。不能对 Null 值调用此方法或属性。
+   在 System.Data.SqlClient.SqlBuffer.get_Int32()
+   在 ErrorProofing.MainForm.GetAllHistoryCount() 位置 C:\Users\12717\Desktop\ErrorProofing（并发弹出版）\MainForm.cs:行号 671
+   在 ErrorProofing.MainForm.datagridviewbutton() 位置 C:\Users\12717\Desktop\ErrorProofing（并发弹出版）\MainForm.cs:行号 3044
+2026/4/22 17:19:43   System.Data.SqlTypes.SqlNullValueException: 数据为空。不能对 Null 值调用此方法或属性。
+   在 System.Data.SqlClient.SqlBuffer.get_Int32()
+   在 ErrorProofing.MainForm.GetAllHistoryCount() 位置 C:\Users\12717\Desktop\ErrorProofing（并发弹出版）\MainForm.cs:行号 671
+   在 ErrorProofing.MainForm.datagridviewbutton3() 位置 C:\Users\12717\Desktop\ErrorProofing（并发弹出版）\MainForm.cs:行号 3109
+2026/4/22 17:20:04   检测端读码器连接失败：System.Net.Sockets.SocketException (0x80004005): 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。 192.168.2.60:51236
+   在 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   在 ErrorProofing.MainForm.ConnectCheckIDReader() 位置 C:\Users\12717\Desktop\ErrorProofing（并发弹出版）\MainForm.cs:行号 1371
+2026/4/22 17:20:04   系统重启完成，恢复待处理批次数：0
+2026/4/22 17:20:04   System.Data.SqlTypes.SqlNullValueException: 数据为空。不能对 Null 值调用此方法或属性。
+   在 System.Data.SqlClient.SqlBuffer.get_Int32()
+   在 ErrorProofing.MainForm.GetAllHistoryCount() 位置 C:\Users\12717\Desktop\ErrorProofing（并发弹出版）\MainForm.cs:行号 671
+   在 ErrorProofing.MainForm.<timer_RefreshGrid_Tick>b__144_0() 位置 C:\Users\12717\Desktop\ErrorProofing（并发弹出版）\MainForm.cs:行号 2875
+2026/4/22 17:20:07   System.Data.SqlTypes.SqlNullValueException: 数据为空。不能对 Null 值调用此方法或属性。
+   在 System.Data.SqlClient.SqlBuffer.get_Int32()
+   在 ErrorProofing.MainForm.GetAllHistoryCount() 位置 C:\Users\12717\Desktop\ErrorProofing（并发弹出版）\MainForm.cs:行号 671
+   在 ErrorProofing.MainForm.<timer_RefreshGrid_Tick>b__144_0() 位置 C:\Users\12717\Desktop\ErrorProofing（并发弹出版）\MainForm.cs:行号 2875
+2026/4/22 17:20:10   System.Data.SqlTypes.SqlNullValueException: 数据为空。不能对 Null 值调用此方法或属性。
+   在 System.Data.SqlClient.SqlBuffer.get_Int32()
+   在 ErrorProofing.MainForm.GetAllHistoryCount() 位置 C:\Users\12717\Desktop\ErrorProofing（并发弹出版）\MainForm.cs:行号 671
+   在 ErrorProofing.MainForm.<timer_RefreshGrid_Tick>b__144_0() 位置 C:\Users\12717\Desktop\ErrorProofing（并发弹出版）\MainForm.cs:行号 2875

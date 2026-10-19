@@ -1,0 +1,159 @@
+2026/5/25 14:00:10   写入PLC：M32
+2026/5/25 14:00:29   写入PLC：M32
+2026/5/25 14:00:47   写入PLC：M32
+2026/5/25 14:01:04   写入PLC：M32
+2026/5/25 14:01:07   System.InvalidOperationException: 超时时间已到。超时时间已到，但是尚未从池中获取连接。出现这种情况可能是因为所有池连接均在使用，并且达到了最大池大小。
+   在 System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   在 System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   在 System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   在 System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 ErrorProofing.MainForm.PLCAddressPose(Int32 _x, Int32 _y, Int32& _cellID) 位置 C:\Users\12717\Desktop\ErrorProofing（并发弹出版）\MainForm.cs:行号 793
+2026/5/25 14:01:35   PLC_1连接成功
+2026/5/25 14:01:35   系统重启完成，恢复待处理批次数：0
+2026/5/25 14:01:42   写入PLC：M32
+2026/5/25 14:02:12   写入PLC：M32
+2026/5/25 14:02:18   写入PLC：M32
+2026/5/25 14:02:23   写入PLC：M32
+2026/5/25 14:02:29   写入PLC：M33
+2026/5/25 14:02:32   写入PLC：M33
+2026/5/25 14:05:14   PLC_1连接成功
+2026/5/25 14:05:15   系统重启完成，恢复待处理批次数：0
+2026/5/25 14:05:19   写入PLC：M34
+2026/5/25 14:05:22   写入PLC：M34
+2026/5/25 14:05:30   写入PLC：M34
+2026/5/25 14:05:33   写入PLC：M34
+2026/5/25 14:05:49   写入PLC：M35
+2026/5/25 14:05:52   写入PLC：M35
+2026/5/25 14:06:05   写入PLC：M36
+2026/5/25 14:06:05   写入PLC：M36
+2026/5/25 14:06:07   写入PLC：M36
+2026/5/25 14:06:10   写入PLC：M36
+2026/5/25 14:06:11   写入PLC：M35
+2026/5/25 14:06:14   写入PLC：M35
+2026/5/25 14:06:18   System.InvalidOperationException: 超时时间已到。超时时间已到，但是尚未从池中获取连接。出现这种情况可能是因为所有池连接均在使用，并且达到了最大池大小。
+   在 System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   在 System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   在 System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   在 System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 ErrorProofing.MainForm.GetAllHistoryCount() 位置 C:\Users\12717\Desktop\ErrorProofing（并发弹出版）\MainForm.cs:行号 945
+   在 ErrorProofing.MainForm.<timer_RefreshGrid_Tick>b__165_0() 位置 C:\Users\12717\Desktop\ErrorProofing（并发弹出版）\MainForm.cs:行号 3464
+2026/5/25 14:06:18   System.InvalidOperationException: 超时时间已到。超时时间已到，但是尚未从池中获取连接。出现这种情况可能是因为所有池连接均在使用，并且达到了最大池大小。
+   在 System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   在 System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   在 System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   在 System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 ErrorProofing.MainForm.GetPickQueue_ModelAndMaterial() 位置 C:\Users\12717\Desktop\ErrorProofing（并发弹出版）\MainForm.cs:行号 855
+   在 ErrorProofing.MainForm.<RefreshQueueGrid_Async>b__167_0() 位置 C:\Users\12717\Desktop\ErrorProofing（并发弹出版）\MainForm.cs:行号 3551
+2026/5/25 14:06:22   System.InvalidOperationException: 超时时间已到。超时时间已到，但是尚未从池中获取连接。出现这种情况可能是因为所有池连接均在使用，并且达到了最大池大小。
+   在 System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   在 System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   在 System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   在 System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 ErrorProofing.MainForm.PLCAddressPose(Int32 _x, Int32 _y, Int32& _cellID) 位置 C:\Users\12717\Desktop\ErrorProofing（并发弹出版）\MainForm.cs:行号 793
+2026/5/25 14:06:25   System.InvalidOperationException: 超时时间已到。超时时间已到，但是尚未从池中获取连接。出现这种情况可能是因为所有池连接均在使用，并且达到了最大池大小。
+   在 System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   在 System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   在 System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   在 System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 ErrorProofing.MainForm.PLCAddressPose(Int32 _x, Int32 _y, Int32& _cellID) 位置 C:\Users\12717\Desktop\ErrorProofing（并发弹出版）\MainForm.cs:行号 793
+2026/5/25 14:06:25   检测到PLC断开，准备重连...
+2026/5/25 14:06:25   尝试重连PLC...
+2026/5/25 14:06:27   PLC重连失败：连接 192.168.2.10:6688 失败，超时时间为 2000 ms
+2026/5/25 14:06:28   System.InvalidOperationException: 超时时间已到。超时时间已到，但是尚未从池中获取连接。出现这种情况可能是因为所有池连接均在使用，并且达到了最大池大小。
+   在 System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   在 System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   在 System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   在 System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 ErrorProofing.MainForm.GetAllHistoryCount() 位置 C:\Users\12717\Desktop\ErrorProofing（并发弹出版）\MainForm.cs:行号 945
+   在 ErrorProofing.MainForm.<timer_RefreshGrid_Tick>b__165_0() 位置 C:\Users\12717\Desktop\ErrorProofing（并发弹出版）\MainForm.cs:行号 3464
+2026/5/25 14:06:28   System.InvalidOperationException: 超时时间已到。超时时间已到，但是尚未从池中获取连接。出现这种情况可能是因为所有池连接均在使用，并且达到了最大池大小。
+   在 System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   在 System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   在 System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   在 System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 ErrorProofing.MainForm.GetPickQueue_ModelAndMaterial() 位置 C:\Users\12717\Desktop\ErrorProofing（并发弹出版）\MainForm.cs:行号 855
+   在 ErrorProofing.MainForm.<RefreshQueueGrid_Async>b__167_0() 位置 C:\Users\12717\Desktop\ErrorProofing（并发弹出版）\MainForm.cs:行号 3551
+2026/5/25 14:06:30   检测到PLC断开，准备重连...
+2026/5/25 14:06:32   尝试重连PLC...
+2026/5/25 14:06:35   PLC重连失败：连接 192.168.2.10:6688 失败，超时时间为 2000 ms
+2026/5/25 14:06:41   PLC_1连接成功
+2026/5/25 14:06:41   系统重启完成，恢复待处理批次数：0
+2026/5/25 14:06:46   写入PLC：M36
+2026/5/25 14:06:50   写入PLC：M36
+2026/5/25 14:06:53   写入PLC：M37
+2026/5/25 14:06:56   写入PLC：M37
+2026/5/25 14:07:08   写入PLC：M37
+2026/5/25 14:07:11   写入PLC：M37
+2026/5/25 14:07:14   写入PLC：M38
+2026/5/25 14:07:17   写入PLC：M38
+2026/5/25 14:07:27   写入PLC：M38
+2026/5/25 14:07:30   写入PLC：M38
+2026/5/25 14:07:36   写入PLC：M38
+2026/5/25 14:07:39   写入PLC：M38
+2026/5/25 14:07:42   System.InvalidOperationException: 超时时间已到。超时时间已到，但是尚未从池中获取连接。出现这种情况可能是因为所有池连接均在使用，并且达到了最大池大小。
+   在 System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   在 System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   在 System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   在 System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 ErrorProofing.MainForm.PLCAddressPose(Int32 _x, Int32 _y, Int32& _cellID) 位置 C:\Users\12717\Desktop\ErrorProofing（并发弹出版）\MainForm.cs:行号 793
+2026/5/25 14:07:45   System.InvalidOperationException: 超时时间已到。超时时间已到，但是尚未从池中获取连接。出现这种情况可能是因为所有池连接均在使用，并且达到了最大池大小。
+   在 System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   在 System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   在 System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   在 System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 ErrorProofing.MainForm.PLCAddressPose(Int32 _x, Int32 _y, Int32& _cellID) 位置 C:\Users\12717\Desktop\ErrorProofing（并发弹出版）\MainForm.cs:行号 793
+2026/5/25 14:07:48   System.InvalidOperationException: 超时时间已到。超时时间已到，但是尚未从池中获取连接。出现这种情况可能是因为所有池连接均在使用，并且达到了最大池大小。
+   在 System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   在 System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   在 System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   在 System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 ErrorProofing.MainForm.PLCAddressPose(Int32 _x, Int32 _y, Int32& _cellID) 位置 C:\Users\12717\Desktop\ErrorProofing（并发弹出版）\MainForm.cs:行号 793
+2026/5/25 14:07:51   System.InvalidOperationException: 超时时间已到。超时时间已到，但是尚未从池中获取连接。出现这种情况可能是因为所有池连接均在使用，并且达到了最大池大小。
+   在 System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   在 System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   在 System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   在 System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 ErrorProofing.MainForm.PLCAddressPose(Int32 _x, Int32 _y, Int32& _cellID) 位置 C:\Users\12717\Desktop\ErrorProofing（并发弹出版）\MainForm.cs:行号 793
+2026/5/25 14:07:54   System.InvalidOperationException: 超时时间已到。超时时间已到，但是尚未从池中获取连接。出现这种情况可能是因为所有池连接均在使用，并且达到了最大池大小。
+   在 System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   在 System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   在 System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   在 System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 ErrorProofing.MainForm.PLCAddressPose(Int32 _x, Int32 _y, Int32& _cellID) 位置 C:\Users\12717\Desktop\ErrorProofing（并发弹出版）\MainForm.cs:行号 793
+2026/5/25 14:07:57   System.InvalidOperationException: 超时时间已到。超时时间已到，但是尚未从池中获取连接。出现这种情况可能是因为所有池连接均在使用，并且达到了最大池大小。
+   在 System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   在 System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   在 System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   在 System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 ErrorProofing.MainForm.PLCAddressPose(Int32 _x, Int32 _y, Int32& _cellID) 位置 C:\Users\12717\Desktop\ErrorProofing（并发弹出版）\MainForm.cs:行号 793
+2026/5/25 14:08:00   System.InvalidOperationException: 超时时间已到。超时时间已到，但是尚未从池中获取连接。出现这种情况可能是因为所有池连接均在使用，并且达到了最大池大小。
+   在 System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   在 System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   在 System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   在 System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 ErrorProofing.MainForm.PLCAddressPose(Int32 _x, Int32 _y, Int32& _cellID) 位置 C:\Users\12717\Desktop\ErrorProofing（并发弹出版）\MainForm.cs:行号 793
+2026/5/25 14:08:00   写入PLC：M39
+2026/5/25 14:08:04   写入PLC：M39
+2026/5/25 14:08:08   写入PLC：M39
+2026/5/25 14:08:11   写入PLC：M39
+2026/5/25 14:08:18   System.InvalidOperationException: 超时时间已到。超时时间已到，但是尚未从池中获取连接。出现这种情况可能是因为所有池连接均在使用，并且达到了最大池大小。
+   在 System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   在 System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   在 System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   在 System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 ErrorProofing.MainForm.GetMaterialPose(Int32 _x, Int32 _y, String& _materialID, Int32& _n) 位置 C:\Users\12717\Desktop\ErrorProofing（并发弹出版）\MainForm.cs:行号 521
